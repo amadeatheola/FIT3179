@@ -1,0 +1,34 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "US States Map (Albers Projection)",
+  "width": 800,
+  "height": 400,
+  "projection": {"type": "albersUsa"},
+  "data": {
+    "url": "data/states-albers-10m.topojson",
+    "format": {
+      "type": "topojson",
+      "feature": "states"
+    }
+  },
+    "transform": [
+    {
+      "lookup": "properties.name",
+      "from": {
+        "data": {
+          "url": "data/LakeCounty_Health_-6177935595181947989.csv"
+        },
+        "key": "NAME",
+        "fields": ["Obesity"]
+      }
+    }
+  ],
+  "mark": {
+    "type": "geoshape",
+    "stroke": "white",
+    "fill": "#87cefa"
+  },
+  "encoding": {
+    "tooltip": {"field": "properties.name", "type": "nominal", "title": "state"}
+  }
+}
