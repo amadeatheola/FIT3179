@@ -1,0 +1,76 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "Rice Consumption Per Capita (2022)",
+  "width": 800,
+  "height": 400,
+  "data": {
+    "url": "https://raw.githubusercontent.com/amadeatheola/FIT3179/main/week9_homework/js/ne_110m_admin_0_countries.topojson",
+    "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
+  },
+  "projection": {"type": "equalEarth"},
+  "layer": [
+    {
+      "transform": [
+        {
+          "calculate": "'Data is not available in ' + datum.properties.NAME",
+          "as": "note"
+        }
+      ],
+      "mark": {"type": "geoshape", "fill": "lightgray", "stroke": "white"},
+      "encoding": {"tooltip": {"field": "note"}}
+    },
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/amadeatheola/FIT3179/main/week9_homework/js/oceans.topojson",
+        "format": {"type": "topojson", "feature": "oceans"}
+      },
+      "mark": {"type": "geoshape", "fill": "skyblue"}
+    },
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/amadeatheola/FIT3179/main/week9_homework/js/WorldMapWithGraticules.topojson",
+        "format": {"type": "topojson", "feature": "ne_110m_graticules_30"}
+      },
+      "mark": {"type": "geoshape", "fill": null, "stroke": "lightgray"}
+    },
+    {
+          "transform": [
+            {
+              "lookup": "properties.NAME",
+              "from": {
+                "data": {
+                  "url": "https://raw.githubusercontent.com/amadeatheola/FIT3179/main/week9_homework/data/rice-consumption-by-country-2025.csv"
+                },
+                "key": "country",
+                "fields": ["RiceConsumptionPerCapitaCountries_2022"]
+              }
+            }
+          ],
+          "mark": { "type": "geoshape", "stroke": "white" },
+          "encoding": {
+            "color": {
+              "field": "RiceConsumptionPerCapitaCountries_2022",
+              "type": "quantitative",
+              "scale": {
+                "type": "threshold",
+                "domain": [10, 50, 100, 150, 200, 300],
+                "range": [
+                  "#f2f0f7",
+                  "#dadaeb",
+                  "#bcbddc",
+                  "#9e9ac8",
+                  "#807dba",
+                  "#6a51a3",
+                  "#4a1486"
+                ]
+              },
+              "legend": { "title": "Kg per capita" }
+            },
+            "tooltip": [
+              { "field": "properties.NAME", "type": "nominal", "title": "Country" },
+              { "field": "RiceConsumptionPerCapitaCountries_2022", "type": "quantitative", "title": "Rice Consumption (kg per capita)" }
+            ]
+          }
+        }
+  ]
+}
