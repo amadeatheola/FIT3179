@@ -1,0 +1,26 @@
+{
+  "$schema": "https://vega.github.io/schema/vega/v5.json",
+  "width": 700,
+  "height": 500,
+  "data": [{ "name": "table", "values": "data" }],
+  "marks": [
+    {
+      "type": "text",
+      "from": { "data": "data/best_rice_world_ranking.csv" },
+      "encode": {
+        "enter": {
+          "text": { "field": "Name" },
+          "align": { "value": "center" },
+          "baseline": { "value": "alphabetic" },
+          "fill": { "value": "#5B8FF9" }
+        },
+        "update": {
+          "fontSize": { "signal": "8 + (42 - datum.Rank)" },
+          "x": { "signal": "random() * 700" },
+          "y": { "signal": "random() * 500" },
+          "fillOpacity": { "value": 0.8 }
+        }
+      }
+    }
+  ]
+}
