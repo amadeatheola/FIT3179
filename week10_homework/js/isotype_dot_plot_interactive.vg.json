@@ -1,0 +1,107 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {
+    "url": "https://raw.githubusercontent.com/amadeatheola/FIT3179/main/week10_homework/data/rice-consumption-portion-ASEAN.json"
+  },
+  "width": 600,
+  "height": 40,
+
+  "params" : [
+    {
+        "name": "year_selection",
+        "bind": {
+            "input": "select",
+            "options": [
+                null,
+                2015,
+                2016,
+                2017,
+                2018,
+                2019,
+                2020,
+                2021,
+                2022
+            ],
+            "labels": [
+
+            ]
+        }
+    },
+    {
+      "name": "country_selection",
+      "bind": {
+        "input": "select",
+        "options": [
+          null,
+          "Cambodia",
+          "Indonesia",
+          "Laos",
+          "Malaysia",
+          "Myanmar",
+          "Phillipines",
+          "Thailand",
+          "Timor-Leste",
+          "Vietnam"
+        ],
+        "labels": [
+          "Show All",
+          "Cambodia",
+          "Indonesia",
+          "Laos",
+          "Malaysia",
+          "Myanmar",
+          "Phillipines",
+          "Thailand",
+          "Timor-Leste",
+          "Vietnam"
+        ],
+        "name": "Select Country: "
+      }
+    }
+  ],
+  "transform": [
+    {
+      "filter": "country_selection == null || datum.country == country_selection"
+    }
+  ],
+  "mark": { "type": "point", "filled": true },
+
+  "encoding": {
+    "x": { "field": "col", "type": "ordinal", "axis": null },
+    "y": { "value": 0 },
+
+    "row": {
+      "field": "country",
+      "type": "nominal",
+      "header": {
+        "labelFontSize": 14,
+        "labelOrient": "top", 
+        "title": "Rice consumption portions per person per day in South East Asia Region",
+        "titleFontSize": 18,
+        "titlePadding": 15,
+        "titleOrient": "top",
+        "titleAnchor": "start"
+      }
+    },
+
+    "shape": {
+      "field": "food",
+      "type": "nominal",
+      "scale": {
+        "domain": ["rice"],
+        "range": [
+          "M 22.2 -1.9 c -0.3 -0.2 -0.8 -0.1 -1.1 0.2 l -3.8 5.7 c -0.2 -0.2 -0.5 -0.4 -0.8 -0.5 c -0.1 -0.1 -0.1 -0.3 -0.2 -0.5 L 18.8 -2.9 c 0 -0 0 -0.1 0 -0.1 c 0.1 -0.4 -0.1 -0.8 -0.5 -0.9 c -0.4 -0.1 -0.8 0.1 -0.9 0.5 l -1.8 5.7 c -0.4 -0.3 -0.9 -0.5 -1.5 -0.5 c -0.3 0 -0.7 0.1 -1 0.2 c -0.5 -0.4 -1.2 -0.6 -1.9 -0.6 c -0.7 0 -1.4 0.2 -2 0.7 c -0.2 -0.1 -0.4 -0.1 -0.6 -0.1 c -1.2 0 -2.1 0.8 -2.4 2 c -1 0.2 -1.8 1.2 -1.8 2.2 c -0.9 0.3 -1.6 1.2 -1.6 2.2 c 0 0 0 0.1 0 0.1 H 2.5 v 0.5 C 2.5 12.2 4 15.2 6.8 17 l -0.8 2 h 11.2 L 16.4 17 C 19.1 15.2 20.7 12.2 20.7 8.9 v -0.5 h -0.8 c -0.1 -0.2 -0.2 -0.5 -0.4 -0.7 c 0.1 -0.1 0.1 -0.3 0.1 -0.5 c 0 -1.1 -0.7 -2 -1.7 -2.3 c -0.1 -0.1 -0.1 -0.1 -0.1 -0.1 l 4.6 -5.5 c 0 -0.1 0 -0.1 0.1 -0.1 C 22.6 -1.3 22.5 -1.7 22.2 -1.9 Z M 16.9 5.4 l 0.1 0.3 l 0.3 0.1 c 0.7 0.1 1.2 0.7 1.2 1.3 c 0 0.1 -0.1 0.3 -0.1 0.5 l -0.1 0.3 l 0.2 0.2 c 0.1 0.1 0.2 0.2 0.2 0.2 H 3.9 c 0 -0 0 -0.1 0 -0.1 c 0 -0.7 0.5 -1.2 1.2 -1.3 l 0.5 -0.1 l -0.1 -0.5 c 0 -0.1 0 -0.1 0 -0.2 c 0 -0.7 0.6 -1.4 1.3 -1.4 l 0.5 -0.1 l 0 -0.5 c 0 -0.1 0 -0.1 0 -0.1 c 0 -0.7 0.6 -1.3 1.3 -1.3 c 0.1 0 0.3 0 0.5 0.1 l 0.3 0.1 l 0.2 -0.2 c 0.3 -0.4 0.9 -0.6 1.5 -0.6 c 0.6 0 1.1 0.2 1.5 0.6 l 0.3 0.3 l 0.3 -0.2 c 0.2 -0.2 0.5 -0.2 0.8 -0.2 c 0.7 0 1.2 0.5 1.4 1.2 l 0.1 0.3 l 0.3 0.1 C 16.4 4.5 16.8 4.9 16.9 5.4 Z"
+        ]
+      },
+      "legend": null
+    },
+
+    "color": { "field": "country", "type": "nominal", "legend": null },
+    "size": { "value": 30 }
+  },
+
+  "config": {
+    "view": { "stroke": "transparent" },
+    "facet": { "spacing": 5 }
+  }
+}
