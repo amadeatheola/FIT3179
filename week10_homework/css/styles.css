@@ -1,4 +1,22 @@
-#word_cloud {
+#choropleth_map {
+	top:100px;
+	bottom: 100px; 
+	left: 100px;
+	right: 100px;
+	/*height: 1000px;
+	width: 800px;*/
+}
+
+#isotype_dot_plot {
+	top:100px;
+	bottom: 100px; 
+	left: 100px;
+	right: 100px;
+	/*height: 1000px;
+	width: 800px;*/
+}
+
+#isotype_dot_plot_interactive {
 	top:100px;
 	bottom: 100px; 
 	left: 100px;

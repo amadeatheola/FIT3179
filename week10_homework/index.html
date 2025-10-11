@@ -7,14 +7,23 @@
   <script src="https://cdn.jsdelivr.net/npm/vega@6"></script>
   <script src="https://cdn.jsdelivr.net/npm/vega-lite@6"></script>
   <script src="https://cdn.jsdelivr.net/npm/vega-embed@7"></script>
-  
+
   <link rel="stylesheet" type="text/css" href="css/styles.css" media="all">
 </head>
 <body>
-  <div id="word_cloud"></div>
+  <div id="choropleth_map"></div>
+  <div id="isotype_dot_plot"></div>
+  <!-- <div id="isotype_dot_plot_interactive"></div> -->
+
   <script>
-    const spec = "js/word_cloud.vg.json";
-    vegaEmbed("#word_cloud", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    const spec = "js/choropleth_map.vg.json";
+    vegaEmbed("#choropleth_map", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+
+    const spec1 = "js/isotype_dot_plot.vg.json";
+    vegaEmbed("#isotype_dot_plot", spec1, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+
+    // const spec2 = "js/isotype_dot_plot_interactive.vg.json";
+    // vegaEmbed("#isotype_dot_plot_interactive", spec2, {mode: "vega-lite"}).then(console.log).catch(console.warn);
   </script>
 </body>
 </html>

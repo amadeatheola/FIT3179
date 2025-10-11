@@ -77,9 +77,29 @@
     },
 
     "color": { "field": "country", "type": "nominal", "legend": null },
-    "size": { "value": 30 }
+    "size": { "value": 30 },
+    "tooltip": [
+    {"field": "country", "type": "nominal", "title": "Country"},
+    {"field": "year", "type": "ordinal", "title": "Year"},
+    {
+      "field": "RiceConsumptionPerCapitaCountries_2022",
+      "type": "quantitative",
+      "title": "Annual Rice Consumption (kg/person)"
+    },
+    {
+      "field": "RiceConsumptionPerCapitaDaily",
+      "type": "quantitative",
+      "title": "Daily Rice Consumption (g/person)",
+      "format": ".1f"
+    },
+    {
+      "field": "Portion",
+      "type": "quantitative",
+      "title": "Portions per Person per Day",
+      "format": ".0f"
+    }
+  ]
   },
-
   "config": {
     "view": { "stroke": "transparent" },
     "facet": { "spacing": 5 }
