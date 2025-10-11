@@ -1,22 +1,12 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "data": {
-    "url": "https://raw.githubusercontent.com/amadeatheola/FIT3179/main/week10_homework/data/rice-consumption-portion-ASEAN-with-year.json"
+    "url": "https://raw.githubusercontent.com/amadeatheola/FIT3179/main/week10_homework/data/rice-consumption-portion-ASEAN.json"
   },
   "width": 600,
   "height": 40,
 
-  "params": [
-    {
-      "name": "year_selection",
-      "value": 2022,
-      "bind": {
-        "input": "select",
-        "options": [null, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022],
-        "labels": ["Show All", "2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022"],
-        "name": "Select Year: "
-      }
-    },
+  "params" : [
     {
       "name": "country_selection",
       "bind": {
@@ -28,7 +18,7 @@
           "Laos",
           "Malaysia",
           "Myanmar",
-          "Philippines",
+          "Phillipines",
           "Thailand",
           "Timor-Leste",
           "Vietnam"
@@ -40,7 +30,7 @@
           "Laos",
           "Malaysia",
           "Myanmar",
-          "Philippines",
+          "Phillipines",
           "Thailand",
           "Timor-Leste",
           "Vietnam"
@@ -49,28 +39,24 @@
       }
     }
   ],
-
   "transform": [
     {
-      "filter": "(year_selection != null && datum.year == year_selection) || (year_selection == null && country_selection != null && datum.country == country_selection) || (year_selection == null && country_selection == null && datum.country == 'World')"
+      "filter": "country_selection == null || datum.country == country_selection"
     }
   ],
-
-  "mark": {"type": "point", "filled": true},
+  "mark": { "type": "point", "filled": true },
 
   "encoding": {
-    "x": {"field": "col", "type": "ordinal", "axis": null},
-    "y": {"value": 0},
+    "x": { "field": "col", "type": "ordinal", "axis": null },
+    "y": { "value": 0 },
 
     "row": {
       "field": "country",
       "type": "nominal",
       "header": {
         "labelFontSize": 14,
-        "labelOrient": "top",
-        "title": {
-          "signal": "year_selection == null && country_selection == null ? 'World Rice Consumption (All Years)' : (year_selection == null ? 'Rice Consumption Portions by ' + country_selection + ' (All Years)' : 'Rice Consumption Portions in ' + year_selection)"
-        },
+        "labelOrient": "top", 
+        "title": "Rice consumption portions per person per day (ASEAN, 2022)",
         "titleFontSize": 18,
         "titlePadding": 15,
         "titleOrient": "top",
@@ -90,12 +76,33 @@
       "legend": null
     },
 
-    "color": {"field": "country", "type": "nominal", "legend": null},
-    "size": {"value": 30}
+    "color": { "field": "country", "type": "nominal", "legend": null },
+    "size": { "value": 30 },
+    "tooltip": [
+    {"field": "country", "type": "nominal", "title": "Country"},
+    {"field": "year", "type": "ordinal", "title": "Year"},
+    {
+      "field": "RiceConsumptionPerCapita",
+      "type": "quantitative",
+      "title": "Annual Rice Consumption (kg/person)",
+      "format": ".1f"
+    },
+    {
+      "field": "RiceConsumptionDaily",
+      "type": "quantitative",
+      "title": "Daily Rice Consumption (g/person)",
+      "format": ".1f"
+    },
+    {
+      "field": "Portion",
+      "type": "quantitative",
+      "title": "Portions per Person per Day",
+      "format": ".0f"
+    }
+  ]
   },
-
   "config": {
-    "view": {"stroke": "transparent"},
-    "facet": {"spacing": 5}
+    "view": { "stroke": "transparent" },
+    "facet": { "spacing": 5 }
   }
 }
