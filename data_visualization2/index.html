@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <script src="https://cdn.jsdelivr.net/npm/vega@6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@7"></script>
+
+  <link rel="stylesheet" type="text/css" href="css/styles.css" media="all">
+</head>
+<body>
+  <div id="choropleth_map"></div>
+  <div id="isotype_dot_plot"></div>
+
+  <script>
+    // Only for rice consumption
+    const spec1 = "js/isotype_dot_plot.vg.json";
+    vegaEmbed("#isotype_dot_plot", spec1, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+
+    // Only for Export Import (Either show both trade flow or one of them)
+    // Choose the covered region (Show all ASEAN countries or either one)
+    // Temporal animation
+    const spec2 = "js/flow_map.vg.json";
+    vegaEmbed("#flow_map", spec2, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+
+    // Single variable (use filter to choose variables or region (ASEAN or Malaysia))
+    const spec = "js/choropleth_map.vg.json";
+    vegaEmbed("#choropleth_map", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+
+    const spec4 = "js/line_chart.vg.json";
+    vegaEmbed("#flow_map", spec4, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+
+    const spec5 = "js/treemap.vg.json";
+    vegaEmbed("#flow_map", spec5, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+
+    // Multiple variables (not affected by filters)
+    const spec3 = "js/heatmap.vg.json";
+    vegaEmbed("#heatmap", spec3, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    
+    const spec6 = "js/radar_chart.vg.json";
+    vegaEmbed("#flow_map", spec6, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+  </script>
+</body>
+</html>
