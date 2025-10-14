@@ -39,17 +39,18 @@
           "lookup": "properties.NAME",
           "from": {
             "data": {
-              "url": "https://raw.githubusercontent.com/amadeatheola/FIT3179/main/data_visualization2/data/rice-consumption-by-country-2025.csv"
+              "url": "https://raw.githubusercontent.com/amadeatheola/FIT3179/main/data_visualization2/data/rice-consumption-long.csv"
             },
-            "key": "country",
-            "fields": ["RiceConsumptionPerCapitaCountries_2022"]
+            "key": "Country",
+            "fields": ["Country", "Year", "ConsumptionPerCapita", "TotalConsumption"]
           }
-        }
+        },
+        {"filter": "datum.Year == 2022"}
       ],
       "mark": { "type": "geoshape", "stroke": "white" },
       "encoding": {
         "color": {
-          "field": "RiceConsumptionPerCapitaCountries_2022",
+          "field": "ConsumptionPerCapita",
           "type": "quantitative",
           "scale": {
             "type": "threshold",
