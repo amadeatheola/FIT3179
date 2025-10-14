@@ -1,0 +1,1426 @@
+Country,TradeFlow,Product Description,Year,Partner,Trade Value 1000USD,Quantity,Quantity Unit
+Cambodia,Import,Rice,2023,World,727487,1716440000000,Kg
+Cambodia,Import,Rice,2023,India,227256,725394000000,Kg
+Cambodia,Import,Rice,2023,United States,212200,313694000000,Kg
+Cambodia,Import,Rice,2023,Vietnam,206135,472354000000,Kg
+Cambodia,Import,Rice,2023,Thailand,47947,131617000000,Kg
+Cambodia,Import,Rice,2023,Japan,23856,562213,Kg
+Cambodia,Import,Rice,2023,Cambodia,7023,124666,Kg
+Cambodia,Import,Rice,2023,Italy,2125,405117,Kg
+Cambodia,Import,Rice,2023,Spain,600,2000,Kg
+Cambodia,Import,Rice,2023,"Korea, Rep.",246,3444,Kg
+Cambodia,Import,Rice,2023,China,61,950,Kg
+Cambodia,Import,Rice,2023,France,39,60,Kg
+Cambodia,Import,Rice,2022, World,348268,786832000000,Kg
+Cambodia,Import,Rice,2022,Vietnam,233878,555262000000,Kg
+Cambodia,Import,Rice,2022,United States,77001,141395000000,Kg
+Cambodia,Import,Rice,2022,Thailand,16634,515000,Kg
+Cambodia,Import,Rice,2022,India,13278,363584,Kg
+Cambodia,Import,Rice,2022,Japan,7076,171169,Kg
+Cambodia,Import,Rice,2022,"Korea, Rep.",220,3100,Kg
+Cambodia,Import,Rice,2022,Bangladesh,119,1750,Kg
+Cambodia,Import,Rice,2022,Italy,63,1200,Kg
+Cambodia,Import,Rice,2021, World,472747,1060000000000,Kg
+Cambodia,Import,Rice,2021,Vietnam,308077,754000000000,Kg
+Cambodia,Import,Rice,2021,United States,75667,124000000000,Kg
+Cambodia,Import,Rice,2021,India,38509,987548,Kg
+Cambodia,Import,Rice,2021,Thailand,22452,556492,Kg
+Cambodia,Import,Rice,2021,Cambodia,20508,246400,Kg
+Cambodia,Import,Rice,2021,Japan,6933,164037,Kg
+Cambodia,Import,Rice,2021,Italy,371,1093,Kg
+Cambodia,Import,Rice,2021,Indonesia,197,2000,Kg
+Cambodia,Import,Rice,2021,Bangladesh,20,500,Kg
+Cambodia,Import,Rice,2021,"Other Asia, nes",13,12916666666666668,Kg
+Cambodia,Import,Rice,2020, World,711413,1760000000000,Kg
+Cambodia,Import,Rice,2020,Vietnam,462734,1220000000000,Kg
+Cambodia,Import,Rice,2020,Myanmar,80525,25000000,Kg
+Cambodia,Import,Rice,2020,United States,53875,717951,Kg
+Cambodia,Import,Rice,2020,Thailand,32017,754563,Kg
+Cambodia,Import,Rice,2020,Ukraine,26466,540000,Kg
+Cambodia,Import,Rice,2020,"Other Asia, nes",20000,400000,Kg
+Cambodia,Import,Rice,2020,Japan,16149,165073,Kg
+Cambodia,Import,Rice,2020,Unspecified,10795,137025,Kg
+Cambodia,Import,Rice,2020,Lao PDR,5738,75000,Kg
+Cambodia,Import,Rice,2020,India,3000,63620,Kg
+Cambodia,Import,Rice,2020,China,85,950,Kg
+Cambodia,Import,Rice,2020,Italy,26,184,Kg
+Cambodia,Import,Rice,2020,Australia,2,10,Kg
+Cambodia,Import,Rice,2019, World,926082,2330000000000,Kg
+Cambodia,Import,Rice,2019,Vietnam,693937,1870000000000,Kg
+Cambodia,Import,Rice,2019,United States,155135,278000000000,Kg
+Cambodia,Import,Rice,2019,Thailand,29913,967000,Kg
+Cambodia,Import,Rice,2019,"Other Asia, nes",25032,500000,Kg
+Cambodia,Import,Rice,2019,Myanmar,7518,250000,Kg
+Cambodia,Import,Rice,2019,Japan,4803,116068,Kg
+Cambodia,Import,Rice,2019,Lao PDR,4257,66000,Kg
+Cambodia,Import,Rice,2019,China,3358,3086,Kg
+Cambodia,Import,Rice,2019,India,1954,389788,Kg
+Cambodia,Import,Rice,2019,Italy,175,781,Kg
+Cambodia,Import,Rice,2019,Australia,2,51,Kg
+Cambodia,Import,Rice,2018, World,1091226,1076410000000,Kg
+Cambodia,Import,Rice,2018,Vietnam,677642,653535000000,Kg
+Cambodia,Import,Rice,2018,United States,241710,25662000000,Kg
+Cambodia,Import,Rice,2018,China,80386,768334,Kg
+Cambodia,Import,Rice,2018,Thailand,61800,610131,Kg
+Cambodia,Import,Rice,2018,"Other Asia, nes",16010,153021,Kg
+Cambodia,Import,Rice,2018,Cambodia,9575,915193,Kg
+Cambodia,Import,Rice,2018,Japan,2452,235722,Kg
+Cambodia,Import,Rice,2018,India,900,36431458333333336,Kg
+Cambodia,Import,Rice,2018,"Korea, Rep.",560,22285694444444444,Kg
+Cambodia,Import,Rice,2018,Italy,148,147681,Kg
+Cambodia,Import,Rice,2018,Myanmar,36,361132,Kg
+Cambodia,Import,Rice,2018,United Kingdom,8,822087,Kg
+Cambodia,Import,Rice,2017, World,383725,475000000000,Kg
+Cambodia,Import,Rice,2017,United States,146210,179000000000,Kg
+Cambodia,Import,Rice,2017,Cambodia,60407,749926,Kg
+Cambodia,Import,Rice,2017,Thailand,56927,706689,Kg
+Cambodia,Import,Rice,2017,Vietnam,49037,625388,Kg
+Cambodia,Import,Rice,2017,"Korea, Rep.",47548,590224,Kg
+Cambodia,Import,Rice,2017,"Other Asia, nes",19978,248019,Kg
+Cambodia,Import,Rice,2017,Japan,2831,331357,Kg
+Cambodia,Import,Rice,2017,India,718,902782,Kg
+Cambodia,Import,Rice,2017,Australia,38,441653,Kg
+Cambodia,Import,Rice,2017,Italy,12,138655,Kg
+Cambodia,Import,Rice,2017,United Kingdom,12,135619,Kg
+Cambodia,Import,Rice,2017,France,6,665677,Kg
+Cambodia,Import,Rice,2016, World,967749,2700000000000,Kg
+Cambodia,Import,Rice,2016,Vietnam,467550,1610000000000,Kg
+Cambodia,Import,Rice,2016,United States,259795,463000000000,Kg
+Cambodia,Import,Rice,2016,Thailand,134814,426000000000,Kg
+Cambodia,Import,Rice,2016,Unspecified,53280,104000000000,Kg
+Cambodia,Import,Rice,2016,"Other Asia, nes",36007,800000,Kg
+Cambodia,Import,Rice,2016,China,6668,68441,Kg
+Cambodia,Import,Rice,2016,Singapore,4188,73398,Kg
+Cambodia,Import,Rice,2016,Japan,3130,16014,Kg
+Cambodia,Import,Rice,2016,India,1941,69935,Kg
+Cambodia,Import,Rice,2016,Australia,199,4255,Kg
+Cambodia,Import,Rice,2016,Italy,127,3877,Kg
+Cambodia,Import,Rice,2016,France,48,2019,Kg
+Cambodia,Import,Rice,2015, World,1099469,6760000000000,Kg
+Cambodia,Import,Rice,2015,Vietnam,857087,5930000000000,Kg
+Cambodia,Import,Rice,2015,Thailand,96205,641000000000,Kg
+Cambodia,Import,Rice,2015,United States,84613,678934,Kg
+Cambodia,Import,Rice,2015,Japan,24880,489369,Kg
+Cambodia,Import,Rice,2015,"Other Asia, nes",17982,340000,Kg
+Cambodia,Import,Rice,2015,Cambodia,12886,150700,Kg
+Cambodia,Import,Rice,2015,Turkey,1922,24000,Kg
+Cambodia,Import,Rice,2015,Singapore,1069,82026,Kg
+Cambodia,Import,Rice,2015,France,1001,25102,Kg
+Cambodia,Import,Rice,2015,India,955,62222,Kg
+Cambodia,Import,Rice,2015,Eswatini,596,1128,Kg
+Cambodia,Import,Rice,2015,Italy,191,5006,Kg
+Cambodia,Import,Rice,2015,Philippines,44,50,Kg
+Cambodia,Import,Rice,2015,"Korea, Rep.",36,1728,Kg
+Cambodia,Import,Rice,2015,Australia,1,80,Kg
+Indonesia,Import,Rice,2024,World,271025530,451942000000000,Kg
+Indonesia,Import,Rice,2024,Thailand,86278080,136423000000000,Kg
+Indonesia,Import,Rice,2024,Vietnam,75285965,124824000000000,Kg
+Indonesia,Import,Rice,2024,Myanmar,48076624,83137900000000,Kg
+Indonesia,Import,Rice,2024,Pakistan,47241047,80384500000000,Kg
+Indonesia,Import,Rice,2024,India,12454155,24658700000000,Kg
+Indonesia,Import,Rice,2024,Cambodia,1625000,250000000,Kg
+Indonesia,Import,Rice,2024,China,38571,19309,Kg
+Indonesia,Import,Rice,2024,Japan,25653,100747,Kg
+Indonesia,Import,Rice,2024,Singapore,97,230454,Kg
+Indonesia,Import,Rice,2024,"Other Asia, nes",94,4510,Kg
+Indonesia,Import,Rice,2024,"Korea, Rep.",89,161,Kg
+Indonesia,Import,Rice,2024,Malaysia,58,658,Kg
+Indonesia,Import,Rice,2024,Saudi Arabia,51,1696,Kg
+Indonesia,Import,Rice,2024,"Hong Kong, China",27,1134,Kg
+Indonesia,Import,Rice,2024,United Arab Emirates,14,1222,Kg
+Indonesia,Import,Rice,2024,Kuwait,2,158,Kg
+Indonesia,Import,Rice,2024,Australia,1,1,Kg
+Indonesia,Import,Rice,2024,Oman,1,120,Kg
+Indonesia,Import,Rice,2024,United States,1,23,Kg
+Indonesia,Import,Rice,2024,Qatar,0,60,Kg
+Indonesia,Import,Rice,2023, World,178902388,306286000000000,Kg
+Indonesia,Import,Rice,2023,Thailand,80481584,138192000000000,Kg
+Indonesia,Import,Rice,2023,Vietnam,66887131,114771000000000,Kg
+Indonesia,Import,Rice,2023,Pakistan,18232247,3093100000000,Kg
+Indonesia,Import,Rice,2023,Myanmar,8882287,14120400000000,Kg
+Indonesia,Import,Rice,2023,India,3550498,6971580000000,Kg
+Indonesia,Import,Rice,2023,Cambodia,837142,129250000000,Kg
+Indonesia,Import,Rice,2023,Japan,15536,61480,Kg
+Indonesia,Import,Rice,2023,China,14252,7019,Kg
+Indonesia,Import,Rice,2023,Philippines,1522,5035,Kg
+Indonesia,Import,Rice,2023,Malaysia,157,3138,Kg
+Indonesia,Import,Rice,2023,Singapore,27,105,Kg
+Indonesia,Import,Rice,2023,Italy,5,8,Kg
+Indonesia,Import,Rice,2022, World,20204218,42920700000000,Kg
+Indonesia,Import,Rice,2022,India,7773971,17853400000000,Kg
+Indonesia,Import,Rice,2022,Thailand,4409202,8018250000000,Kg
+Indonesia,Import,Rice,2022,Vietnam,4246432,818280000000,Kg
+Indonesia,Import,Rice,2022,Pakistan,3584349,844070000000,Kg
+Indonesia,Import,Rice,2022,Myanmar,147824,383000000,Kg
+Indonesia,Import,Rice,2022,Singapore,15396,364042,Kg
+Indonesia,Import,Rice,2022,Japan,15031,56087,Kg
+Indonesia,Import,Rice,2022,China,12000,6000,Kg
+Indonesia,Import,Rice,2022,"Korea, Rep.",5,5,Kg
+Indonesia,Import,Rice,2022,United States,5,2,Kg
+Indonesia,Import,Rice,2022,Italy,2,1,Kg
+Indonesia,Import,Rice,2022,Australia,1,4,Kg
+Indonesia,Import,Rice,2022,South Africa,1,3,Kg
+Indonesia,Import,Rice,2022,Malaysia,0,8,Kg
+Indonesia,Import,Rice,2021, World,18380180,40774100000000,Kg
+Indonesia,Import,Rice,2021,India,8627627,21538700000000,Kg
+Indonesia,Import,Rice,2021,Thailand,4132258,69360000000,Kg
+Indonesia,Import,Rice,2021,Vietnam,3247451,6569290000000,Kg
+Indonesia,Import,Rice,2021,Pakistan,2032209,524790000000,Kg
+Indonesia,Import,Rice,2021,Myanmar,160941,379000000,Kg
+Indonesia,Import,Rice,2021,China,85054,42601,Kg
+Indonesia,Import,Rice,2021,Japan,57886,230291,Kg
+Indonesia,Import,Rice,2021,Cambodia,26575,500000,Kg
+Indonesia,Import,Rice,2021,Singapore,10047,260051,Kg
+Indonesia,Import,Rice,2021,United States,101,33,Kg
+Indonesia,Import,Rice,2021,Malaysia,15,13,Kg
+Indonesia,Import,Rice,2021,Saudi Arabia,11,10,Kg
+Indonesia,Import,Rice,2021,"Other Asia, nes",4,1,Kg
+Indonesia,Import,Rice,2021,Australia,2,37,Kg
+Indonesia,Import,Rice,2021,France,1,1,Kg
+Indonesia,Import,Rice,2020, World,19540900,35628600000000,Kg
+Indonesia,Import,Rice,2020,Thailand,7630164,8859310000000,Kg
+Indonesia,Import,Rice,2020,Vietnam,5110746,8871640000000,Kg
+Indonesia,Import,Rice,2020,Pakistan,4151985,11051700000000,Kg
+Indonesia,Import,Rice,2020,Myanmar,2114783,5784140000000,Kg
+Indonesia,Import,Rice,2020,India,484930,1059440000000,Kg
+Indonesia,Import,Rice,2020,China,47933,23760,Kg
+Indonesia,Import,Rice,2020,Japan,118,326,Kg
+Indonesia,Import,Rice,2020,Philippines,77,147,Kg
+Indonesia,Import,Rice,2020,Singapore,77,101,Kg
+Indonesia,Import,Rice,2020,United States,33,27,Kg
+Indonesia,Import,Rice,2020,Germany,15,6,Kg
+Indonesia,Import,Rice,2020,United Kingdom,12,35,Kg
+Indonesia,Import,Rice,2020,"Other Asia, nes",10,6,Kg
+Indonesia,Import,Rice,2020,Australia,9,84,Kg
+Indonesia,Import,Rice,2020,"Korea, Rep.",5,6,Kg
+Indonesia,Import,Rice,2020,"Hong Kong, China",4,1,Kg
+Indonesia,Import,Rice,2020,Netherlands,1,2,Kg
+Indonesia,Import,Rice,2020,Malaysia,1,1,Kg
+Indonesia,Import,Rice,2019, World,18425409,44450900000000,Kg
+Indonesia,Import,Rice,2019,Pakistan,6781991,18256500000000,Kg
+Indonesia,Import,Rice,2019,Myanmar,5628719,16670100000000,Kg
+Indonesia,Import,Rice,2019,Thailand,3856147,532780000000,Kg
+Indonesia,Import,Rice,2019,Vietnam,1660947,3313310000000,Kg
+Indonesia,Import,Rice,2019,India,301853,79733000000,Kg
+Indonesia,Import,Rice,2019,United States,122945,740910,Kg
+Indonesia,Import,Rice,2019,China,48250,24269,Kg
+Indonesia,Import,Rice,2019,Japan,24320,90036,Kg
+Indonesia,Import,Rice,2019,Philippines,164,366,Kg
+Indonesia,Import,Rice,2019,Bahrain,50,3000,Kg
+Indonesia,Import,Rice,2019,Malaysia,12,330,Kg
+Indonesia,Import,Rice,2019,Saudi Arabia,8,30,Kg
+Indonesia,Import,Rice,2019,"Korea, Rep.",4,9,Kg
+Indonesia,Import,Rice,2018,World,103712842,225382000000000,Kg
+Indonesia,Import,Rice,2018,Thailand,38653370,795600000000,Kg
+Indonesia,Import,Rice,2018,Vietnam,36074564,76718100000000,Kg
+Indonesia,Import,Rice,2018,India,13915855,33799900000000,Kg
+Indonesia,Import,Rice,2018,Pakistan,13441595,3109900000000,Kg
+Indonesia,Import,Rice,2018,Myanmar,1516140,41820000000,Kg
+Indonesia,Import,Rice,2018,China,109412,227680,Kg
+Indonesia,Import,Rice,2018,Indonesia,1366,6000,Kg
+Indonesia,Import,Rice,2018,Philippines,244,330,Kg
+Indonesia,Import,Rice,2018,Japan,175,234,Kg
+Indonesia,Import,Rice,2018,Oman,52,60,Kg
+Indonesia,Import,Rice,2018,Singapore,32,31,Kg
+Indonesia,Import,Rice,2018,"Iran, Islamic Rep.",28,64,Kg
+Indonesia,Import,Rice,2018,Qatar,10,24,Kg
+Indonesia,Import,Rice,2017,World,14364172,30527500000000,Kg
+Indonesia,Import,Rice,2017,Thailand,6028694,10894500000000,Kg
+Indonesia,Import,Rice,2017,Pakistan,3479313,8750000000,Kg
+Indonesia,Import,Rice,2017,Myanmar,1954614,574750000000,Kg
+Indonesia,Import,Rice,2017,India,1339715,3220970000000,Kg
+Indonesia,Import,Rice,2017,China,811865,241896000000,Kg
+Indonesia,Import,Rice,2017,Vietnam,676129,1659990000000,Kg
+Indonesia,Import,Rice,2017,Philippines,50344,54272,Kg
+Indonesia,Import,Rice,2017,Japan,23499,72071,Kg
+Indonesia,Import,Rice,2016,World,53184156,128318000000000,Kg
+Indonesia,Import,Rice,2016,Thailand,24313123,5578900000000,Kg
+Indonesia,Import,Rice,2016,Vietnam,21260276,53557700000000,Kg
+Indonesia,Import,Rice,2016,Pakistan,4912411,13483300000000,Kg
+Indonesia,Import,Rice,2016,India,1579501,361420000000,Kg
+Indonesia,Import,Rice,2016,Myanmar,638276,16650000000,Kg
+Indonesia,Import,Rice,2016,China,422068,127186000000,Kg
+Indonesia,Import,Rice,2016,Malaysia,29354,720710,Kg
+Indonesia,Import,Rice,2016,Japan,28347,93000,Kg
+Indonesia,Import,Rice,2016,Philippines,717,1396,Kg
+Indonesia,Import,Rice,2016,"Other Asia, nes",82,148,Kg
+Indonesia,Import,Rice,2015,World,35160209,86160100000000,Kg
+Indonesia,Import,Rice,2015,Vietnam,20256306,50937400000000,Kg
+Indonesia,Import,Rice,2015,Thailand,6677238,12674600000000,Kg
+Indonesia,Import,Rice,2015,Pakistan,6294917,180100000000,Kg
+Indonesia,Import,Rice,2015,India,1367168,3416750000000,Kg
+Indonesia,Import,Rice,2015,Myanmar,273225,8775000000,Kg
+Indonesia,Import,Rice,2015,China,163102,479880,Kg
+Indonesia,Import,Rice,2015,Philippines,50313,54187,Kg
+Indonesia,Import,Rice,2015,Cambodia,40200,1000000,Kg
+Indonesia,Import,Rice,2015,Malaysia,23188,825000,Kg
+Indonesia,Import,Rice,2015,Japan,14553,80000,Kg
+Lao PDR,Import,Rice,2023,World,1925123,8353610000000,Kg
+Lao PDR,Import,Rice,2023,Thailand,1112893,5640790000000,Kg
+Lao PDR,Import,Rice,2023,Unspecified,355003,1170410000000,Kg
+Lao PDR,Import,Rice,2023,Vietnam,186013,720361000000,Kg
+Lao PDR,Import,Rice,2023,United States,163958,191963000000,Kg
+Lao PDR,Import,Rice,2023,Myanmar,59797,528036000000,Kg
+Lao PDR,Import,Rice,2023,"Other Asia, nes",34801,763180,Kg
+Lao PDR,Import,Rice,2023,India,10319,220020,Kg
+Lao PDR,Import,Rice,2023,China,2265,33800,Kg
+Lao PDR,Import,Rice,2023,Japan,39,1100,Kg
+Lao PDR,Import,Rice,2023,"Hong Kong, China",31,2280,Kg
+Lao PDR,Import,Rice,2023,France,4,141,Kg
+Lao PDR,Import,Rice,2022,World,2562313,10138800000000,Kg
+Lao PDR,Import,Rice,2022,Thailand,2034256,8198230000000,Kg
+Lao PDR,Import,Rice,2022,Vietnam,208587,78263000000,Kg
+Lao PDR,Import,Rice,2022,"Korea, Rep.",152450,2014000000,Kg
+Lao PDR,Import,Rice,2022,Myanmar,98974,853601000000,Kg
+Lao PDR,Import,Rice,2022,United States,39026,519800,Kg
+Lao PDR,Import,Rice,2022,Japan,25834,301106,Kg
+Lao PDR,Import,Rice,2022,China,1686,76536,Kg
+Lao PDR,Import,Rice,2022,India,1433,130000,Kg
+Lao PDR,Import,Rice,2022,Holy See,56,2000,Kg
+Lao PDR,Import,Rice,2022,France,11,224,Kg
+Lao PDR,Import,Rice,2021,World,2420308,8547250000000,Kg
+Lao PDR,Import,Rice,2021,Thailand,1803957,6463370000000,Kg
+Lao PDR,Import,Rice,2021,Vietnam,404053,1594420000000,Kg
+Lao PDR,Import,Rice,2021,United States,143266,216852000000,Kg
+Lao PDR,Import,Rice,2021,"Korea, Rep.",42756,13248000000,Kg
+Lao PDR,Import,Rice,2021,India,18799,786000,Kg
+Lao PDR,Import,Rice,2021,Myanmar,7042,606000,Kg
+Lao PDR,Import,Rice,2021,China,377,7470,Kg
+Lao PDR,Import,Rice,2021,Japan,36,94815,Kg
+Lao PDR,Import,Rice,2021,Holy See,12,600,Kg
+Lao PDR,Import,Rice,2021,France,8,245,Kg
+Lao PDR,Import,Rice,2021,Italy,1,9,Kg
+Lao PDR,Import,Rice,2020,World,3701132,14286300000000,Kg
+Lao PDR,Import,Rice,2020,Thailand,2161486,7574670000000,Kg
+Lao PDR,Import,Rice,2020,Vietnam,1391237,6377660000000,Kg
+Lao PDR,Import,Rice,2020,United States,132563,219948000000,Kg
+Lao PDR,Import,Rice,2020,Myanmar,9001,830650,Kg
+Lao PDR,Import,Rice,2020,China,3880,59330,Kg
+Lao PDR,Import,Rice,2020,India,1477,208000,Kg
+Lao PDR,Import,Rice,2020,Namibia,1072,36000,Kg
+Lao PDR,Import,Rice,2020,Japan,222,217026,Kg
+Lao PDR,Import,Rice,2020,"Korea, Rep.",143,3244,Kg
+Lao PDR,Import,Rice,2020,Canada,41,735,Kg
+Lao PDR,Import,Rice,2020,France,10,234,Kg
+Lao PDR,Import,Rice,2019,World,2501581,9355780000000,Kg
+Lao PDR,Import,Rice,2019,Vietnam,1643531,633110000000,Kg
+Lao PDR,Import,Rice,2019,Thailand,468165,2592740000000,Kg
+Lao PDR,Import,Rice,2019,"Korea, Rep.",263270,150025000000,Kg
+Lao PDR,Import,Rice,2019,United States,103499,22281000000,Kg
+Lao PDR,Import,Rice,2019,Myanmar,14346,378735,Kg
+Lao PDR,Import,Rice,2019,Japan,8563,207127,Kg
+Lao PDR,Import,Rice,2019,China,167,3750,Kg
+Lao PDR,Import,Rice,2019,Holy See,30,1200,Kg
+Lao PDR,Import,Rice,2019,France,11,175,Kg
+Lao PDR,Import,Rice,2018,World,2761640,2902040000000,Kg
+Lao PDR,Import,Rice,2018,Thailand,2278213,2408460000000,Kg
+Lao PDR,Import,Rice,2018,United States,314487,300589000000,Kg
+Lao PDR,Import,Rice,2018,Vietnam,144467,1408000000,Kg
+Lao PDR,Import,Rice,2018,Unspecified,24429,521469,Kg
+Lao PDR,Import,Rice,2018,China,45,430114,Kg
+Lao PDR,Import,Rice,2017,World,4466293,5712490000000,Kg
+Lao PDR,Import,Rice,2017,Thailand,4241536,5419730000000,Kg
+Lao PDR,Import,Rice,2017,United States,166135,20571000000,Kg
+Lao PDR,Import,Rice,2017,Vietnam,31144,388006,Kg
+Lao PDR,Import,Rice,2017,Japan,13885,172378,Kg
+Lao PDR,Import,Rice,2017,China,13594,310115,Kg
+Lao PDR,Import,Rice,2016,World,7867340,NA,NA
+Lao PDR,Import,Rice,2016,Thailand,7597566,NA,NA
+Lao PDR,Import,Rice,2016,United States,193088,NA,NA
+Lao PDR,Import,Rice,2016,Vietnam,62509,NA,NA
+Lao PDR,Import,Rice,2016,China,14177,NA,NA
+Lao PDR,Import,Rice,2015,World,387953,53874000000,Kg
+Lao PDR,Import,Rice,2015,Thailand,164836,296875000000,Kg
+Lao PDR,Import,Rice,2015,United States,125475,135608000000,Kg
+Lao PDR,Import,Rice,2015,Vietnam,96172,103546000000,Kg
+Lao PDR,Import,Rice,2015,China,1470,27119,Kg
+Malaysia,Import,Rice,2024,World,109762846,169531000000000,Kg
+Malaysia,Import,Rice,2024,Vietnam,42986561,68763700000000,Kg
+Malaysia,Import,Rice,2024,Pakistan,23541496,38205100000000,Kg
+Malaysia,Import,Rice,2024,India,22755814,32576200000000,Kg
+Malaysia,Import,Rice,2024,Thailand,14201284,21782100000000,Kg
+Malaysia,Import,Rice,2024,Cambodia,5390493,6695240000000,Kg
+Malaysia,Import,Rice,2024,Myanmar,796618,1433750000000,Kg
+Malaysia,Import,Rice,2024,Japan,53652,281577,Kg
+Malaysia,Import,Rice,2024,"Other Asia, nes",14058,169800,Kg
+Malaysia,Import,Rice,2024,"Korea, Rep.",13322,249600,Kg
+Malaysia,Import,Rice,2024,Indonesia,5671,31868,Kg
+Malaysia,Import,Rice,2024,China,2337,7000,Kg
+Malaysia,Import,Rice,2024,Spain,1535,7920,Kg
+Malaysia,Import,Rice,2024,Germany,5,40,Kg
+Malaysia,Import,Semi-milled or wholly milled rice,2023,World,81584613,139638000000000,Kg
+Malaysia,Import,Semi-milled or wholly milled rice,2023,Vietnam,21633419,39195800000000,Kg
+Malaysia,Import,Semi-milled or wholly milled rice,2023,Thailand,21136201,37000100000000,Kg
+Malaysia,Import,Semi-milled or wholly milled rice,2023,Pakistan,18620364,32206900000000,Kg
+Malaysia,Import,Semi-milled or wholly milled rice,2023,India,13767369,21344900000000,Kg
+Malaysia,Import,Semi-milled or wholly milled rice,2023,Cambodia,3870146,5031520000000,Kg
+Malaysia,Import,Semi-milled or wholly milled rice,2023,Myanmar,2456813,480000000,Kg
+Malaysia,Import,Semi-milled or wholly milled rice,2023,Japan,55399,257777,Kg
+Malaysia,Import,Semi-milled or wholly milled rice,2023,Bangladesh,22127,180000,Kg
+Malaysia,Import,Semi-milled or wholly milled rice,2023,"Other Asia, nes",5924,49800,Kg
+Malaysia,Import,Semi-milled or wholly milled rice,2023,Indonesia,5505,30750,Kg
+Malaysia,Import,Semi-milled or wholly milled rice,2023,Singapore,3385,21950,Kg
+Malaysia,Import,Semi-milled or wholly milled rice,2023,Spain,3373,17840,Kg
+Malaysia,Import,Semi-milled or wholly milled rice,2023,"Korea, Rep.",2972,9200,Kg
+Malaysia,Import,Semi-milled or wholly milled rice,2023,United Arab Emirates,1609,20920,Kg
+Malaysia,Import,Semi-milled or wholly milled rice,2023,Malaysia,8,110,Kg
+Malaysia,Import,Rice,2022,World,60830435,124225000000000,Kg
+Malaysia,Import,Rice,2022,Vietnam,20867668,43166900000000,Kg
+Malaysia,Import,Rice,2022,Pakistan,17277773,41788600000000,Kg
+Malaysia,Import,Rice,2022,India,12526885,20206700000000,Kg
+Malaysia,Import,Rice,2022,Thailand,6641025,14237100000000,Kg
+Malaysia,Import,Rice,2022,Cambodia,3371703,4711710000000,Kg
+Malaysia,Import,Rice,2022,Japan,70523,281439,Kg
+Malaysia,Import,Rice,2022,Bangladesh,41561,360003,Kg
+Malaysia,Import,Rice,2022,"Other Asia, nes",12232,123720,Kg
+Malaysia,Import,Rice,2022,Myanmar,7707,252606,Kg
+Malaysia,Import,Rice,2022,United States,4267,19200,Kg
+Malaysia,Import,Rice,2022,China,3985,69000,Kg
+Malaysia,Import,Rice,2022,Indonesia,3854,21610,Kg
+Malaysia,Import,Rice,2022,Spain,1233,7920,Kg
+Malaysia,Import,Rice,2022,United Arab Emirates,19,120,Kg
+Malaysia,Import,Rice,2022,Sri Lanka,1,35,Kg
+Malaysia,Import,Rice,2021,World,57552229,115419000000000,Kg
+Malaysia,Import,Rice,2021,India,21287786,44166800000000,Kg
+Malaysia,Import,Rice,2021,Vietnam,13316617,2426800000000,Kg
+Malaysia,Import,Rice,2021,Pakistan,12142478,26596700000000,Kg
+Malaysia,Import,Rice,2021,Thailand,6709006,1404900000000,Kg
+Malaysia,Import,Rice,2021,Cambodia,3111696,4252070000000,Kg
+Malaysia,Import,Rice,2021,Myanmar,761111,1900720000000,Kg
+Malaysia,Import,Rice,2021,Bangladesh,139878,980026,Kg
+Malaysia,Import,Rice,2021,Japan,39527,164879,Kg
+Malaysia,Import,Rice,2021,Indonesia,26189,532720,Kg
+Malaysia,Import,Rice,2021,"Other Asia, nes",11495,145800,Kg
+Malaysia,Import,Rice,2021,Singapore,4884,21807,Kg
+Malaysia,Import,Rice,2021,Spain,1489,7920,Kg
+Malaysia,Import,Rice,2021,Italy,72,2088,Kg
+Malaysia,Import,Rice,2020,World,58906258,121993000000000,Kg
+Malaysia,Import,Rice,2020,Vietnam,24756314,52651700000000,Kg
+Malaysia,Import,Rice,2020,India,16203341,33628400000000,Kg
+Malaysia,Import,Rice,2020,Pakistan,6415703,12616300000000,Kg
+Malaysia,Import,Rice,2020,Myanmar,4062295,1117800000000,Kg
+Malaysia,Import,Rice,2020,Thailand,3899511,7580290000000,Kg
+Malaysia,Import,Rice,2020,Cambodia,3268936,4050120000000,Kg
+Malaysia,Import,Rice,2020,Bangladesh,139651,958032,Kg
+Malaysia,Import,Rice,2020,Japan,50358,175940,Kg
+Malaysia,Import,Rice,2020,China,43644,100156000000,Kg
+Malaysia,Import,Rice,2020,"Other Asia, nes",37048,529725,Kg
+Malaysia,Import,Rice,2020,United States,16662,96200,Kg
+Malaysia,Import,Rice,2020,Singapore,5209,42625,Kg
+Malaysia,Import,Rice,2020,Indonesia,3077,25640,Kg
+Malaysia,Import,Rice,2020,"Korea, Rep.",2255,15600,Kg
+Malaysia,Import,Rice,2020,Yemen,2253,38500,Kg
+Malaysia,Import,Rice,2020,Sri Lanka,0,1,Kg
+Malaysia,Import,Rice,2019,World,45261599,96939200000000,Kg
+Malaysia,Import,Rice,2019,Vietnam,20068004,46208400000000,Kg
+Malaysia,Import,Rice,2019,Thailand,12058436,29262300000000,Kg
+Malaysia,Import,Rice,2019,India,5486222,8139870000000,Kg
+Malaysia,Import,Rice,2019,Pakistan,2992268,5140530000000,Kg
+Malaysia,Import,Rice,2019,Cambodia,2720848,3162760000000,Kg
+Malaysia,Import,Rice,2019,Myanmar,1667119,4851780000000,Kg
+Malaysia,Import,Rice,2019,Bangladesh,139219,956000,Kg
+Malaysia,Import,Rice,2019,Japan,67442,305380,Kg
+Malaysia,Import,Rice,2019,China,27446,250000,Kg
+Malaysia,Import,Rice,2019,United States,12449,76800,Kg
+Malaysia,Import,Rice,2019,Uruguay,8970,88032,Kg
+Malaysia,Import,Rice,2019,"Korea, Rep.",5579,24000,Kg
+Malaysia,Import,Rice,2019,Singapore,4676,20010,Kg
+Malaysia,Import,Rice,2019,Indonesia,2921,15195,Kg
+Malaysia,Import,Rice,2018,World,40569648,80815600000000,Kg
+Malaysia,Import,Rice,2018,Thailand,20796224,48111100000000,Kg
+Malaysia,Import,Rice,2018,Vietnam,10571565,20624800000000,Kg
+Malaysia,Import,Rice,2018,Cambodia,3492117,4053350000000,Kg
+Malaysia,Import,Rice,2018,India,3257742,3567320000000,Kg
+Malaysia,Import,Rice,2018,Pakistan,1603357,2602040000000,Kg
+Malaysia,Import,Rice,2018,Myanmar,610885,1693370000000,Kg
+Malaysia,Import,Rice,2018,Bangladesh,89705,626000,Kg
+Malaysia,Import,Rice,2018,Japan,86391,574105,Kg
+Malaysia,Import,Rice,2018,"Korea, Rep.",20965,112000,Kg
+Malaysia,Import,Rice,2018,"Other Asia, nes",17311,149400,Kg
+Malaysia,Import,Rice,2018,United States,10644,74080,Kg
+Malaysia,Import,Rice,2018,Uruguay,7019,66024,Kg
+Malaysia,Import,Rice,2018,Indonesia,5452,32812,Kg
+Malaysia,Import,Rice,2018,Germany,185,1200,Kg
+Malaysia,Import,Rice,2018,Singapore,88,6018,Kg
+Malaysia,Import,Rice,2017,World,34582094,73277500000000,Kg
+Malaysia,Import,Rice,2017,Vietnam,13995230,32616500000000,Kg
+Malaysia,Import,Rice,2017,Thailand,11987297,28967900000000,Kg
+Malaysia,Import,Rice,2017,India,3424960,3601950000000,Kg
+Malaysia,Import,Rice,2017,Cambodia,2590856,3905630000000,Kg
+Malaysia,Import,Rice,2017,Pakistan,2214918,3773250000000,Kg
+Malaysia,Import,Rice,2017,Australia,145854,20766000000,Kg
+Malaysia,Import,Rice,2017,Bangladesh,69740,496000,Kg
+Malaysia,Import,Rice,2017,Japan,66986,296360,Kg
+Malaysia,Import,Rice,2017,United States,37932,656908,Kg
+Malaysia,Import,Rice,2017,"Other Asia, nes",18958,172400,Kg
+Malaysia,Import,Rice,2017,Uruguay,13756,132190,Kg
+Malaysia,Import,Rice,2017,"Korea, Rep.",7426,56002,Kg
+Malaysia,Import,Rice,2017,Myanmar,6251,207000,Kg
+Malaysia,Import,Rice,2017,Indonesia,1455,25000,Kg
+Malaysia,Import,Rice,2017,Sri Lanka,415,2027,Kg
+Malaysia,Import,Rice,2017,Singapore,58,2000,Kg
+Malaysia,Import,Rice,2016,World,37741683,82200600000000,Kg
+Malaysia,Import,Rice,2016,Thailand,18595595,42487900000000,Kg
+Malaysia,Import,Rice,2016,Vietnam,9074742,19140100000000,Kg
+Malaysia,Import,Rice,2016,Pakistan,4547401,12355100000000,Kg
+Malaysia,Import,Rice,2016,Cambodia,2660797,3789920000000,Kg
+Malaysia,Import,Rice,2016,India,2461479,3860610000000,Kg
+Malaysia,Import,Rice,2016,Japan,125095,126747000000,Kg
+Malaysia,Import,Rice,2016,United States,103984,204574000000,Kg
+Malaysia,Import,Rice,2016,"Korea, Rep.",96491,167794000000,Kg
+Malaysia,Import,Rice,2016,Bangladesh,32648,220000,Kg
+Malaysia,Import,Rice,2016,Australia,20960,252000,Kg
+Malaysia,Import,Rice,2016,"Other Asia, nes",15629,148000,Kg
+Malaysia,Import,Rice,2016,Uruguay,6586,58008,Kg
+Malaysia,Import,Rice,2016,Italy,208,804,Kg
+Malaysia,Import,Rice,2016,China,41,400,Kg
+Malaysia,Import,Rice,2016,Saudi Arabia,25,275,Kg
+Malaysia,Import,Rice,2015,World,53514033,105119000000000,Kg
+Malaysia,Import,Rice,2015,Thailand,20643128,41937800000000,Kg
+Malaysia,Import,Rice,2015,Vietnam,15406673,32657700000000,Kg
+Malaysia,Import,Rice,2015,Pakistan,7667722,14848300000000,Kg
+Malaysia,Import,Rice,2015,India,5454225,10311900000000,Kg
+Malaysia,Import,Rice,2015,Cambodia,4139886,5155910000000,Kg
+Malaysia,Import,Rice,2015,Australia,71234,750441,Kg
+Malaysia,Import,Rice,2015,Japan,45592,210436,Kg
+Malaysia,Import,Rice,2015,"Korea, Rep.",33755,226819,Kg
+Malaysia,Import,Rice,2015,Bangladesh,23741,190000,Kg
+Malaysia,Import,Rice,2015,"Other Asia, nes",10405,92040,Kg
+Malaysia,Import,Rice,2015,Indonesia,6432,42280,Kg
+Malaysia,Import,Rice,2015,Myanmar,4568,500020,Kg
+Malaysia,Import,Rice,2015,"Korea, Dem. Rep.",4252,20000,Kg
+Malaysia,Import,Rice,2015,China,1892,22000,Kg
+Malaysia,Import,Rice,2015,Tanzania,482,18548,Kg
+Malaysia,Import,Rice,2015,Italy,46,200,Kg
+Myanmar,Import,Rice,2024,World,462047,415401000000,Kg
+Myanmar,Import,Rice,2024,"Korea, Rep.",347311,1954000000,Kg
+Myanmar,Import,Rice,2024,India,114736,220001000000,Kg
+Myanmar,Import,Rice,2023,World,337412,189782000000,Kg
+Myanmar,Import,Rice,2023,"Korea, Rep.",331412,189582000000,Kg
+Myanmar,Import,Rice,2023,Japan,6000,2000,Kg
+Myanmar,Import,Rice,2022,World,23000,297251,Kg
+Myanmar,Import,Rice,2022,India,22999,297250,Kg
+Myanmar,Import,Rice,2022,Switzerland,1,13,Kg
+Myanmar,Import,Rice,2021,World,44415,924480,Kg
+Myanmar,Import,Rice,2021,China,23342,604638,Kg
+Myanmar,Import,Rice,2021,India,13660,231280,Kg
+Myanmar,Import,Rice,2021,Thailand,7068,874548,Kg
+Myanmar,Import,Rice,2021,Japan,225,10708,Kg
+Myanmar,Import,Rice,2021,Bangladesh,120,1000,Kg
+Myanmar,Import,Rice,2020,World,186370,20911000000,Kg
+Myanmar,Import,Rice,2020,"Korea, Rep.",112860,600000,Kg
+Myanmar,Import,Rice,2020,Japan,19681,300050,Kg
+Myanmar,Import,Rice,2020,Vietnam,18589,161320,Kg
+Myanmar,Import,Rice,2020,India,13261,296160,Kg
+Myanmar,Import,Rice,2020,China,8569,428146,Kg
+Myanmar,Import,Rice,2020,Unspecified,8199,298160,Kg
+Myanmar,Import,Rice,2020,Philippines,5000,5000,Kg
+Myanmar,Import,Rice,2020,Italy,115,9112,Kg
+Myanmar,Import,Rice,2020,Thailand,96,1350,Kg
+Myanmar,Import,Rice,2019,World,228930,278703000000,Kg
+Myanmar,Import,Rice,2019,"Korea, Rep.",101250,500000,Kg
+Myanmar,Import,Rice,2019,China,42870,135000000,Kg
+Myanmar,Import,Rice,2019,Vietnam,33313,281420,Kg
+Myanmar,Import,Rice,2019,Japan,20101,300018,Kg
+Myanmar,Import,Rice,2019,Germany,10071,100485,Kg
+Myanmar,Import,Rice,2019,Thailand,9816,980795,Kg
+Myanmar,Import,Rice,2019,United States,8241,235471,Kg
+Myanmar,Import,Rice,2019,Denmark,1900,8424,Kg
+Myanmar,Import,Rice,2019,France,1206,100,Kg
+Myanmar,Import,Rice,2019,Italy,161,130247,Kg
+Myanmar,Import,Rice,2019,Spain,1,6,Kg
+Myanmar,Import,Rice,2018,World,354842,340627000000,Kg
+Myanmar,Import,Rice,2018,"Korea, Rep.",210600,13000000,Kg
+Myanmar,Import,Rice,2018,Benin,23100,250000,Kg
+Myanmar,Import,Rice,2018,Thailand,22418,286419,Kg
+Myanmar,Import,Rice,2018,United States,21689,925629,Kg
+Myanmar,Import,Rice,2018,Singapore,19325,600000,Kg
+Myanmar,Import,Rice,2018,Philippines,14220,35550,Kg
+Myanmar,Import,Rice,2018,Vietnam,13513,117500,Kg
+Myanmar,Import,Rice,2018,China,13144,406150,Kg
+Myanmar,Import,Rice,2018,Italy,7633,610617,Kg
+Myanmar,Import,Rice,2018,Turkey,3150,175000,Kg
+Myanmar,Import,Rice,2018,Japan,2374,328666,Kg
+Myanmar,Import,Rice,2018,France,1557,15999,Kg
+Myanmar,Import,Rice,2018,Unspecified,742,23000,Kg
+Myanmar,Import,Rice,2018,Myanmar,713,25000,Kg
+Myanmar,Import,Rice,2018,India,667,14740,Kg
+Myanmar,Import,Rice,2017,World,298220,289578000000,Kg
+Myanmar,Import,Rice,2017,Thailand,127373,147882000000,Kg
+Myanmar,Import,Rice,2017,"Korea, Rep.",95227,502370,Kg
+Myanmar,Import,Rice,2017,Germany,24736,565511,Kg
+Myanmar,Import,Rice,2017,United States,16334,751086,Kg
+Myanmar,Import,Rice,2017,Japan,14984,100618,Kg
+Myanmar,Import,Rice,2017,Philippines,7020,17550,Kg
+Myanmar,Import,Rice,2017,Canada,6250,50000,Kg
+Myanmar,Import,Rice,2017,Malaysia,3092,52000,Kg
+Myanmar,Import,Rice,2017,India,2302,32300,Kg
+Myanmar,Import,Rice,2017,China,902,21500,Kg
+Myanmar,Import,Rice,2016,World,68257,152564000000,Kg
+Myanmar,Import,Rice,2016,Thailand,36020,609532,Kg
+Myanmar,Import,Rice,2016,China,15507,506508,Kg
+Myanmar,Import,Rice,2016,India,9713,159155,Kg
+Myanmar,Import,Rice,2016,Australia,6855,249360,Kg
+Myanmar,Import,Rice,2016,United States,148,987,Kg
+Myanmar,Import,Rice,2016,"Korea, Rep.",15,972,Kg
+Myanmar,Import,Rice,2015,World,142507,344414000000,Kg
+Myanmar,Import,Rice,2015,Singapore,50405,177546000000,Kg
+Myanmar,Import,Rice,2015,Vietnam,47016,747500,Kg
+Myanmar,Import,Rice,2015,Thailand,37406,892617,Kg
+Myanmar,Import,Rice,2015,Philippines,6947,18108,Kg
+Myanmar,Import,Rice,2015,United States,451,7000,Kg
+Myanmar,Import,Rice,2015,Italy,258,95473,Kg
+Myanmar,Import,Rice,2015,Malaysia,25,2500,Kg
+Philippines,Import,Rice,2024,World,251891464,477009000000000,Kg
+Philippines,Import,Rice,2024,Vietnam,181125946,355004000000000,Kg
+Philippines,Import,Rice,2024,Thailand,32863851,64183700000000,Kg
+Philippines,Import,Rice,2024,Pakistan,15544393,30940600000000,Kg
+Philippines,Import,Rice,2024,Myanmar,10321672,20867600000000,Kg
+Philippines,Import,Rice,2024,China,6454542,2090640000000,Kg
+Philippines,Import,Rice,2024,India,4891299,3268220000000,Kg
+Philippines,Import,Rice,2024,"Korea, Rep.",364852,20224000000,Kg
+Philippines,Import,Rice,2024,Cambodia,180140,346906000000,Kg
+Philippines,Import,Rice,2024,Bangladesh,109323,513538,Kg
+Philippines,Import,Rice,2024,Japan,31798,515492,Kg
+Philippines,Import,Rice,2024,Italy,2777,162456,Kg
+Philippines,Import,Rice,2024,Spain,734,348855,Kg
+Philippines,Import,Rice,2024,Australia,128,83649,Kg
+Philippines,Import,Rice,2024,Indonesia,9,6,Kg
+Philippines,Import,Rice,2023,World,163557722,147782000000000,Kg
+Philippines,Import,Rice,2023,Vietnam,127357812,113153000000000,Kg
+Philippines,Import,Rice,2023,Thailand,16346725,1451500000000,Kg
+Philippines,Import,Rice,2023,Myanmar,6410407,601830000000,Kg
+Philippines,Import,Rice,2023,Pakistan,4753222,4218970000000,Kg
+Philippines,Import,Rice,2023,India,4672300,5290980000000,Kg
+Philippines,Import,Rice,2023,China,3613419,4239880000000,Kg
+Philippines,Import,Rice,2023,Cambodia,161875,138697000000,Kg
+Philippines,Import,Rice,2023,"Korea, Rep.",130478,111795000000,Kg
+Philippines,Import,Rice,2023,"Other Asia, nes",65000,556929,Kg
+Philippines,Import,Rice,2023,Japan,40680,351149,Kg
+Philippines,Import,Rice,2023,Italy,5656,484571,Kg
+Philippines,Import,Rice,2023,Spain,113,97077,Kg
+Philippines,Import,Rice,2023,United States,35,302455,Kg
+Philippines,Import,Rice,2022,World,127345693,116055000000000,Kg
+Philippines,Import,Rice,2022,Vietnam,101650320,90553100000000,Kg
+Philippines,Import,Rice,2022,Thailand,6709683,5798170000000,Kg
+Philippines,Import,Rice,2022,Myanmar,6406931,5553670000000,Kg
+Philippines,Import,Rice,2022,Pakistan,5629354,5303570000000,Kg
+Philippines,Import,Rice,2022,India,3941153,5071520000000,Kg
+Philippines,Import,Rice,2022,China,2683121,349370000000,Kg
+Philippines,Import,Rice,2022,"Korea, Rep.",233633,201894000000,Kg
+Philippines,Import,Rice,2022,Singapore,64116,554055,Kg
+Philippines,Import,Rice,2022,Japan,24354,211669,Kg
+Philippines,Import,Rice,2022,France,2181,18848,Kg
+Philippines,Import,Rice,2022,Italy,579,499997,Kg
+Philippines,Import,Rice,2022,Spain,249,214914,Kg
+Philippines,Import,Rice,2022,Indonesia,16,211105,Kg
+Philippines,Import,Rice,2022,Australia,5,48076,Kg
+Philippines,Import,Rice,2021,World,119690705,124074000000000,Kg
+Philippines,Import,Rice,2021,Vietnam,95772323,93771300000000,Kg
+Philippines,Import,Rice,2021,Myanmar,6890882,6744450000000,Kg
+Philippines,Import,Rice,2021,Thailand,5775940,5557620000000,Kg
+Philippines,Import,Rice,2021,China,5182756,8299290000000,Kg
+Philippines,Import,Rice,2021,India,4493696,7920830000000,Kg
+Philippines,Import,Rice,2021,Pakistan,1028566,125160000000,Kg
+Philippines,Import,Rice,2021,Singapore,269292,255614000000,Kg
+Philippines,Import,Rice,2021,Cambodia,131217,124553000000,Kg
+Philippines,Import,Rice,2021,"Other Asia, nes",69554,660211,Kg
+Philippines,Import,Rice,2021,Malaysia,60848,577576,Kg
+Philippines,Import,Rice,2021,Indonesia,12030,214914,Kg
+Philippines,Import,Rice,2021,Canada,2220,210715,Kg
+Philippines,Import,Rice,2021,Spain,789,74864,Kg
+Philippines,Import,Rice,2021,Italy,457,433503,Kg
+Philippines,Import,Rice,2021,Japan,94,163979,Kg
+Philippines,Import,Rice,2021,"Korea, Rep.",27,287388,Kg
+Philippines,Import,Rice,2021,United States,7,75628,Kg
+Philippines,Import,Rice,2021,Saudi Arabia,5,91114,Kg
+Philippines,Import,Rice,2021,Australia,3,34573,Kg
+Philippines,Import,Rice,2020,World,92184053,99340500000000,Kg
+Philippines,Import,Rice,2020,Vietnam,73449958,76199500000000,Kg
+Philippines,Import,Rice,2020,Myanmar,5481533,5656220000000,Kg
+Philippines,Import,Rice,2020,India,5008143,7263290000000,Kg
+Philippines,Import,Rice,2020,China,4428489,6125410000000,Kg
+Philippines,Import,Rice,2020,Thailand,2948756,2955280000000,Kg
+Philippines,Import,Rice,2020,"Korea, Rep.",446608,439073000000,Kg
+Philippines,Import,Rice,2020,Pakistan,371984,653313000000,Kg
+Philippines,Import,Rice,2020,"Other Asia, nes",33286,327240,Kg
+Philippines,Import,Rice,2020,Cambodia,12922,127036,Kg
+Philippines,Import,Rice,2020,Italy,828,151158,Kg
+Philippines,Import,Rice,2020,Spain,746,732923,Kg
+Philippines,Import,Rice,2020,Japan,526,542611,Kg
+Philippines,Import,Rice,2020,Bangladesh,276,271442,Kg
+Philippines,Import,Rice,2019,World,114466821,312182000000000,Kg
+Philippines,Import,Rice,2019,Vietnam,79606928,226981000000000,Kg
+Philippines,Import,Rice,2019,Thailand,17933764,44327600000000,Kg
+Philippines,Import,Rice,2019,Myanmar,7114888,22767600000000,Kg
+Philippines,Import,Rice,2019,Pakistan,6079879,15275900000000,Kg
+Philippines,Import,Rice,2019,India,2222402,1438870000000,Kg
+Philippines,Import,Rice,2019,China,1464432,130780000000,Kg
+Philippines,Import,Rice,2019,Japan,28823,569640,Kg
+Philippines,Import,Rice,2019,"Other Asia, nes",11814,237310,Kg
+Philippines,Import,Rice,2019,"Korea, Rep.",2474,587326,Kg
+Philippines,Import,Rice,2019,Spain,669,6237,Kg
+Philippines,Import,Rice,2019,France,489,6920,Kg
+Philippines,Import,Rice,2019,Italy,141,855,Kg
+Philippines,Import,Rice,2019,Bangladesh,96,1500,Kg
+Philippines,Import,Rice,2019,Singapore,22,39,Kg
+Philippines,Import,Rice,2018,World,73664947,17687000000000,Kg
+Philippines,Import,Rice,2018,Thailand,35517699,84295800000000,Kg
+Philippines,Import,Rice,2018,Vietnam,28072256,67555700000000,Kg
+Philippines,Import,Rice,2018,India,4514240,7343040000000,Kg
+Philippines,Import,Rice,2018,China,3073993,581260000000,Kg
+Philippines,Import,Rice,2018,Pakistan,2125495,5622160000000,Kg
+Philippines,Import,Rice,2018,Myanmar,354804,6237960000000,Kg
+Philippines,Import,Rice,2018,Cambodia,4752,13200,Kg
+Philippines,Import,Rice,2018,Spain,899,4032,Kg
+Philippines,Import,Rice,2018,Italy,760,5820,Kg
+Philippines,Import,Rice,2018,Bangladesh,50,5375,Kg
+Philippines,Import,Rice,2017,World,35772129,84065700000000,Kg
+Philippines,Import,Rice,2017,Vietnam,18655194,47946400000000,Kg
+Philippines,Import,Rice,2017,Thailand,10450951,25848100000000,Kg
+Philippines,Import,Rice,2017,Pakistan,2692211,7800780000000,Kg
+Philippines,Import,Rice,2017,India,2235049,1076740000000,Kg
+Philippines,Import,Rice,2017,China,1332099,445888000000,Kg
+Philippines,Import,Rice,2017,Myanmar,393524,923492000000,Kg
+Philippines,Import,Rice,2017,Japan,11522,220000,Kg
+Philippines,Import,Rice,2017,Italy,749,841176,Kg
+Philippines,Import,Rice,2017,"Korea, Rep.",508,128319,Kg
+Philippines,Import,Rice,2017,Spain,278,2060,Kg
+Philippines,Import,Rice,2017,Bangladesh,44,41962,Kg
+Philippines,Import,Rice,2016,World,21067200,45049800000000,Kg
+Philippines,Import,Rice,2016,Vietnam,10052224,25929600000000,Kg
+Philippines,Import,Rice,2016,Thailand,6994603,17539800000000,Kg
+Philippines,Import,Rice,2016,China,1939224,616622000000,Kg
+Philippines,Import,Rice,2016,India,1920024,556368000000,Kg
+Philippines,Import,Rice,2016,Singapore,148505,400313000000,Kg
+Philippines,Import,Rice,2016,United States,7601,47421,Kg
+Philippines,Import,Rice,2016,Pakistan,2598,20779,Kg
+Philippines,Import,Rice,2016,Kenya,2165,2897,Kg
+Philippines,Import,Rice,2016,Switzerland,208,152,Kg
+Philippines,Import,Rice,2016,Indonesia,47,87,Kg
+Philippines,Import,Rice,2015,World,46472911,110007000000000,Kg
+Philippines,Import,Rice,2015,Vietnam,22329227,58095100000000,Kg
+Philippines,Import,Rice,2015,Thailand,19715455,50362900000000,Kg
+Philippines,Import,Rice,2015,India,2979907,688142000000,Kg
+Philippines,Import,Rice,2015,China,1326648,447786000000,Kg
+Philippines,Import,Rice,2015,"Other Asia, nes",109758,386235000000,Kg
+Philippines,Import,Rice,2015,Singapore,10419,250000,Kg
+Philippines,Import,Rice,2015,Spain,931,5109,Kg
+Philippines,Import,Rice,2015,United Arab Emirates,485,10175,Kg
+Philippines,Import,Rice,2015,Indonesia,81,69,Kg
+Singapore,Import,Rice,2023,World,30680253,43413200000000,Kg
+Singapore,Import,Rice,2023,India,10834414,17910700000000,Kg
+Singapore,Import,Rice,2023,Thailand,9687654,10632300000000,Kg
+Singapore,Import,Rice,2023,Vietnam,7472011,11997800000000,Kg
+Singapore,Import,Rice,2023,Japan,901239,587454000000,Kg
+Singapore,Import,Rice,2023,Cambodia,672956,944919000000,Kg
+Singapore,Import,Rice,2023,Pakistan,303655,466105000000,Kg
+Singapore,Import,Rice,2023,"Other Asia, nes",192570,183936000000,Kg
+Singapore,Import,Rice,2023,Myanmar,188688,373885000000,Kg
+Singapore,Import,Rice,2023,Australia,139504,122301000000,Kg
+Singapore,Import,Rice,2023,United States,130923,971070,Kg
+Singapore,Import,Rice,2023,Bangladesh,48662,355400,Kg
+Singapore,Import,Rice,2023,Italy,35991,93900,Kg
+Singapore,Import,Rice,2023,China,29005,286600,Kg
+Singapore,Import,Rice,2023,"Korea, Rep.",13622,54130,Kg
+Singapore,Import,Rice,2023,Malaysia,11726,926616,Kg
+Singapore,Import,Rice,2023,"Hong Kong, China",8813,40980,Kg
+Singapore,Import,Rice,2023,Spain,5382,21830,Kg
+Singapore,Import,Rice,2023,Sri Lanka,1968,15800,Kg
+Singapore,Import,Rice,2023,United Kingdom,702,1300,Kg
+Singapore,Import,Rice,2023,Turkey,526,3000,Kg
+Singapore,Import,Rice,2023,Germany,118,530,Kg
+Singapore,Import,Rice,2023,France,72,190,Kg
+Singapore,Import,Rice,2023,Indonesia,23,80,Kg
+Singapore,Import,Rice,2023,Fiji,21,30,Kg
+Singapore,Import,Rice,2023,"Iran, Islamic Rep.",5,30,Kg
+Singapore,Import,Rice,2023,Canada,4,31565,Kg
+Singapore,Import,Rice,2023,Solomon Islands,0,1061,Kg
+Singapore,Import,Rice,2022,World,23952179,3697400000000,Kg
+Singapore,Import,Rice,2022,Thailand,8266876,9696770000000,Kg
+Singapore,Import,Rice,2022,India,7622818,14711200000000,Kg
+Singapore,Import,Rice,2022,Vietnam,5581656,9950620000000,Kg
+Singapore,Import,Rice,2022,Japan,999103,603224000000,Kg
+Singapore,Import,Rice,2022,Cambodia,470380,683065000000,Kg
+Singapore,Import,Rice,2022,United States,205350,185518000000,Kg
+Singapore,Import,Rice,2022,Pakistan,172006,389818000000,Kg
+Singapore,Import,Rice,2022,Myanmar,164705,371358000000,Kg
+Singapore,Import,Rice,2022,"Other Asia, nes",155696,153003000000,Kg
+Singapore,Import,Rice,2022,Australia,141763,124715000000,Kg
+Singapore,Import,Rice,2022,China,43649,270640,Kg
+Singapore,Import,Rice,2022,Bangladesh,36371,295660,Kg
+Singapore,Import,Rice,2022,"Korea, Rep.",20367,76000,Kg
+Singapore,Import,Rice,2022,Italy,17894,63920,Kg
+Singapore,Import,Rice,2022,Canada,17442,96860,Kg
+Singapore,Import,Rice,2022,"Hong Kong, China",16499,79800,Kg
+Singapore,Import,Rice,2022,Malaysia,7090,62350,Kg
+Singapore,Import,Rice,2022,Spain,5206,27250,Kg
+Singapore,Import,Rice,2022,United Kingdom,2330,19300,Kg
+Singapore,Import,Rice,2022,Sri Lanka,2130,20410,Kg
+Singapore,Import,Rice,2022,Tunisia,1886,24000,Kg
+Singapore,Import,Rice,2022,Brunei,317,7000,Kg
+Singapore,Import,Rice,2022,Netherlands,228,1750,Kg
+Singapore,Import,Rice,2022,Turkey,163,730,Kg
+Singapore,Import,Rice,2022,Portugal,133,980,Kg
+Singapore,Import,Rice,2022,Indonesia,80,290,Kg
+Singapore,Import,Rice,2022,France,23,40,Kg
+Singapore,Import,Rice,2022,Germany,16,140,Kg
+Singapore,Import,Rice,2022,Bhutan,2,10,Kg
+Singapore,Import,Rice,2021,World,25526824,38167600000000,Kg
+Singapore,Import,Rice,2021,Thailand,9307496,10905700000000,Kg
+Singapore,Import,Rice,2021,India,7166493,13848600000000,Kg
+Singapore,Import,Rice,2021,Vietnam,6633800,11137600000000,Kg
+Singapore,Import,Rice,2021,Japan,982078,503284000000,Kg
+Singapore,Import,Rice,2021,Cambodia,425301,567958000000,Kg
+Singapore,Import,Rice,2021,United States,258035,233098000000,Kg
+Singapore,Import,Rice,2021,Myanmar,201270,45684000000,Kg
+Singapore,Import,Rice,2021,"Other Asia, nes",152489,154828000000,Kg
+Singapore,Import,Rice,2021,Australia,112404,982410,Kg
+Singapore,Import,Rice,2021,Pakistan,110746,147582000000,Kg
+Singapore,Import,Rice,2021,China,51388,328760,Kg
+Singapore,Import,Rice,2021,Bangladesh,34742,323020,Kg
+Singapore,Import,Rice,2021,"Korea, Rep.",22764,83940,Kg
+Singapore,Import,Rice,2021,Italy,22285,73140,Kg
+Singapore,Import,Rice,2021,"Hong Kong, China",12488,60000,Kg
+Singapore,Import,Rice,2021,Sri Lanka,9572,82300,Kg
+Singapore,Import,Rice,2021,Malaysia,8950,108400,Kg
+Singapore,Import,Rice,2021,Indonesia,6325,43530,Kg
+Singapore,Import,Rice,2021,Spain,5979,27370,Kg
+Singapore,Import,Rice,2021,United Kingdom,1566,5220,Kg
+Singapore,Import,Rice,2021,Turkey,423,2080,Kg
+Singapore,Import,Rice,2021,France,88,50,Kg
+Singapore,Import,Rice,2021,Canada,61,40,Kg
+Singapore,Import,Rice,2021,Israel,60,240,Kg
+Singapore,Import,Rice,2021,Bhutan,14,110,Kg
+Singapore,Import,Rice,2021,Papua New Guinea,6,32006,Kg
+Singapore,Import,Rice,2021,Uruguay,1,11303,Kg
+Singapore,Import,Rice,2020,World,29902432,39641700000000,Kg
+Singapore,Import,Rice,2020,Thailand,12913500,12674900000000,Kg
+Singapore,Import,Rice,2020,India,6192342,11659500000000,Kg
+Singapore,Import,Rice,2020,Vietnam,5372217,949170000000,Kg
+Singapore,Import,Rice,2020,China,1422002,1088670000000,Kg
+Singapore,Import,Rice,2020,Cambodia,926623,1070560000000,Kg
+Singapore,Import,Rice,2020,Japan,791773,395835000000,Kg
+Singapore,Import,Rice,2020,"Other Asia, nes",716600,584384000000,Kg
+Singapore,Import,Rice,2020,Myanmar,639621,1696650000000,Kg
+Singapore,Import,Rice,2020,United States,375248,35843000000,Kg
+Singapore,Import,Rice,2020,Pakistan,236005,370099000000,Kg
+Singapore,Import,Rice,2020,Australia,199232,177992000000,Kg
+Singapore,Import,Rice,2020,"Korea, Rep.",41280,186500,Kg
+Singapore,Import,Rice,2020,Bangladesh,21913,214450,Kg
+Singapore,Import,Rice,2020,Italy,17426,63390,Kg
+Singapore,Import,Rice,2020,Indonesia,12766,85659,Kg
+Singapore,Import,Rice,2020,Malaysia,9575,94030,Kg
+Singapore,Import,Rice,2020,Spain,4959,20740,Kg
+Singapore,Import,Rice,2020,Sri Lanka,3411,31190,Kg
+Singapore,Import,Rice,2020,Philippines,2933,19540,Kg
+Singapore,Import,Rice,2020,United Kingdom,1658,6150,Kg
+Singapore,Import,Rice,2020,Turkey,801,5500,Kg
+Singapore,Import,Rice,2020,Portugal,367,3020,Kg
+Singapore,Import,Rice,2020,France,113,291219,Kg
+Singapore,Import,Rice,2020,Canada,37,30,Kg
+Singapore,Import,Rice,2020,Papua New Guinea,18,426478,Kg
+Singapore,Import,Rice,2020,Bhutan,12,120,Kg
+Singapore,Import,Rice,2019,World,23855541,32251900000000,Kg
+Singapore,Import,Rice,2019,Thailand,10118511,9675780000000,Kg
+Singapore,Import,Rice,2019,India,5466066,8865630000000,Kg
+Singapore,Import,Rice,2019,Vietnam,5105935,9414140000000,Kg
+Singapore,Import,Rice,2019,Japan,786149,415469000000,Kg
+Singapore,Import,Rice,2019,Cambodia,652381,803806000000,Kg
+Singapore,Import,Rice,2019,Pakistan,485566,989515000000,Kg
+Singapore,Import,Rice,2019,Myanmar,459517,137920000000,Kg
+Singapore,Import,Rice,2019,United States,328774,321627000000,Kg
+Singapore,Import,Rice,2019,Australia,251333,238557000000,Kg
+Singapore,Import,Rice,2019,"Other Asia, nes",69701,555000,Kg
+Singapore,Import,Rice,2019,China,36177,284920,Kg
+Singapore,Import,Rice,2019,"Korea, Rep.",24486,121250,Kg
+Singapore,Import,Rice,2019,Bangladesh,15923,151460,Kg
+Singapore,Import,Rice,2019,Italy,15374,57930,Kg
+Singapore,Import,Rice,2019,Indonesia,15292,116690,Kg
+Singapore,Import,Rice,2019,Malaysia,12259,125990,Kg
+Singapore,Import,Rice,2019,Spain,4835,21400,Kg
+Singapore,Import,Rice,2019,Sri Lanka,4270,34570,Kg
+Singapore,Import,Rice,2019,Bhutan,1169,5180,Kg
+Singapore,Import,Rice,2019,United Kingdom,931,2810,Kg
+Singapore,Import,Rice,2019,Switzerland,344,1440,Kg
+Singapore,Import,Rice,2019,Turkey,224,1540,Kg
+Singapore,Import,Rice,2019,Canada,162,100,Kg
+Singapore,Import,Rice,2019,"Hong Kong, China",155,770,Kg
+Singapore,Import,Rice,2019,Fiji,5,631343,Kg
+Singapore,Import,Rice,2019,Greece,4,500,Kg
+Singapore,Import,Rice,2019,South Africa,1,10,Kg
+Singapore,Import,Rice,2019,Argentina,0,146503,Kg
+Singapore,Import,Rice,2018,World,22364621,28802300000000,Kg
+Singapore,Import,Rice,2018,Thailand,10646535,10888900000000,Kg
+Singapore,Import,Rice,2018,India,4906873,753550000000,Kg
+Singapore,Import,Rice,2018,Vietnam,4501388,7726040000000,Kg
+Singapore,Import,Rice,2018,Japan,669540,332457000000,Kg
+Singapore,Import,Rice,2018,Cambodia,459795,589426000000,Kg
+Singapore,Import,Rice,2018,United States,351090,34361000000,Kg
+Singapore,Import,Rice,2018,Myanmar,267105,743515000000,Kg
+Singapore,Import,Rice,2018,Australia,252299,267994000000,Kg
+Singapore,Import,Rice,2018,Pakistan,169212,279047000000,Kg
+Singapore,Import,Rice,2018,"Other Asia, nes",29344,164099,Kg
+Singapore,Import,Rice,2018,Bangladesh,22172,207740,Kg
+Singapore,Import,Rice,2018,China,16839,119280,Kg
+Singapore,Import,Rice,2018,"Korea, Rep.",15630,88650,Kg
+Singapore,Import,Rice,2018,Indonesia,15337,123528,Kg
+Singapore,Import,Rice,2018,Italy,15115,52710,Kg
+Singapore,Import,Rice,2018,Malaysia,13652,135210,Kg
+Singapore,Import,Rice,2018,Sri Lanka,4811,34150,Kg
+Singapore,Import,Rice,2018,Spain,4414,19220,Kg
+Singapore,Import,Rice,2018,United Kingdom,1247,2930,Kg
+Singapore,Import,Rice,2018,Bhutan,920,4440,Kg
+Singapore,Import,Rice,2018,Belgium,700,3000,Kg
+Singapore,Import,Rice,2018,Turkey,234,1650,Kg
+Singapore,Import,Rice,2018,Canada,159,100,Kg
+Singapore,Import,Rice,2018,Philippines,134,940,Kg
+Singapore,Import,Rice,2018,Russian Federation,76,500,Kg
+Singapore,Import,Rice,2017,World,21355320,32402300000000,Kg
+Singapore,Import,Rice,2017,Thailand,9582656,12960800000000,Kg
+Singapore,Import,Rice,2017,India,5589039,9354880000000,Kg
+Singapore,Import,Rice,2017,Vietnam,4007819,7553350000000,Kg
+Singapore,Import,Rice,2017,Japan,611690,305553000000,Kg
+Singapore,Import,Rice,2017,United States,508043,62979000000,Kg
+Singapore,Import,Rice,2017,Cambodia,339333,522968000000,Kg
+Singapore,Import,Rice,2017,Australia,242428,260768000000,Kg
+Singapore,Import,Rice,2017,Myanmar,183136,529335000000,Kg
+Singapore,Import,Rice,2017,Pakistan,125408,174875000000,Kg
+Singapore,Import,Rice,2017,"Other Asia, nes",34392,177000,Kg
+Singapore,Import,Rice,2017,Bangladesh,24296,240330,Kg
+Singapore,Import,Rice,2017,China,24148,173780,Kg
+Singapore,Import,Rice,2017,"Korea, Rep.",18938,94220,Kg
+Singapore,Import,Rice,2017,Indonesia,18779,108320,Kg
+Singapore,Import,Rice,2017,Italy,17063,62410,Kg
+Singapore,Import,Rice,2017,Malaysia,13486,121540,Kg
+Singapore,Import,Rice,2017,Sri Lanka,4666,37030,Kg
+Singapore,Import,Rice,2017,Spain,3621,16420,Kg
+Singapore,Import,Rice,2017,Russian Federation,1849,24000,Kg
+Singapore,Import,Rice,2017,Cape Verde,1352,16500,Kg
+Singapore,Import,Rice,2017,United Kingdom,677,1570,Kg
+Singapore,Import,Rice,2017,Bhutan,672,3150,Kg
+Singapore,Import,Rice,2017,Kyrgyz Republic,670,15000,Kg
+Singapore,Import,Rice,2017,Turkey,320,2910,Kg
+Singapore,Import,Rice,2017,Philippines,295,1960,Kg
+Singapore,Import,Rice,2017,Greece,268,1500,Kg
+Singapore,Import,Rice,2017,Netherlands,150,2520,Kg
+Singapore,Import,Rice,2017,Canada,122,110,Kg
+Singapore,Import,Rice,2017,Qatar,2,10,Kg
+Singapore,Import,Rice,2016,World,20680638,NA,NA
+Singapore,Import,Rice,2016,Thailand,9584930,NA,NA
+Singapore,Import,Rice,2016,India,5444182,NA,NA
+Singapore,Import,Rice,2016,Vietnam,3782243,NA,NA
+Singapore,Import,Rice,2016,Japan,533552,NA,NA
+Singapore,Import,Rice,2016,United States,431714,NA,NA
+Singapore,Import,Rice,2016,Cambodia,273551,328202000000,Kg
+Singapore,Import,Rice,2016,Australia,252251,NA,NA
+Singapore,Import,Rice,2016,Myanmar,134091,NA,NA
+Singapore,Import,Rice,2016,Pakistan,102875,NA,NA
+Singapore,Import,Rice,2016,"Other Asia, nes",39515,NA,NA
+Singapore,Import,Rice,2016,Indonesia,22399,NA,NA
+Singapore,Import,Rice,2016,Malaysia,18659,NA,NA
+Singapore,Import,Rice,2016,Bangladesh,18123,NA,NA
+Singapore,Import,Rice,2016,Italy,14431,NA,NA
+Singapore,Import,Rice,2016,China,10059,NA,NA
+Singapore,Import,Rice,2016,"Korea, Rep.",8633,NA,NA
+Singapore,Import,Rice,2016,Sri Lanka,4064,NA,NA
+Singapore,Import,Rice,2016,Spain,2576,NA,NA
+Singapore,Import,Rice,2016,Mongolia,1595,NA,NA
+Singapore,Import,Rice,2016,Belgium,413,NA,NA
+Singapore,Import,Rice,2016,New Zealand,319,NA,NA
+Singapore,Import,Rice,2016,Netherlands,303,NA,NA
+Singapore,Import,Rice,2016,Philippines,89,NA,NA
+Singapore,Import,Rice,2016,Canada,63,NA,NA
+Singapore,Import,Rice,2016,France,8,NA,NA
+Singapore,Import,Rice,2016,Turkey,1,NA,NA
+Singapore,Import,Rice,2016,United Arab Emirates,1,208333333333333300,Kg
+Singapore,Import,Rice,2015,World,26324512,42248600000000,Kg
+Singapore,Import,Rice,2015,Thailand,10892364,12834100000000,Kg
+Singapore,Import,Rice,2015,India,8079980,17342200000000,Kg
+Singapore,Import,Rice,2015,Vietnam,4887361,9161170000000,Kg
+Singapore,Import,Rice,2015,United States,689070,637772000000,Kg
+Singapore,Import,Rice,2015,Cambodia,465315,597588000000,Kg
+Singapore,Import,Rice,2015,Japan,398255,19285000000,Kg
+Singapore,Import,Rice,2015,Australia,279007,285047000000,Kg
+Singapore,Import,Rice,2015,Myanmar,266804,737012000000,Kg
+Singapore,Import,Rice,2015,Pakistan,188134,326094000000,Kg
+Singapore,Import,Rice,2015,"Other Asia, nes",43964,217170,Kg
+Singapore,Import,Rice,2015,Indonesia,41041,382250,Kg
+Singapore,Import,Rice,2015,Bangladesh,23520,273140,Kg
+Singapore,Import,Rice,2015,Italy,20994,143250,Kg
+Singapore,Import,Rice,2015,China,15448,133510,Kg
+Singapore,Import,Rice,2015,Malaysia,14931,123040,Kg
+Singapore,Import,Rice,2015,"Korea, Rep.",13464,52300,Kg
+Singapore,Import,Rice,2015,Spain,4136,16550,Kg
+Singapore,Import,Rice,2015,Sri Lanka,599,6060,Kg
+Singapore,Import,Rice,2015,South Africa,62,220,Kg
+Singapore,Import,Rice,2015,Netherlands,38,300,Kg
+Singapore,Import,Rice,2015,United Kingdom,13,16,Kg
+Singapore,Import,Rice,2015,Canada,12,25277777777777776,Kg
+Thailand,Import,Rice,2024,World,1287393,1297060000000,Kg
+Thailand,Import,Rice,2024,Japan,342557,193217000000,Kg
+Thailand,Import,Rice,2024,Thailand,284472,292494000000,Kg
+Thailand,Import,Rice,2024,India,255424,314013000000,Kg
+Thailand,Import,Rice,2024,Pakistan,166198,134676000000,Kg
+Thailand,Import,Rice,2024,Lao PDR,118679,2277000000,Kg
+Thailand,Import,Rice,2024,Australia,43473,600056,Kg
+Thailand,Import,Rice,2024,Vietnam,42749,630224,Kg
+Thailand,Import,Rice,2024,Italy,29865,109565,Kg
+Thailand,Import,Rice,2024,Spain,2895,8008,Kg
+Thailand,Import,Rice,2024,United Kingdom,655,1318,Kg
+Thailand,Import,Rice,2024,United States,106,31,Kg
+Thailand,Import,Rice,2024,China,81,38,Kg
+Thailand,Import,Rice,2024,Bolivia,52,18,Kg
+Thailand,Import,Rice,2024,"Korea, Rep.",41,118,Kg
+Thailand,Import,Rice,2024,"Other Asia, nes",31,50,Kg
+Thailand,Import,Rice,2024,Ghana,25,5,Kg
+Thailand,Import,Rice,2024,Philippines,17,25,Kg
+Thailand,Import,Rice,2024,Canada,13,19195,Kg
+Thailand,Import,Rice,2024,Belgium,8,1,Kg
+Thailand,Import,Rice,2024,Myanmar,7,16,Kg
+Thailand,Import,Rice,2024,Switzerland,7,37854,Kg
+Thailand,Import,Rice,2024,Netherlands,5,3,Kg
+Thailand,Import,Rice,2024,France,5,70095,Kg
+Thailand,Import,Rice,2024,South Africa,5,9,Kg
+Thailand,Import,Rice,2024,Denmark,4,5,Kg
+Thailand,Import,Rice,2024,Cameroon,3,1,Kg
+Thailand,Import,Rice,2024,Israel,3,1,Kg
+Thailand,Import,Rice,2024,Fiji,3,3,Kg
+Thailand,Import,Rice,2024,Greece,1,1,Kg
+Thailand,Import,Rice,2024,Jordan,1,1,Kg
+Thailand,Import,Rice,2024,Papua New Guinea,1,10606,Kg
+Thailand,Import,Rice,2024,Algeria,1,1,Kg
+Thailand,Import,Rice,2024,Cambodia,1,1,Kg
+Thailand,Import,Rice,2024,Burundi,1,1,Kg
+Thailand,Import,Rice,2024,Turkey,1,1,Kg
+Thailand,Import,Rice,2024,United Arab Emirates,1,1,Kg
+Thailand,Import,Rice,2024,Malaysia,1,1,Kg
+Thailand,Import,Rice,2024,Singapore,0,1,Kg
+Thailand,Import,Rice,2023,World,1266874,1574920000000,Kg
+Thailand,Import,Rice,2023,Thailand,555813,984625000000,Kg
+Thailand,Import,Rice,2023,Japan,240348,132339000000,Kg
+Thailand,Import,Rice,2023,India,239746,261658000000,Kg
+Thailand,Import,Rice,2023,Pakistan,157160,125779000000,Kg
+Thailand,Import,Rice,2023,Australia,28581,270036,Kg
+Thailand,Import,Rice,2023,Vietnam,25023,372157,Kg
+Thailand,Import,Rice,2023,Italy,19663,62564,Kg
+Thailand,Import,Rice,2023,Ghana,270,17,Kg
+Thailand,Import,Rice,2023,China,69,57,Kg
+Thailand,Import,Rice,2023,United States,54,58871,Kg
+Thailand,Import,Rice,2023,Spain,45,20,Kg
+Thailand,Import,Rice,2023,Yemen,20,8,Kg
+Thailand,Import,Rice,2023,France,18,232487,Kg
+Thailand,Import,Rice,2023,Canada,14,5,Kg
+Thailand,Import,Rice,2023,Singapore,8,8,Kg
+Thailand,Import,Rice,2023,Cote d'Ivoire,7,3,Kg
+Thailand,Import,Rice,2023,South Africa,5,5,Kg
+Thailand,Import,Rice,2023,Oman,4,2,Kg
+Thailand,Import,Rice,2023,Lao PDR,4,5,Kg
+Thailand,Import,Rice,2023,Philippines,4,8,Kg
+Thailand,Import,Rice,2023,Senegal,4,1,Kg
+Thailand,Import,Rice,2023,"Other Asia, nes",3,5,Kg
+Thailand,Import,Rice,2023,"Congo, Dem. Rep.",3,1,Kg
+Thailand,Import,Rice,2023,Iraq,2,1,Kg
+Thailand,Import,Rice,2023,Sri Lanka,2,7,Kg
+Thailand,Import,Rice,2023,Germany,2,2,Kg
+Thailand,Import,Rice,2023,Cambodia,2,2,Kg
+Thailand,Import,Rice,2022,World,628705,666366000000,Kg
+Thailand,Import,Rice,2022,Japan,216484,10795000000,Kg
+Thailand,Import,Rice,2022,Pakistan,156314,138522000000,Kg
+Thailand,Import,Rice,2022,India,109120,198061000000,Kg
+Thailand,Import,Rice,2022,Thailand,68866,776557,Kg
+Thailand,Import,Rice,2022,Vietnam,44770,732069,Kg
+Thailand,Import,Rice,2022,Italy,15067,61337,Kg
+Thailand,Import,Rice,2022,China,9704,200006,Kg
+Thailand,Import,Rice,2022,Myanmar,4006,422944,Kg
+Thailand,Import,Rice,2022,Australia,2033,20011,Kg
+Thailand,Import,Rice,2022,United Kingdom,1774,5054,Kg
+Thailand,Import,Rice,2022,United States,398,168491,Kg
+Thailand,Import,Rice,2022,Philippines,31,56,Kg
+Thailand,Import,Rice,2022,Spain,30,19,Kg
+Thailand,Import,Rice,2022,"Other Asia, nes",14,20,Kg
+Thailand,Import,Rice,2022,United Arab Emirates,13,5,Kg
+Thailand,Import,Rice,2022,France,12,1,Kg
+Thailand,Import,Rice,2022,Canada,11,2,Kg
+Thailand,Import,Rice,2022,Netherlands,10,5,Kg
+Thailand,Import,Rice,2022,Denmark,7,6,Kg
+Thailand,Import,Rice,2022,Mozambique,6,5,Kg
+Thailand,Import,Rice,2022,Nigeria,6,4,Kg
+Thailand,Import,Rice,2022,Austria,5,2,Kg
+Thailand,Import,Rice,2022,Bhutan,4,32,Kg
+Thailand,Import,Rice,2022,Mexico,3,2,Kg
+Thailand,Import,Rice,2022,Jordan,3,1,Kg
+Thailand,Import,Rice,2022,"Korea, Rep.",2,2,Kg
+Thailand,Import,Rice,2022,Cambodia,2,1493,Kg
+Thailand,Import,Rice,2022,"Hong Kong, China",1,2,Kg
+Thailand,Import,Rice,2022,Singapore,1,2,Kg
+Thailand,Import,Rice,2022,Benin,1,1,Kg
+Thailand,Import,Rice,2022,South Africa,1,2,Kg
+Thailand,Import,Rice,2022,Oman,1,7982,Kg
+Thailand,Import,Rice,2022,Bangladesh,1,2,Kg
+Thailand,Import,Rice,2022,Sri Lanka,1,2,Kg
+Thailand,Import,Rice,2021,World,1199043,2521730000000,Kg
+Thailand,Import,Rice,2021,Thailand,450884,736383000000,Kg
+Thailand,Import,Rice,2021,China,175036,400011000000,Kg
+Thailand,Import,Rice,2021,Pakistan,165696,169215000000,Kg
+Thailand,Import,Rice,2021,Japan,155746,615908,Kg
+Thailand,Import,Rice,2021,India,109508,85593000000,Kg
+Thailand,Import,Rice,2021,Vietnam,85182,142254000000,Kg
+Thailand,Import,Rice,2021,Norway,24167,91560,Kg
+Thailand,Import,Rice,2021,Myanmar,13558,120702000000,Kg
+Thailand,Import,Rice,2021,Italy,8536,37861,Kg
+Thailand,Import,Rice,2021,Lao PDR,5414,192360,Kg
+Thailand,Import,Rice,2021,Australia,2312,20010,Kg
+Thailand,Import,Rice,2021,Spain,1774,12443,Kg
+Thailand,Import,Rice,2021,United Kingdom,470,1269,Kg
+Thailand,Import,Rice,2021,United States,378,149035,Kg
+Thailand,Import,Rice,2021,Germany,92,236,Kg
+Thailand,Import,Rice,2021,Cambodia,75,300,Kg
+Thailand,Import,Rice,2021,"Other Asia, nes",49,67,Kg
+Thailand,Import,Rice,2021,Ghana,42,18,Kg
+Thailand,Import,Rice,2021,Philippines,30,45,Kg
+Thailand,Import,Rice,2021,Belgium,23,12,Kg
+Thailand,Import,Rice,2021,Israel,15,5,Kg
+Thailand,Import,Rice,2021,Cote d'Ivoire,13,4,Kg
+Thailand,Import,Rice,2021,Singapore,11,17,Kg
+Thailand,Import,Rice,2021,Nigeria,8,4,Kg
+Thailand,Import,Rice,2021,Cameroon,6,2,Kg
+Thailand,Import,Rice,2021,Canada,4,2,Kg
+Thailand,Import,Rice,2021,New Zealand,2,31199,Kg
+Thailand,Import,Rice,2021,Uganda,2,24847,Kg
+Thailand,Import,Rice,2021,Mozambique,2,1,Kg
+Thailand,Import,Rice,2021,"Hong Kong, China",2,3,Kg
+Thailand,Import,Rice,2021,Malaysia,1,2,Kg
+Thailand,Import,Rice,2021,"Korea, Rep.",1,1,Kg
+Thailand,Import,Rice,2021,Sri Lanka,1,4,Kg
+Thailand,Import,Rice,2021,United Arab Emirates,1,14338,Kg
+Thailand,Import,Rice,2021,South Africa,0,1,Kg
+Thailand,Import,Rice,2020,World,1836918,4524380000000,Kg
+Thailand,Import,Rice,2020,Thailand,518532,543936000000,Kg
+Thailand,Import,Rice,2020,Myanmar,346664,196390000000,Kg
+Thailand,Import,Rice,2020,Vietnam,239146,489312000000,Kg
+Thailand,Import,Rice,2020,China,180672,385296000000,Kg
+Thailand,Import,Rice,2020,Japan,145007,567762,Kg
+Thailand,Import,Rice,2020,Pakistan,144002,13827000000,Kg
+Thailand,Import,Rice,2020,Lao PDR,94929,543507000000,Kg
+Thailand,Import,Rice,2020,India,67275,209356000000,Kg
+Thailand,Import,Rice,2020,Cambodia,45718,169501000000,Kg
+Thailand,Import,Rice,2020,Norway,35450,142512,Kg
+Thailand,Import,Rice,2020,Italy,7123,30581,Kg
+Thailand,Import,Rice,2020,United States,6987,30860,Kg
+Thailand,Import,Rice,2020,Australia,2684,30031,Kg
+Thailand,Import,Rice,2020,United Kingdom,1204,3629,Kg
+Thailand,Import,Rice,2020,Israel,676,4310,Kg
+Thailand,Import,Rice,2020,Spain,468,2896,Kg
+Thailand,Import,Rice,2020,Philippines,136,224,Kg
+Thailand,Import,Rice,2020,Cote d'Ivoire,69,28,Kg
+Thailand,Import,Rice,2020,"Other Asia, nes",42,54,Kg
+Thailand,Import,Rice,2020,Austria,38,13,Kg
+Thailand,Import,Rice,2020,Canada,24,7,Kg
+Thailand,Import,Rice,2020,Singapore,20,28,Kg
+Thailand,Import,Rice,2020,Mozambique,19,10,Kg
+Thailand,Import,Rice,2020,Burkina Faso,9,3,Kg
+Thailand,Import,Rice,2020,"Korea, Rep.",8,13,Kg
+Thailand,Import,Rice,2020,Malaysia,5,5,Kg
+Thailand,Import,Rice,2020,Ghana,3,1,Kg
+Thailand,Import,Rice,2020,Denmark,2,11687,Kg
+Thailand,Import,Rice,2020,Finland,2,1,Kg
+Thailand,Import,Rice,2020,"Congo, Dem. Rep.",2,5433,Kg
+Thailand,Import,Rice,2020,Papua New Guinea,1,1,Kg
+Thailand,Import,Rice,2020,"Egypt, Arab Rep.",1,1,Kg
+Thailand,Import,Rice,2020,Belgium,1,8727,Kg
+Thailand,Import,Rice,2019,World,1579748,3270650000000,Kg
+Thailand,Import,Rice,2019,Thailand,544858,576263000000,Kg
+Thailand,Import,Rice,2019,Vietnam,333491,803352000000,Kg
+Thailand,Import,Rice,2019,Myanmar,232993,1391560000000,Kg
+Thailand,Import,Rice,2019,Japan,139903,570014,Kg
+Thailand,Import,Rice,2019,Pakistan,83832,753860,Kg
+Thailand,Import,Rice,2019,India,83410,124925000000,Kg
+Thailand,Import,Rice,2019,Australia,62194,806342,Kg
+Thailand,Import,Rice,2019,Cambodia,30521,545013,Kg
+Thailand,Import,Rice,2019,Norway,29969,120120,Kg
+Thailand,Import,Rice,2019,Lao PDR,15386,820516,Kg
+Thailand,Import,Rice,2019,Italy,13639,90050,Kg
+Thailand,Import,Rice,2019,United States,8233,34534,Kg
+Thailand,Import,Rice,2019,United Kingdom,667,213828,Kg
+Thailand,Import,Rice,2019,Israel,452,2760,Kg
+Thailand,Import,Rice,2019,Spain,47,65,Kg
+Thailand,Import,Rice,2019,Ghana,28,10,Kg
+Thailand,Import,Rice,2019,Cameroon,28,10,Kg
+Thailand,Import,Rice,2019,Cote d'Ivoire,25,8,Kg
+Thailand,Import,Rice,2019,Philippines,19,46,Kg
+Thailand,Import,Rice,2019,United Arab Emirates,11,3908,Kg
+Thailand,Import,Rice,2019,Liberia,9,3,Kg
+Thailand,Import,Rice,2019,South Africa,6,7,Kg
+Thailand,Import,Rice,2019,Papua New Guinea,5,3,Kg
+Thailand,Import,Rice,2019,"Hong Kong, China",4,4,Kg
+Thailand,Import,Rice,2019,Togo,3,2,Kg
+Thailand,Import,Rice,2019,China,3,3,Kg
+Thailand,Import,Rice,2019,Benin,3,1,Kg
+Thailand,Import,Rice,2019,Singapore,3,1,Kg
+Thailand,Import,Rice,2019,"Egypt, Arab Rep.",2,1,Kg
+Thailand,Import,Rice,2019,Kenya,1,1,Kg
+Thailand,Import,Rice,2019,Mozambique,1,1,Kg
+Thailand,Import,Rice,2019,Germany,1,1,Kg
+Thailand,Import,Rice,2019,Turkey,1,1,Kg
+Thailand,Import,Rice,2018,World,1221325,1498950000000,Kg
+Thailand,Import,Rice,2018,Thailand,516884,641308000000,Kg
+Thailand,Import,Rice,2018,Australia,331265,456003000000,Kg
+Thailand,Import,Rice,2018,India,87138,126611000000,Kg
+Thailand,Import,Rice,2018,Japan,82068,334532,Kg
+Thailand,Import,Rice,2018,Pakistan,63726,541131,Kg
+Thailand,Import,Rice,2018,Vietnam,62856,151024000000,Kg
+Thailand,Import,Rice,2018,Norway,54078,207900,Kg
+Thailand,Import,Rice,2018,"Hong Kong, China",11369,107250,Kg
+Thailand,Import,Rice,2018,Italy,9628,42665,Kg
+Thailand,Import,Rice,2018,Spain,1219,3550,Kg
+Thailand,Import,Rice,2018,United Kingdom,718,2200,Kg
+Thailand,Import,Rice,2018,United States,260,450767,Kg
+Thailand,Import,Rice,2018,China,36,130555,Kg
+Thailand,Import,Rice,2018,"Other Asia, nes",23,21,Kg
+Thailand,Import,Rice,2018,Ghana,17,8,Kg
+Thailand,Import,Rice,2018,Cote d'Ivoire,7,102585,Kg
+Thailand,Import,Rice,2018,Philippines,7,14,Kg
+Thailand,Import,Rice,2018,South Africa,6,4,Kg
+Thailand,Import,Rice,2018,"Korea, Rep.",6,766926,Kg
+Thailand,Import,Rice,2018,Malaysia,3,366082,Kg
+Thailand,Import,Rice,2018,Senegal,3,1,Kg
+Thailand,Import,Rice,2018,Singapore,3,3,Kg
+Thailand,Import,Rice,2018,Poland,2,1,Kg
+Thailand,Import,Rice,2018,Cambodia,1,1,Kg
+Thailand,Import,Rice,2018,Cape Verde,1,1,Kg
+Thailand,Import,Rice,2018,Benin,1,138699,Kg
+Thailand,Import,Rice,2018,Myanmar,1,1,Kg
+Thailand,Import,Rice,2018,Portugal,1,72948,Kg
+Thailand,Import,Rice,2018,Lao PDR,0,1,Kg
+Thailand,Import,Rice,2017,World,1400158,1950340000000,Kg
+Thailand,Import,Rice,2017,Thailand,747083,1143680000000,Kg
+Thailand,Import,Rice,2017,Australia,307088,413002000000,Kg
+Thailand,Import,Rice,2017,India,87205,115306000000,Kg
+Thailand,Import,Rice,2017,Pakistan,85638,677093,Kg
+Thailand,Import,Rice,2017,Vietnam,70652,170016000000,Kg
+Thailand,Import,Rice,2017,Japan,59042,230815,Kg
+Thailand,Import,Rice,2017,Norway,25220,100800,Kg
+Thailand,Import,Rice,2017,Italy,8435,35134,Kg
+Thailand,Import,Rice,2017,United States,6955,303387,Kg
+Thailand,Import,Rice,2017,Bulgaria,965,3696,Kg
+Thailand,Import,Rice,2017,United Kingdom,939,3048,Kg
+Thailand,Import,Rice,2017,"Korea, Rep.",576,1782,Kg
+Thailand,Import,Rice,2017,China,179,109801,Kg
+Thailand,Import,Rice,2017,Benin,52,11,Kg
+Thailand,Import,Rice,2017,Belgium,25,17,Kg
+Thailand,Import,Rice,2017,Ghana,15,204432,Kg
+Thailand,Import,Rice,2017,Israel,12,16705,Kg
+Thailand,Import,Rice,2017,Papua New Guinea,12,162315,Kg
+Thailand,Import,Rice,2017,Cameroon,9,7,Kg
+Thailand,Import,Rice,2017,Kenya,9,5,Kg
+Thailand,Import,Rice,2017,Canada,8,116699,Kg
+Thailand,Import,Rice,2017,Poland,8,4,Kg
+Thailand,Import,Rice,2017,Singapore,7,12,Kg
+Thailand,Import,Rice,2017,Syrian Arab Republic,7,4,Kg
+Thailand,Import,Rice,2017,Indonesia,4,8,Kg
+Thailand,Import,Rice,2017,Denmark,3,1,Kg
+Thailand,Import,Rice,2017,Cote d'Ivoire,3,299254,Kg
+Thailand,Import,Rice,2017,South Africa,2,2,Kg
+Thailand,Import,Rice,2017,Angola,2,1,Kg
+Thailand,Import,Rice,2017,Mozambique,2,1,Kg
+Thailand,Import,Rice,2017,Myanmar,1,2,Kg
+Thailand,Import,Rice,2017,Turkey,1,1,Kg
+Thailand,Import,Rice,2017,Mali,1,145927,Kg
+Thailand,Import,Rice,2016,World,953954,1463130000000,Kg
+Thailand,Import,Rice,2016,Thailand,418812,832000000,Kg
+Thailand,Import,Rice,2016,Australia,280014,333369000000,Kg
+Thailand,Import,Rice,2016,India,68103,107152000000,Kg
+Thailand,Import,Rice,2016,Japan,63261,371679,Kg
+Thailand,Import,Rice,2016,Pakistan,42656,323094,Kg
+Thailand,Import,Rice,2016,Norway,32408,119064,Kg
+Thailand,Import,Rice,2016,China,17599,500012,Kg
+Thailand,Import,Rice,2016,Vietnam,16691,350100,Kg
+Thailand,Import,Rice,2016,Italy,7016,30462,Kg
+Thailand,Import,Rice,2016,Russian Federation,6010,200006,Kg
+Thailand,Import,Rice,2016,Turkey,742,10002,Kg
+Thailand,Import,Rice,2016,United Kingdom,436,112779,Kg
+Thailand,Import,Rice,2016,Ghana,50,370594,Kg
+Thailand,Import,Rice,2016,Netherlands,28,743854,Kg
+Thailand,Import,Rice,2016,United States,26,107022,Kg
+Thailand,Import,Rice,2016,Portugal,23,389768,Kg
+Thailand,Import,Rice,2016,Canada,22,349418,Kg
+Thailand,Import,Rice,2016,Belgium,11,258501,Kg
+Thailand,Import,Rice,2016,Myanmar,11,874602,Kg
+Thailand,Import,Rice,2016,Mali,7,6,Kg
+Thailand,Import,Rice,2016,South Africa,6,264654,Kg
+Thailand,Import,Rice,2016,Slovak Republic,5,2,Kg
+Thailand,Import,Rice,2016,Papua New Guinea,3,375808,Kg
+Thailand,Import,Rice,2016,Singapore,3,959502,Kg
+Thailand,Import,Rice,2016,Denmark,2,248931,Kg
+Thailand,Import,Rice,2016,France,2,234581,Kg
+Thailand,Import,Rice,2016,Spain,1,206431,Kg
+Thailand,Import,Rice,2016,Cambodia,1,2,Kg
+Thailand,Import,Rice,2016,Cameroon,1,129433,Kg
+Thailand,Import,Rice,2016,Indonesia,1,106251,Kg
+Thailand,Import,Rice,2016,Lebanon,1,758937,Kg
+Thailand,Import,Rice,2016,United Arab Emirates,1,692702,Kg
+Thailand,Import,Rice,2015,World,1546734,2688780000000,Kg
+Thailand,Import,Rice,2015,Thailand,456868,568474000000,Kg
+Thailand,Import,Rice,2015,Lao PDR,390168,1101140000000,Kg
+Thailand,Import,Rice,2015,Australia,323537,392115000000,Kg
+Thailand,Import,Rice,2015,Vietnam,132901,338705000000,Kg
+Thailand,Import,Rice,2015,India,97822,128248000000,Kg
+Thailand,Import,Rice,2015,Pakistan,42890,343055,Kg
+Thailand,Import,Rice,2015,Japan,35050,221110,Kg
+Thailand,Import,Rice,2015,Netherlands,33815,880005,Kg
+Thailand,Import,Rice,2015,Norway,19640,83236,Kg
+Thailand,Import,Rice,2015,Italy,11565,51890,Kg
+Thailand,Import,Rice,2015,United States,2109,202641,Kg
+Thailand,Import,Rice,2015,"Korea, Rep.",202,1033,Kg
+Thailand,Import,Rice,2015,China,41,108,Kg
+Thailand,Import,Rice,2015,Cambodia,30,30,Kg
+Thailand,Import,Rice,2015,United Arab Emirates,14,9,Kg
+Thailand,Import,Rice,2015,Ghana,10,516807,Kg
+Thailand,Import,Rice,2015,Papua New Guinea,8,3,Kg
+Thailand,Import,Rice,2015,Jordan,8,1,Kg
+Thailand,Import,Rice,2015,Switzerland,7,175156,Kg
+Thailand,Import,Rice,2015,Oman,7,6,Kg
+Thailand,Import,Rice,2015,Russian Federation,6,286404,Kg
+Thailand,Import,Rice,2015,Portugal,5,3,Kg
+Thailand,Import,Rice,2015,United Kingdom,5,212262,Kg
+Thailand,Import,Rice,2015,Singapore,4,2,Kg
+Thailand,Import,Rice,2015,Myanmar,4,579367,Kg
+Thailand,Import,Rice,2015,South Africa,4,2,Kg
+Thailand,Import,Rice,2015,Canada,2,396996,Kg
+Thailand,Import,Rice,2015,Philippines,2,922418,Kg
+Thailand,Import,Rice,2015,Guinea,2,1,Kg
+Thailand,Import,Rice,2015,Cameroon,2,1,Kg
+Thailand,Import,Rice,2015,France,2,1,Kg
+Thailand,Import,Rice,2015,Belgium,2,1,Kg
+Thailand,Import,Rice,2015,Benin,1,165375,Kg
+Thailand,Import,Rice,2015,Libya,1,133142,Kg
+Thailand,Import,Rice,2015,Mauritania,1,118888,Kg
+Vietnam,Import,Rice,2023,World,88778703,96777600000000,Kg
+Vietnam,Import,Rice,2023,Cambodia,58603364,68924600000000,Kg
+Vietnam,Import,Rice,2023,India,25158631,22138800000000,Kg
+Vietnam,Import,Rice,2023,Lao PDR,2060905,207020000000,Kg
+Vietnam,Import,Rice,2023,China,1280848,1506790000000,Kg
+Vietnam,Import,Rice,2023,Myanmar,804133,1260070000000,Kg
+Vietnam,Import,Rice,2023,Thailand,789913,805619000000,Kg
+Vietnam,Import,Rice,2023,Japan,56095,470216,Kg
+Vietnam,Import,Rice,2023,Philippines,10015,117811,Kg
+Vietnam,Import,Rice,2023,"Other Asia, nes",4989,42749,Kg
+Vietnam,Import,Rice,2023,"Korea, Rep.",4665,39969,Kg
+Vietnam,Import,Rice,2023,Italy,4549,389784,Kg
+Vietnam,Import,Rice,2023,Spain,532,456061,Kg
+Vietnam,Import,Rice,2023,United Kingdom,63,512349,Kg
+Vietnam,Import,Rice,2022,World,68962695,89552100000000,Kg
+Vietnam,Import,Rice,2022,Cambodia,43263599,57440100000000,Kg
+Vietnam,Import,Rice,2022,India,21744674,27681200000000,Kg
+Vietnam,Import,Rice,2022,Lao PDR,1573851,165140000000,Kg
+Vietnam,Import,Rice,2022,China,1298361,1723840000000,Kg
+Vietnam,Import,Rice,2022,Thailand,915468,908791000000,Kg
+Vietnam,Import,Rice,2022,Myanmar,115300,996364,Kg
+Vietnam,Import,Rice,2022,Japan,44510,403746,Kg
+Vietnam,Import,Rice,2022,Italy,2662,230046,Kg
+Vietnam,Import,Rice,2022,Philippines,1442,191428,Kg
+Vietnam,Import,Rice,2022,Germany,1272,109895,Kg
+Vietnam,Import,Rice,2022,"Korea, Rep.",1120,967482,Kg
+Vietnam,Import,Rice,2022,Spain,174,150612,Kg
+Vietnam,Import,Rice,2022,France,105,192221,Kg
+Vietnam,Import,Rice,2022,Australia,86,742295,Kg
+Vietnam,Import,Rice,2022,United Kingdom,72,692737,Kg
+Vietnam,Import,Rice,2021,World,71883967,118495000000000,Kg
+Vietnam,Import,Rice,2021,Cambodia,41762486,7459500000000,Kg
+Vietnam,Import,Rice,2021,India,26782574,39123400000000,Kg
+Vietnam,Import,Rice,2021,China,1378617,2462950000000,Kg
+Vietnam,Import,Rice,2021,Thailand,744467,873612000000,Kg
+Vietnam,Import,Rice,2021,Lao PDR,676984,907325000000,Kg
+Vietnam,Import,Rice,2021,Myanmar,475081,46515000000,Kg
+Vietnam,Import,Rice,2021,Japan,50110,495315,Kg
+Vietnam,Import,Rice,2021,Philippines,5531,988149,Kg
+Vietnam,Import,Rice,2021,"Korea, Rep.",3949,374859,Kg
+Vietnam,Import,Rice,2021,Italy,2343,222386,Kg
+Vietnam,Import,Rice,2021,"Other Asia, nes",1388,131731,Kg
+Vietnam,Import,Rice,2021,France,383,60175,Kg
+Vietnam,Import,Rice,2021,United Kingdom,55,58991,Kg
+Vietnam,Import,Rice,2020,World,12738328,18313100000000,Kg
+Vietnam,Import,Rice,2020,Cambodia,8677412,12875900000000,Kg
+Vietnam,Import,Rice,2020,China,1335116,198110000000,Kg
+Vietnam,Import,Rice,2020,India,1018141,1371930000000,Kg
+Vietnam,Import,Rice,2020,Myanmar,659415,788171000000,Kg
+Vietnam,Import,Rice,2020,Lao PDR,542729,584253000000,Kg
+Vietnam,Import,Rice,2020,Thailand,431095,630507000000,Kg
+Vietnam,Import,Rice,2020,Japan,39425,394913,Kg
+Vietnam,Import,Rice,2020,United States,29003,329555,Kg
+Vietnam,Import,Rice,2020,Malaysia,2579,526826,Kg
+Vietnam,Import,Rice,2020,Italy,2050,193654,Kg
+Vietnam,Import,Rice,2020,"Korea, Rep.",594,583506,Kg
+Vietnam,Import,Rice,2020,Philippines,402,596505,Kg
+Vietnam,Import,Rice,2020,Spain,210,198304,Kg
+Vietnam,Import,Rice,2020,France,157,148581,Kg
+Vietnam,Import,Rice,2019,World,3339515,519910000000,Kg
+Vietnam,Import,Rice,2019,China,1335219,2253270000000,Kg
+Vietnam,Import,Rice,2019,Myanmar,654934,1046930000000,Kg
+Vietnam,Import,Rice,2019,Thailand,611536,93198000000,Kg
+Vietnam,Import,Rice,2019,Lao PDR,388480,424489000000,Kg
+Vietnam,Import,Rice,2019,Cambodia,220536,37217000000,Kg
+Vietnam,Import,Rice,2019,India,67229,107115000000,Kg
+Vietnam,Import,Rice,2019,Japan,51680,528422,Kg
+Vietnam,Import,Rice,2019,Philippines,3272,390537,Kg
+Vietnam,Import,Rice,2019,United Arab Emirates,3161,305025,Kg
+Vietnam,Import,Rice,2019,Italy,3147,303685,Kg
+Vietnam,Import,Rice,2019,Spain,169,163538,Kg
+Vietnam,Import,Rice,2019,"Korea, Rep.",150,144736,Kg
+Vietnam,Import,Rice,2018,World,4655928,5826480000000,Kg
+Vietnam,Import,Rice,2018,China,1705224,2207820000000,Kg
+Vietnam,Import,Rice,2018,Thailand,1153093,1365660000000,Kg
+Vietnam,Import,Rice,2018,Myanmar,779982,1081750000000,Kg
+Vietnam,Import,Rice,2018,Lao PDR,729815,82512000000,Kg
+Vietnam,Import,Rice,2018,India,161504,209893000000,Kg
+Vietnam,Import,Rice,2018,"Hong Kong, China",46000,439672,Kg
+Vietnam,Import,Rice,2018,Japan,34343,329176,Kg
+Vietnam,Import,Rice,2018,Cambodia,12936,169767,Kg
+Vietnam,Import,Rice,2018,Singapore,10000,955808,Kg
+Vietnam,Import,Rice,2018,United States,9897,102234,Kg
+Vietnam,Import,Rice,2018,France,7740,174359,Kg
+Vietnam,Import,Rice,2018,Italy,2629,251244,Kg
+Vietnam,Import,Rice,2018,"Korea, Rep.",2291,21899,Kg
+Vietnam,Import,Rice,2018,Pakistan,388,370376,Kg
+Vietnam,Import,Rice,2018,Spain,87,83031,Kg
+Vietnam,Import,Rice,2017,World,4196128,7920960000000,Kg
+Vietnam,Import,Rice,2017,China,1568051,2416930000000,Kg
+Vietnam,Import,Rice,2017,Thailand,1154842,2018560000000,Kg
+Vietnam,Import,Rice,2017,Lao PDR,688996,1734840000000,Kg
+Vietnam,Import,Rice,2017,Unspecified,392642,92835000000,Kg
+Vietnam,Import,Rice,2017,India,214814,327614000000,Kg
+Vietnam,Import,Rice,2017,Myanmar,105405,40203000000,Kg
+Vietnam,Import,Rice,2017,Cambodia,41484,765292,Kg
+Vietnam,Import,Rice,2017,Japan,20524,940415,Kg
+Vietnam,Import,Rice,2017,"Korea, Rep.",6252,46500,Kg
+Vietnam,Import,Rice,2017,Italy,2420,11300,Kg
+Vietnam,Import,Rice,2017,Pakistan,613,8000,Kg
+Vietnam,Import,Rice,2017,Philippines,84,129027,Kg
+Vietnam,Import,Rice,2016,World,4456295,8693270000000,Kg
+Vietnam,Import,Rice,2016,China,1891665,3256860000000,Kg
+Vietnam,Import,Rice,2016,Thailand,1173892,2060850000000,Kg
+Vietnam,Import,Rice,2016,Unspecified,545446,134910000000,Kg
+Vietnam,Import,Rice,2016,Lao PDR,440989,1370410000000,Kg
+Vietnam,Import,Rice,2016,India,323938,5568000000,Kg
+Vietnam,Import,Rice,2016,Philippines,43185,743506,Kg
+Vietnam,Import,Rice,2016,Japan,14812,942531,Kg
+Vietnam,Import,Rice,2016,United States,9946,21390,Kg
+Vietnam,Import,Rice,2016,Cambodia,5355,889595,Kg
+Vietnam,Import,Rice,2016,"Korea, Rep.",4739,33400,Kg
+Vietnam,Import,Rice,2016,Italy,1890,8190,Kg
+Vietnam,Import,Rice,2016,Singapore,167,600,Kg
+Vietnam,Import,Rice,2016,Pakistan,140,2000,Kg
+Vietnam,Import,Rice,2016,United Kingdom,132,170,Kg
+Vietnam,Import,Rice,2015,World,3769242,5011680000000,Kg
+Vietnam,Import,Rice,2015,China,2306054,2427640000000,Kg
+Vietnam,Import,Rice,2015,Thailand,762880,1344390000000,Kg
+Vietnam,Import,Rice,2015,India,318491,335902000000,Kg
+Vietnam,Import,Rice,2015,Lao PDR,169030,524176000000,Kg
+Vietnam,Import,Rice,2015,Unspecified,147315,306131000000,Kg
+Vietnam,Import,Rice,2015,Philippines,48500,510574,Kg
+Vietnam,Import,Rice,2015,Japan,9069,152635,Kg
+Vietnam,Import,Rice,2015,Chad,5612,59079,Kg
+Vietnam,Import,Rice,2015,Italy,1967,10901,Kg
+Vietnam,Import,Rice,2015,United Kingdom,209,741,Kg
+Vietnam,Import,Rice,2015,United States,116,511,Kg

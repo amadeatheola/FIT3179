@@ -1,0 +1,515 @@
+[
+  {
+    "country": "Indonesia",
+    "food": "rice",
+    "col": 1,
+    "year": 2022,
+    "RiceConsumptionPerCapita": 185.22,
+    "RiceConsumptionDaily": 507.45,
+    "Portion": 6
+  },
+  {
+    "country": "Indonesia",
+    "food": "rice",
+    "col": 2,
+    "year": 2022,
+    "RiceConsumptionPerCapita": 185.22,
+    "RiceConsumptionDaily": 507.45,
+    "Portion": 6
+  },
+  {
+    "country": "Indonesia",
+    "food": "rice",
+    "col": 3,
+    "year": 2022,
+    "RiceConsumptionPerCapita": 185.22,
+    "RiceConsumptionDaily": 507.45,
+    "Portion": 6
+  },
+  {
+    "country": "Indonesia",
+    "food": "rice",
+    "col": 4,
+    "year": 2022,
+    "RiceConsumptionPerCapita": 185.22,
+    "RiceConsumptionDaily": 507.45,
+    "Portion": 6
+  },
+  {
+    "country": "Indonesia",
+    "food": "rice",
+    "col": 5,
+    "year": 2022,
+    "RiceConsumptionPerCapita": 185.22,
+    "RiceConsumptionDaily": 507.45,
+    "Portion": 6
+  },
+  {
+    "country": "Indonesia",
+    "food": "rice",
+    "col": 6,
+    "year": 2022,
+    "RiceConsumptionPerCapita": 185.22,
+    "RiceConsumptionDaily": 507.45,
+    "Portion": 6
+  },
+  {
+    "country": "Philippines",
+    "food": "rice",
+    "col": 1,
+    "year": 2022,
+    "RiceConsumptionPerCapita": 194.48,
+    "RiceConsumptionDaily": 532.82,
+    "Portion": 6
+  },
+  {
+    "country": "Philippines",
+    "food": "rice",
+    "col": 2,
+    "year": 2022,
+    "RiceConsumptionPerCapita": 194.48,
+    "RiceConsumptionDaily": 532.82,
+    "Portion": 6
+  },
+  {
+    "country": "Philippines",
+    "food": "rice",
+    "col": 3,
+    "year": 2022,
+    "RiceConsumptionPerCapita": 194.48,
+    "RiceConsumptionDaily": 532.82,
+    "Portion": 6
+  },
+  {
+    "country": "Philippines",
+    "food": "rice",
+    "col": 4,
+    "year": 2022,
+    "RiceConsumptionPerCapita": 194.48,
+    "RiceConsumptionDaily": 532.82,
+    "Portion": 6
+  },
+  {
+    "country": "Philippines",
+    "food": "rice",
+    "col": 5,
+    "year": 2022,
+    "RiceConsumptionPerCapita": 194.48,
+    "RiceConsumptionDaily": 532.82,
+    "Portion": 6
+  },
+  {
+    "country": "Philippines",
+    "food": "rice",
+    "col": 6,
+    "year": 2022,
+    "RiceConsumptionPerCapita": 194.48,
+    "RiceConsumptionDaily": 532.82,
+    "Portion": 6
+  },
+  {
+    "country": "Vietnam",
+    "food": "rice",
+    "col": 1,
+    "year": 2022,
+    "RiceConsumptionPerCapita": 228.13,
+    "RiceConsumptionDaily": 625.01,
+    "Portion": 7
+  },
+  {
+    "country": "Vietnam",
+    "food": "rice",
+    "col": 2,
+    "year": 2022,
+    "RiceConsumptionPerCapita": 228.13,
+    "RiceConsumptionDaily": 625.01,
+    "Portion": 7
+  },
+  {
+    "country": "Vietnam",
+    "food": "rice",
+    "col": 3,
+    "year": 2022,
+    "RiceConsumptionPerCapita": 228.13,
+    "RiceConsumptionDaily": 625.01,
+    "Portion": 7
+  },
+  {
+    "country": "Vietnam",
+    "food": "rice",
+    "col": 4,
+    "year": 2022,
+    "RiceConsumptionPerCapita": 228.13,
+    "RiceConsumptionDaily": 625.01,
+    "Portion": 7
+  },
+  {
+    "country": "Vietnam",
+    "food": "rice",
+    "col": 5,
+    "year": 2022,
+    "RiceConsumptionPerCapita": 228.13,
+    "RiceConsumptionDaily": 625.01,
+    "Portion": 7
+  },
+  {
+    "country": "Vietnam",
+    "food": "rice",
+    "col": 6,
+    "year": 2022,
+    "RiceConsumptionPerCapita": 228.13,
+    "RiceConsumptionDaily": 625.01,
+    "Portion": 7
+  },
+  {
+    "country": "Vietnam",
+    "food": "rice",
+    "col": 7,
+    "year": 2022,
+    "RiceConsumptionPerCapita": 228.13,
+    "RiceConsumptionDaily": 625.01,
+    "Portion": 7
+  },
+  {
+    "country": "Myanmar",
+    "food": "rice",
+    "col": 1,
+    "year": 2022,
+    "RiceConsumptionPerCapita": 278.97,
+    "RiceConsumptionDaily": 764.3,
+    "Portion": 9
+  },
+  {
+    "country": "Myanmar",
+    "food": "rice",
+    "col": 2,
+    "year": 2022,
+    "RiceConsumptionPerCapita": 278.97,
+    "RiceConsumptionDaily": 764.3,
+    "Portion": 9
+  },
+  {
+    "country": "Myanmar",
+    "food": "rice",
+    "col": 3,
+    "year": 2022,
+    "RiceConsumptionPerCapita": 278.97,
+    "RiceConsumptionDaily": 764.3,
+    "Portion": 9
+  },
+  {
+    "country": "Myanmar",
+    "food": "rice",
+    "col": 4,
+    "year": 2022,
+    "RiceConsumptionPerCapita": 278.97,
+    "RiceConsumptionDaily": 764.3,
+    "Portion": 9
+  },
+  {
+    "country": "Myanmar",
+    "food": "rice",
+    "col": 5,
+    "year": 2022,
+    "RiceConsumptionPerCapita": 278.97,
+    "RiceConsumptionDaily": 764.3,
+    "Portion": 9
+  },
+  {
+    "country": "Myanmar",
+    "food": "rice",
+    "col": 6,
+    "year": 2022,
+    "RiceConsumptionPerCapita": 278.97,
+    "RiceConsumptionDaily": 764.3,
+    "Portion": 9
+  },
+  {
+    "country": "Myanmar",
+    "food": "rice",
+    "col": 7,
+    "year": 2022,
+    "RiceConsumptionPerCapita": 278.97,
+    "RiceConsumptionDaily": 764.3,
+    "Portion": 9
+  },
+  {
+    "country": "Myanmar",
+    "food": "rice",
+    "col": 8,
+    "year": 2022,
+    "RiceConsumptionPerCapita": 278.97,
+    "RiceConsumptionDaily": 764.3,
+    "Portion": 9
+  },
+  {
+    "country": "Myanmar",
+    "food": "rice",
+    "col": 9,
+    "year": 2022,
+    "RiceConsumptionPerCapita": 278.97,
+    "RiceConsumptionDaily": 764.3,
+    "Portion": 9
+  },
+  {
+    "country": "Thailand",
+    "food": "rice",
+    "col": 1,
+    "year": 2022,
+    "RiceConsumptionPerCapita": 178.85,
+    "RiceConsumptionDaily": 490.0,
+    "Portion": 6
+  },
+  {
+    "country": "Thailand",
+    "food": "rice",
+    "col": 2,
+    "year": 2022,
+    "RiceConsumptionPerCapita": 178.85,
+    "RiceConsumptionDaily": 490.0,
+    "Portion": 6
+  },
+  {
+    "country": "Thailand",
+    "food": "rice",
+    "col": 3,
+    "year": 2022,
+    "RiceConsumptionPerCapita": 178.85,
+    "RiceConsumptionDaily": 490.0,
+    "Portion": 6
+  },
+  {
+    "country": "Thailand",
+    "food": "rice",
+    "col": 4,
+    "year": 2022,
+    "RiceConsumptionPerCapita": 178.85,
+    "RiceConsumptionDaily": 490.0,
+    "Portion": 6
+  },
+  {
+    "country": "Thailand",
+    "food": "rice",
+    "col": 5,
+    "year": 2022,
+    "RiceConsumptionPerCapita": 178.85,
+    "RiceConsumptionDaily": 490.0,
+    "Portion": 6
+  },
+  {
+    "country": "Thailand",
+    "food": "rice",
+    "col": 6,
+    "year": 2022,
+    "RiceConsumptionPerCapita": 178.85,
+    "RiceConsumptionDaily": 490.0,
+    "Portion": 6
+  },
+  {
+    "country": "Cambodia",
+    "food": "rice",
+    "col": 1,
+    "year": 2022,
+    "RiceConsumptionPerCapita": 247.54,
+    "RiceConsumptionDaily": 678.19,
+    "Portion": 8
+  },
+  {
+    "country": "Cambodia",
+    "food": "rice",
+    "col": 2,
+    "year": 2022,
+    "RiceConsumptionPerCapita": 247.54,
+    "RiceConsumptionDaily": 678.19,
+    "Portion": 8
+  },
+  {
+    "country": "Cambodia",
+    "food": "rice",
+    "col": 3,
+    "year": 2022,
+    "RiceConsumptionPerCapita": 247.54,
+    "RiceConsumptionDaily": 678.19,
+    "Portion": 8
+  },
+  {
+    "country": "Cambodia",
+    "food": "rice",
+    "col": 4,
+    "year": 2022,
+    "RiceConsumptionPerCapita": 247.54,
+    "RiceConsumptionDaily": 678.19,
+    "Portion": 8
+  },
+  {
+    "country": "Cambodia",
+    "food": "rice",
+    "col": 5,
+    "year": 2022,
+    "RiceConsumptionPerCapita": 247.54,
+    "RiceConsumptionDaily": 678.19,
+    "Portion": 8
+  },
+  {
+    "country": "Cambodia",
+    "food": "rice",
+    "col": 6,
+    "year": 2022,
+    "RiceConsumptionPerCapita": 247.54,
+    "RiceConsumptionDaily": 678.19,
+    "Portion": 8
+  },
+  {
+    "country": "Cambodia",
+    "food": "rice",
+    "col": 7,
+    "year": 2022,
+    "RiceConsumptionPerCapita": 247.54,
+    "RiceConsumptionDaily": 678.19,
+    "Portion": 8
+  },
+  {
+    "country": "Cambodia",
+    "food": "rice",
+    "col": 8,
+    "year": 2022,
+    "RiceConsumptionPerCapita": 247.54,
+    "RiceConsumptionDaily": 678.19,
+    "Portion": 8
+  },
+  {
+    "country": "Malaysia",
+    "food": "rice",
+    "col": 1,
+    "year": 2022,
+    "RiceConsumptionPerCapita": 120.68,
+    "RiceConsumptionDaily": 330.63,
+    "Portion": 4
+  },
+  {
+    "country": "Malaysia",
+    "food": "rice",
+    "col": 2,
+    "year": 2022,
+    "RiceConsumptionPerCapita": 120.68,
+    "RiceConsumptionDaily": 330.63,
+    "Portion": 4
+  },
+  {
+    "country": "Malaysia",
+    "food": "rice",
+    "col": 3,
+    "year": 2022,
+    "RiceConsumptionPerCapita": 120.68,
+    "RiceConsumptionDaily": 330.63,
+    "Portion": 4
+  },
+  {
+    "country": "Malaysia",
+    "food": "rice",
+    "col": 4,
+    "year": 2022,
+    "RiceConsumptionPerCapita": 120.68,
+    "RiceConsumptionDaily": 330.63,
+    "Portion": 4
+  },
+  {
+    "country": "Laos",
+    "food": "rice",
+    "col": 1,
+    "year": 2022,
+    "RiceConsumptionPerCapita": 226.86,
+    "RiceConsumptionDaily": 621.53,
+    "Portion": 7
+  },
+  {
+    "country": "Laos",
+    "food": "rice",
+    "col": 2,
+    "year": 2022,
+    "RiceConsumptionPerCapita": 226.86,
+    "RiceConsumptionDaily": 621.53,
+    "Portion": 7
+  },
+  {
+    "country": "Laos",
+    "food": "rice",
+    "col": 3,
+    "year": 2022,
+    "RiceConsumptionPerCapita": 226.86,
+    "RiceConsumptionDaily": 621.53,
+    "Portion": 7
+  },
+  {
+    "country": "Laos",
+    "food": "rice",
+    "col": 4,
+    "year": 2022,
+    "RiceConsumptionPerCapita": 226.86,
+    "RiceConsumptionDaily": 621.53,
+    "Portion": 7
+  },
+  {
+    "country": "Laos",
+    "food": "rice",
+    "col": 5,
+    "year": 2022,
+    "RiceConsumptionPerCapita": 226.86,
+    "RiceConsumptionDaily": 621.53,
+    "Portion": 7
+  },
+  {
+    "country": "Laos",
+    "food": "rice",
+    "col": 6,
+    "year": 2022,
+    "RiceConsumptionPerCapita": 226.86,
+    "RiceConsumptionDaily": 621.53,
+    "Portion": 7
+  },
+  {
+    "country": "Laos",
+    "food": "rice",
+    "col": 7,
+    "year": 2022,
+    "RiceConsumptionPerCapita": 226.86,
+    "RiceConsumptionDaily": 621.53,
+    "Portion": 7
+  },
+  {
+    "country": "Timor-Leste",
+    "food": "rice",
+    "col": 1,
+    "year": 2022,
+    "RiceConsumptionPerCapita": 138.49,
+    "RiceConsumptionDaily": 379.42,
+    "Portion": 4
+  },
+  {
+    "country": "Timor-Leste",
+    "food": "rice",
+    "col": 2,
+    "year": 2022,
+    "RiceConsumptionPerCapita": 138.49,
+    "RiceConsumptionDaily": 379.42,
+    "Portion": 4
+  },
+  {
+    "country": "Timor-Leste",
+    "food": "rice",
+    "col": 3,
+    "year": 2022,
+    "RiceConsumptionPerCapita": 138.49,
+    "RiceConsumptionDaily": 379.42,
+    "Portion": 4
+  },
+  {
+    "country": "Timor-Leste",
+    "food": "rice",
+    "col": 4,
+    "year": 2022,
+    "RiceConsumptionPerCapita": 138.49,
+    "RiceConsumptionDaily": 379.42,
+    "Portion": 4
+  }
+]
