@@ -1,4 +1,4 @@
-Country,Year,Population,Production,Consumption_Per_Capita,Total_Rice_Consumption
+Country,Year,Population,Production,ConsumptionPerCapita,TotalConsumption
 World,2015,7441826877,734077100000,80.4,598322880.9108001
 World,2016,7529066617,737424600000,79.33,597280854.72661
 World,2017,7614748582,748899000000,80.19,610626688.7905799
