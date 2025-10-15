@@ -1,515 +1,3313 @@
 [
   {
-    "country": "Indonesia",
+    "country": "World",
+    "year": 2015,
     "food": "rice",
     "col": 1,
-    "year": 2022,
-    "RiceConsumptionPerCapita": 185.22,
-    "RiceConsumptionDaily": 507.45,
-    "Portion": 6
+    "consumption_daily": 219.91
   },
   {
-    "country": "Indonesia",
+    "country": "World",
+    "year": 2015,
     "food": "rice",
     "col": 2,
-    "year": 2022,
-    "RiceConsumptionPerCapita": 185.22,
-    "RiceConsumptionDaily": 507.45,
-    "Portion": 6
+    "consumption_daily": 219.91
   },
   {
-    "country": "Indonesia",
+    "country": "World",
+    "year": 2015,
     "food": "rice",
     "col": 3,
-    "year": 2022,
-    "RiceConsumptionPerCapita": 185.22,
-    "RiceConsumptionDaily": 507.45,
-    "Portion": 6
+    "consumption_daily": 219.91
   },
   {
-    "country": "Indonesia",
-    "food": "rice",
-    "col": 4,
-    "year": 2022,
-    "RiceConsumptionPerCapita": 185.22,
-    "RiceConsumptionDaily": 507.45,
-    "Portion": 6
-  },
-  {
-    "country": "Indonesia",
-    "food": "rice",
-    "col": 5,
-    "year": 2022,
-    "RiceConsumptionPerCapita": 185.22,
-    "RiceConsumptionDaily": 507.45,
-    "Portion": 6
-  },
-  {
-    "country": "Indonesia",
-    "food": "rice",
-    "col": 6,
-    "year": 2022,
-    "RiceConsumptionPerCapita": 185.22,
-    "RiceConsumptionDaily": 507.45,
-    "Portion": 6
-  },
-  {
-    "country": "Philippines",
+    "country": "World",
+    "year": 2016,
     "food": "rice",
     "col": 1,
-    "year": 2022,
-    "RiceConsumptionPerCapita": 194.48,
-    "RiceConsumptionDaily": 532.82,
-    "Portion": 6
+    "consumption_daily": 216.99
   },
   {
-    "country": "Philippines",
+    "country": "World",
+    "year": 2016,
     "food": "rice",
     "col": 2,
-    "year": 2022,
-    "RiceConsumptionPerCapita": 194.48,
-    "RiceConsumptionDaily": 532.82,
-    "Portion": 6
+    "consumption_daily": 216.99
   },
   {
-    "country": "Philippines",
+    "country": "World",
+    "year": 2016,
     "food": "rice",
     "col": 3,
-    "year": 2022,
-    "RiceConsumptionPerCapita": 194.48,
-    "RiceConsumptionDaily": 532.82,
-    "Portion": 6
+    "consumption_daily": 216.99
   },
   {
-    "country": "Philippines",
-    "food": "rice",
-    "col": 4,
-    "year": 2022,
-    "RiceConsumptionPerCapita": 194.48,
-    "RiceConsumptionDaily": 532.82,
-    "Portion": 6
-  },
-  {
-    "country": "Philippines",
-    "food": "rice",
-    "col": 5,
-    "year": 2022,
-    "RiceConsumptionPerCapita": 194.48,
-    "RiceConsumptionDaily": 532.82,
-    "Portion": 6
-  },
-  {
-    "country": "Philippines",
-    "food": "rice",
-    "col": 6,
-    "year": 2022,
-    "RiceConsumptionPerCapita": 194.48,
-    "RiceConsumptionDaily": 532.82,
-    "Portion": 6
-  },
-  {
-    "country": "Vietnam",
+    "country": "World",
+    "year": 2017,
     "food": "rice",
     "col": 1,
-    "year": 2022,
-    "RiceConsumptionPerCapita": 228.13,
-    "RiceConsumptionDaily": 625.01,
-    "Portion": 7
+    "consumption_daily": 219.34
   },
   {
-    "country": "Vietnam",
+    "country": "World",
+    "year": 2017,
     "food": "rice",
     "col": 2,
-    "year": 2022,
-    "RiceConsumptionPerCapita": 228.13,
-    "RiceConsumptionDaily": 625.01,
-    "Portion": 7
+    "consumption_daily": 219.34
   },
   {
-    "country": "Vietnam",
+    "country": "World",
+    "year": 2017,
     "food": "rice",
     "col": 3,
-    "year": 2022,
-    "RiceConsumptionPerCapita": 228.13,
-    "RiceConsumptionDaily": 625.01,
-    "Portion": 7
+    "consumption_daily": 219.34
   },
   {
-    "country": "Vietnam",
+    "country": "World",
+    "year": 2018,
+    "food": "rice",
+    "col": 1,
+    "consumption_daily": 218.98
+  },
+  {
+    "country": "World",
+    "year": 2018,
+    "food": "rice",
+    "col": 2,
+    "consumption_daily": 218.98
+  },
+  {
+    "country": "World",
+    "year": 2018,
+    "food": "rice",
+    "col": 3,
+    "consumption_daily": 218.98
+  },
+  {
+    "country": "World",
+    "year": 2019,
+    "food": "rice",
+    "col": 1,
+    "consumption_daily": 218.57
+  },
+  {
+    "country": "World",
+    "year": 2019,
+    "food": "rice",
+    "col": 2,
+    "consumption_daily": 218.57
+  },
+  {
+    "country": "World",
+    "year": 2019,
+    "food": "rice",
+    "col": 3,
+    "consumption_daily": 218.57
+  },
+  {
+    "country": "World",
+    "year": 2020,
+    "food": "rice",
+    "col": 1,
+    "consumption_daily": 224.18
+  },
+  {
+    "country": "World",
+    "year": 2020,
+    "food": "rice",
+    "col": 2,
+    "consumption_daily": 224.18
+  },
+  {
+    "country": "World",
+    "year": 2020,
+    "food": "rice",
+    "col": 3,
+    "consumption_daily": 224.18
+  },
+  {
+    "country": "World",
+    "year": 2021,
+    "food": "rice",
+    "col": 1,
+    "consumption_daily": 222.78
+  },
+  {
+    "country": "World",
+    "year": 2021,
+    "food": "rice",
+    "col": 2,
+    "consumption_daily": 222.78
+  },
+  {
+    "country": "World",
+    "year": 2021,
+    "food": "rice",
+    "col": 3,
+    "consumption_daily": 222.78
+  },
+  {
+    "country": "World",
+    "year": 2022,
+    "food": "rice",
+    "col": 1,
+    "consumption_daily": 221.31
+  },
+  {
+    "country": "World",
+    "year": 2022,
+    "food": "rice",
+    "col": 2,
+    "consumption_daily": 221.31
+  },
+  {
+    "country": "World",
+    "year": 2022,
+    "food": "rice",
+    "col": 3,
+    "consumption_daily": 221.31
+  },
+  {
+    "country": "Cambodia",
+    "year": 2015,
+    "food": "rice",
+    "col": 1,
+    "consumption_daily": 660.18
+  },
+  {
+    "country": "Cambodia",
+    "year": 2015,
+    "food": "rice",
+    "col": 2,
+    "consumption_daily": 660.18
+  },
+  {
+    "country": "Cambodia",
+    "year": 2015,
+    "food": "rice",
+    "col": 3,
+    "consumption_daily": 660.18
+  },
+  {
+    "country": "Cambodia",
+    "year": 2015,
     "food": "rice",
     "col": 4,
-    "year": 2022,
-    "RiceConsumptionPerCapita": 228.13,
-    "RiceConsumptionDaily": 625.01,
-    "Portion": 7
+    "consumption_daily": 660.18
   },
   {
-    "country": "Vietnam",
+    "country": "Cambodia",
+    "year": 2015,
     "food": "rice",
     "col": 5,
-    "year": 2022,
-    "RiceConsumptionPerCapita": 228.13,
-    "RiceConsumptionDaily": 625.01,
-    "Portion": 7
+    "consumption_daily": 660.18
   },
   {
-    "country": "Vietnam",
+    "country": "Cambodia",
+    "year": 2015,
     "food": "rice",
     "col": 6,
-    "year": 2022,
-    "RiceConsumptionPerCapita": 228.13,
-    "RiceConsumptionDaily": 625.01,
-    "Portion": 7
+    "consumption_daily": 660.18
   },
   {
-    "country": "Vietnam",
+    "country": "Cambodia",
+    "year": 2015,
     "food": "rice",
     "col": 7,
-    "year": 2022,
-    "RiceConsumptionPerCapita": 228.13,
-    "RiceConsumptionDaily": 625.01,
-    "Portion": 7
+    "consumption_daily": 660.18
   },
   {
-    "country": "Myanmar",
-    "food": "rice",
-    "col": 1,
-    "year": 2022,
-    "RiceConsumptionPerCapita": 278.97,
-    "RiceConsumptionDaily": 764.3,
-    "Portion": 9
-  },
-  {
-    "country": "Myanmar",
-    "food": "rice",
-    "col": 2,
-    "year": 2022,
-    "RiceConsumptionPerCapita": 278.97,
-    "RiceConsumptionDaily": 764.3,
-    "Portion": 9
-  },
-  {
-    "country": "Myanmar",
-    "food": "rice",
-    "col": 3,
-    "year": 2022,
-    "RiceConsumptionPerCapita": 278.97,
-    "RiceConsumptionDaily": 764.3,
-    "Portion": 9
-  },
-  {
-    "country": "Myanmar",
-    "food": "rice",
-    "col": 4,
-    "year": 2022,
-    "RiceConsumptionPerCapita": 278.97,
-    "RiceConsumptionDaily": 764.3,
-    "Portion": 9
-  },
-  {
-    "country": "Myanmar",
-    "food": "rice",
-    "col": 5,
-    "year": 2022,
-    "RiceConsumptionPerCapita": 278.97,
-    "RiceConsumptionDaily": 764.3,
-    "Portion": 9
-  },
-  {
-    "country": "Myanmar",
-    "food": "rice",
-    "col": 6,
-    "year": 2022,
-    "RiceConsumptionPerCapita": 278.97,
-    "RiceConsumptionDaily": 764.3,
-    "Portion": 9
-  },
-  {
-    "country": "Myanmar",
-    "food": "rice",
-    "col": 7,
-    "year": 2022,
-    "RiceConsumptionPerCapita": 278.97,
-    "RiceConsumptionDaily": 764.3,
-    "Portion": 9
-  },
-  {
-    "country": "Myanmar",
+    "country": "Cambodia",
+    "year": 2015,
     "food": "rice",
     "col": 8,
+    "consumption_daily": 660.18
+  },
+  {
+    "country": "Cambodia",
+    "year": 2016,
+    "food": "rice",
+    "col": 1,
+    "consumption_daily": 657.44
+  },
+  {
+    "country": "Cambodia",
+    "year": 2016,
+    "food": "rice",
+    "col": 2,
+    "consumption_daily": 657.44
+  },
+  {
+    "country": "Cambodia",
+    "year": 2016,
+    "food": "rice",
+    "col": 3,
+    "consumption_daily": 657.44
+  },
+  {
+    "country": "Cambodia",
+    "year": 2016,
+    "food": "rice",
+    "col": 4,
+    "consumption_daily": 657.44
+  },
+  {
+    "country": "Cambodia",
+    "year": 2016,
+    "food": "rice",
+    "col": 5,
+    "consumption_daily": 657.44
+  },
+  {
+    "country": "Cambodia",
+    "year": 2016,
+    "food": "rice",
+    "col": 6,
+    "consumption_daily": 657.44
+  },
+  {
+    "country": "Cambodia",
+    "year": 2016,
+    "food": "rice",
+    "col": 7,
+    "consumption_daily": 657.44
+  },
+  {
+    "country": "Cambodia",
+    "year": 2016,
+    "food": "rice",
+    "col": 8,
+    "consumption_daily": 657.44
+  },
+  {
+    "country": "Cambodia",
+    "year": 2017,
+    "food": "rice",
+    "col": 1,
+    "consumption_daily": 664.66
+  },
+  {
+    "country": "Cambodia",
+    "year": 2017,
+    "food": "rice",
+    "col": 2,
+    "consumption_daily": 664.66
+  },
+  {
+    "country": "Cambodia",
+    "year": 2017,
+    "food": "rice",
+    "col": 3,
+    "consumption_daily": 664.66
+  },
+  {
+    "country": "Cambodia",
+    "year": 2017,
+    "food": "rice",
+    "col": 4,
+    "consumption_daily": 664.66
+  },
+  {
+    "country": "Cambodia",
+    "year": 2017,
+    "food": "rice",
+    "col": 5,
+    "consumption_daily": 664.66
+  },
+  {
+    "country": "Cambodia",
+    "year": 2017,
+    "food": "rice",
+    "col": 6,
+    "consumption_daily": 664.66
+  },
+  {
+    "country": "Cambodia",
+    "year": 2017,
+    "food": "rice",
+    "col": 7,
+    "consumption_daily": 664.66
+  },
+  {
+    "country": "Cambodia",
+    "year": 2017,
+    "food": "rice",
+    "col": 8,
+    "consumption_daily": 664.66
+  },
+  {
+    "country": "Cambodia",
+    "year": 2018,
+    "food": "rice",
+    "col": 1,
+    "consumption_daily": 690.73
+  },
+  {
+    "country": "Cambodia",
+    "year": 2018,
+    "food": "rice",
+    "col": 2,
+    "consumption_daily": 690.73
+  },
+  {
+    "country": "Cambodia",
+    "year": 2018,
+    "food": "rice",
+    "col": 3,
+    "consumption_daily": 690.73
+  },
+  {
+    "country": "Cambodia",
+    "year": 2018,
+    "food": "rice",
+    "col": 4,
+    "consumption_daily": 690.73
+  },
+  {
+    "country": "Cambodia",
+    "year": 2018,
+    "food": "rice",
+    "col": 5,
+    "consumption_daily": 690.73
+  },
+  {
+    "country": "Cambodia",
+    "year": 2018,
+    "food": "rice",
+    "col": 6,
+    "consumption_daily": 690.73
+  },
+  {
+    "country": "Cambodia",
+    "year": 2018,
+    "food": "rice",
+    "col": 7,
+    "consumption_daily": 690.73
+  },
+  {
+    "country": "Cambodia",
+    "year": 2018,
+    "food": "rice",
+    "col": 8,
+    "consumption_daily": 690.73
+  },
+  {
+    "country": "Cambodia",
+    "year": 2019,
+    "food": "rice",
+    "col": 1,
+    "consumption_daily": 700.19
+  },
+  {
+    "country": "Cambodia",
+    "year": 2019,
+    "food": "rice",
+    "col": 2,
+    "consumption_daily": 700.19
+  },
+  {
+    "country": "Cambodia",
+    "year": 2019,
+    "food": "rice",
+    "col": 3,
+    "consumption_daily": 700.19
+  },
+  {
+    "country": "Cambodia",
+    "year": 2019,
+    "food": "rice",
+    "col": 4,
+    "consumption_daily": 700.19
+  },
+  {
+    "country": "Cambodia",
+    "year": 2019,
+    "food": "rice",
+    "col": 5,
+    "consumption_daily": 700.19
+  },
+  {
+    "country": "Cambodia",
+    "year": 2019,
+    "food": "rice",
+    "col": 6,
+    "consumption_daily": 700.19
+  },
+  {
+    "country": "Cambodia",
+    "year": 2019,
+    "food": "rice",
+    "col": 7,
+    "consumption_daily": 700.19
+  },
+  {
+    "country": "Cambodia",
+    "year": 2019,
+    "food": "rice",
+    "col": 8,
+    "consumption_daily": 700.19
+  },
+  {
+    "country": "Cambodia",
+    "year": 2020,
+    "food": "rice",
+    "col": 1,
+    "consumption_daily": 702.11
+  },
+  {
+    "country": "Cambodia",
+    "year": 2020,
+    "food": "rice",
+    "col": 2,
+    "consumption_daily": 702.11
+  },
+  {
+    "country": "Cambodia",
+    "year": 2020,
+    "food": "rice",
+    "col": 3,
+    "consumption_daily": 702.11
+  },
+  {
+    "country": "Cambodia",
+    "year": 2020,
+    "food": "rice",
+    "col": 4,
+    "consumption_daily": 702.11
+  },
+  {
+    "country": "Cambodia",
+    "year": 2020,
+    "food": "rice",
+    "col": 5,
+    "consumption_daily": 702.11
+  },
+  {
+    "country": "Cambodia",
+    "year": 2020,
+    "food": "rice",
+    "col": 6,
+    "consumption_daily": 702.11
+  },
+  {
+    "country": "Cambodia",
+    "year": 2020,
+    "food": "rice",
+    "col": 7,
+    "consumption_daily": 702.11
+  },
+  {
+    "country": "Cambodia",
+    "year": 2020,
+    "food": "rice",
+    "col": 8,
+    "consumption_daily": 702.11
+  },
+  {
+    "country": "Cambodia",
+    "year": 2021,
+    "food": "rice",
+    "col": 1,
+    "consumption_daily": 705.25
+  },
+  {
+    "country": "Cambodia",
+    "year": 2021,
+    "food": "rice",
+    "col": 2,
+    "consumption_daily": 705.25
+  },
+  {
+    "country": "Cambodia",
+    "year": 2021,
+    "food": "rice",
+    "col": 3,
+    "consumption_daily": 705.25
+  },
+  {
+    "country": "Cambodia",
+    "year": 2021,
+    "food": "rice",
+    "col": 4,
+    "consumption_daily": 705.25
+  },
+  {
+    "country": "Cambodia",
+    "year": 2021,
+    "food": "rice",
+    "col": 5,
+    "consumption_daily": 705.25
+  },
+  {
+    "country": "Cambodia",
+    "year": 2021,
+    "food": "rice",
+    "col": 6,
+    "consumption_daily": 705.25
+  },
+  {
+    "country": "Cambodia",
+    "year": 2021,
+    "food": "rice",
+    "col": 7,
+    "consumption_daily": 705.25
+  },
+  {
+    "country": "Cambodia",
+    "year": 2021,
+    "food": "rice",
+    "col": 8,
+    "consumption_daily": 705.25
+  },
+  {
+    "country": "Cambodia",
     "year": 2022,
-    "RiceConsumptionPerCapita": 278.97,
-    "RiceConsumptionDaily": 764.3,
-    "Portion": 9
+    "food": "rice",
+    "col": 1,
+    "consumption_daily": 677.08
+  },
+  {
+    "country": "Cambodia",
+    "year": 2022,
+    "food": "rice",
+    "col": 2,
+    "consumption_daily": 677.08
+  },
+  {
+    "country": "Cambodia",
+    "year": 2022,
+    "food": "rice",
+    "col": 3,
+    "consumption_daily": 677.08
+  },
+  {
+    "country": "Cambodia",
+    "year": 2022,
+    "food": "rice",
+    "col": 4,
+    "consumption_daily": 677.08
+  },
+  {
+    "country": "Cambodia",
+    "year": 2022,
+    "food": "rice",
+    "col": 5,
+    "consumption_daily": 677.08
+  },
+  {
+    "country": "Cambodia",
+    "year": 2022,
+    "food": "rice",
+    "col": 6,
+    "consumption_daily": 677.08
+  },
+  {
+    "country": "Cambodia",
+    "year": 2022,
+    "food": "rice",
+    "col": 7,
+    "consumption_daily": 677.08
+  },
+  {
+    "country": "Cambodia",
+    "year": 2022,
+    "food": "rice",
+    "col": 8,
+    "consumption_daily": 677.08
+  },
+  {
+    "country": "Timor-Leste",
+    "year": 2015,
+    "food": "rice",
+    "col": 1,
+    "consumption_daily": 355.58
+  },
+  {
+    "country": "Timor-Leste",
+    "year": 2015,
+    "food": "rice",
+    "col": 2,
+    "consumption_daily": 355.58
+  },
+  {
+    "country": "Timor-Leste",
+    "year": 2015,
+    "food": "rice",
+    "col": 3,
+    "consumption_daily": 355.58
+  },
+  {
+    "country": "Timor-Leste",
+    "year": 2015,
+    "food": "rice",
+    "col": 4,
+    "consumption_daily": 355.58
+  },
+  {
+    "country": "Timor-Leste",
+    "year": 2016,
+    "food": "rice",
+    "col": 1,
+    "consumption_daily": 372.29
+  },
+  {
+    "country": "Timor-Leste",
+    "year": 2016,
+    "food": "rice",
+    "col": 2,
+    "consumption_daily": 372.29
+  },
+  {
+    "country": "Timor-Leste",
+    "year": 2016,
+    "food": "rice",
+    "col": 3,
+    "consumption_daily": 372.29
+  },
+  {
+    "country": "Timor-Leste",
+    "year": 2016,
+    "food": "rice",
+    "col": 4,
+    "consumption_daily": 372.29
+  },
+  {
+    "country": "Timor-Leste",
+    "year": 2017,
+    "food": "rice",
+    "col": 1,
+    "consumption_daily": 370.13
+  },
+  {
+    "country": "Timor-Leste",
+    "year": 2017,
+    "food": "rice",
+    "col": 2,
+    "consumption_daily": 370.13
+  },
+  {
+    "country": "Timor-Leste",
+    "year": 2017,
+    "food": "rice",
+    "col": 3,
+    "consumption_daily": 370.13
+  },
+  {
+    "country": "Timor-Leste",
+    "year": 2017,
+    "food": "rice",
+    "col": 4,
+    "consumption_daily": 370.13
+  },
+  {
+    "country": "Timor-Leste",
+    "year": 2018,
+    "food": "rice",
+    "col": 1,
+    "consumption_daily": 367.34
+  },
+  {
+    "country": "Timor-Leste",
+    "year": 2018,
+    "food": "rice",
+    "col": 2,
+    "consumption_daily": 367.34
+  },
+  {
+    "country": "Timor-Leste",
+    "year": 2018,
+    "food": "rice",
+    "col": 3,
+    "consumption_daily": 367.34
+  },
+  {
+    "country": "Timor-Leste",
+    "year": 2018,
+    "food": "rice",
+    "col": 4,
+    "consumption_daily": 367.34
+  },
+  {
+    "country": "Timor-Leste",
+    "year": 2019,
+    "food": "rice",
+    "col": 1,
+    "consumption_daily": 363.35
+  },
+  {
+    "country": "Timor-Leste",
+    "year": 2019,
+    "food": "rice",
+    "col": 2,
+    "consumption_daily": 363.35
+  },
+  {
+    "country": "Timor-Leste",
+    "year": 2019,
+    "food": "rice",
+    "col": 3,
+    "consumption_daily": 363.35
+  },
+  {
+    "country": "Timor-Leste",
+    "year": 2019,
+    "food": "rice",
+    "col": 4,
+    "consumption_daily": 363.35
+  },
+  {
+    "country": "Timor-Leste",
+    "year": 2020,
+    "food": "rice",
+    "col": 1,
+    "consumption_daily": 373.58
+  },
+  {
+    "country": "Timor-Leste",
+    "year": 2020,
+    "food": "rice",
+    "col": 2,
+    "consumption_daily": 373.58
+  },
+  {
+    "country": "Timor-Leste",
+    "year": 2020,
+    "food": "rice",
+    "col": 3,
+    "consumption_daily": 373.58
+  },
+  {
+    "country": "Timor-Leste",
+    "year": 2020,
+    "food": "rice",
+    "col": 4,
+    "consumption_daily": 373.58
+  },
+  {
+    "country": "Timor-Leste",
+    "year": 2021,
+    "food": "rice",
+    "col": 1,
+    "consumption_daily": 390.4
+  },
+  {
+    "country": "Timor-Leste",
+    "year": 2021,
+    "food": "rice",
+    "col": 2,
+    "consumption_daily": 390.4
+  },
+  {
+    "country": "Timor-Leste",
+    "year": 2021,
+    "food": "rice",
+    "col": 3,
+    "consumption_daily": 390.4
+  },
+  {
+    "country": "Timor-Leste",
+    "year": 2021,
+    "food": "rice",
+    "col": 4,
+    "consumption_daily": 390.4
+  },
+  {
+    "country": "Timor-Leste",
+    "year": 2021,
+    "food": "rice",
+    "col": 5,
+    "consumption_daily": 390.4
+  },
+  {
+    "country": "Timor-Leste",
+    "year": 2022,
+    "food": "rice",
+    "col": 1,
+    "consumption_daily": 378.8
+  },
+  {
+    "country": "Timor-Leste",
+    "year": 2022,
+    "food": "rice",
+    "col": 2,
+    "consumption_daily": 378.8
+  },
+  {
+    "country": "Timor-Leste",
+    "year": 2022,
+    "food": "rice",
+    "col": 3,
+    "consumption_daily": 378.8
+  },
+  {
+    "country": "Timor-Leste",
+    "year": 2022,
+    "food": "rice",
+    "col": 4,
+    "consumption_daily": 378.8
+  },
+  {
+    "country": "Indonesia",
+    "year": 2015,
+    "food": "rice",
+    "col": 1,
+    "consumption_daily": 532.74
+  },
+  {
+    "country": "Indonesia",
+    "year": 2015,
+    "food": "rice",
+    "col": 2,
+    "consumption_daily": 532.74
+  },
+  {
+    "country": "Indonesia",
+    "year": 2015,
+    "food": "rice",
+    "col": 3,
+    "consumption_daily": 532.74
+  },
+  {
+    "country": "Indonesia",
+    "year": 2015,
+    "food": "rice",
+    "col": 4,
+    "consumption_daily": 532.74
+  },
+  {
+    "country": "Indonesia",
+    "year": 2015,
+    "food": "rice",
+    "col": 5,
+    "consumption_daily": 532.74
+  },
+  {
+    "country": "Indonesia",
+    "year": 2015,
+    "food": "rice",
+    "col": 6,
+    "consumption_daily": 532.74
+  },
+  {
+    "country": "Indonesia",
+    "year": 2016,
+    "food": "rice",
+    "col": 1,
+    "consumption_daily": 503.17
+  },
+  {
+    "country": "Indonesia",
+    "year": 2016,
+    "food": "rice",
+    "col": 2,
+    "consumption_daily": 503.17
+  },
+  {
+    "country": "Indonesia",
+    "year": 2016,
+    "food": "rice",
+    "col": 3,
+    "consumption_daily": 503.17
+  },
+  {
+    "country": "Indonesia",
+    "year": 2016,
+    "food": "rice",
+    "col": 4,
+    "consumption_daily": 503.17
+  },
+  {
+    "country": "Indonesia",
+    "year": 2016,
+    "food": "rice",
+    "col": 5,
+    "consumption_daily": 503.17
+  },
+  {
+    "country": "Indonesia",
+    "year": 2016,
+    "food": "rice",
+    "col": 6,
+    "consumption_daily": 503.17
+  },
+  {
+    "country": "Indonesia",
+    "year": 2017,
+    "food": "rice",
+    "col": 1,
+    "consumption_daily": 538.48
+  },
+  {
+    "country": "Indonesia",
+    "year": 2017,
+    "food": "rice",
+    "col": 2,
+    "consumption_daily": 538.48
+  },
+  {
+    "country": "Indonesia",
+    "year": 2017,
+    "food": "rice",
+    "col": 3,
+    "consumption_daily": 538.48
+  },
+  {
+    "country": "Indonesia",
+    "year": 2017,
+    "food": "rice",
+    "col": 4,
+    "consumption_daily": 538.48
+  },
+  {
+    "country": "Indonesia",
+    "year": 2017,
+    "food": "rice",
+    "col": 5,
+    "consumption_daily": 538.48
+  },
+  {
+    "country": "Indonesia",
+    "year": 2017,
+    "food": "rice",
+    "col": 6,
+    "consumption_daily": 538.48
+  },
+  {
+    "country": "Indonesia",
+    "year": 2018,
+    "food": "rice",
+    "col": 1,
+    "consumption_daily": 546.8
+  },
+  {
+    "country": "Indonesia",
+    "year": 2018,
+    "food": "rice",
+    "col": 2,
+    "consumption_daily": 546.8
+  },
+  {
+    "country": "Indonesia",
+    "year": 2018,
+    "food": "rice",
+    "col": 3,
+    "consumption_daily": 546.8
+  },
+  {
+    "country": "Indonesia",
+    "year": 2018,
+    "food": "rice",
+    "col": 4,
+    "consumption_daily": 546.8
+  },
+  {
+    "country": "Indonesia",
+    "year": 2018,
+    "food": "rice",
+    "col": 5,
+    "consumption_daily": 546.8
+  },
+  {
+    "country": "Indonesia",
+    "year": 2018,
+    "food": "rice",
+    "col": 6,
+    "consumption_daily": 546.8
+  },
+  {
+    "country": "Indonesia",
+    "year": 2019,
+    "food": "rice",
+    "col": 1,
+    "consumption_daily": 494.45
+  },
+  {
+    "country": "Indonesia",
+    "year": 2019,
+    "food": "rice",
+    "col": 2,
+    "consumption_daily": 494.45
+  },
+  {
+    "country": "Indonesia",
+    "year": 2019,
+    "food": "rice",
+    "col": 3,
+    "consumption_daily": 494.45
+  },
+  {
+    "country": "Indonesia",
+    "year": 2019,
+    "food": "rice",
+    "col": 4,
+    "consumption_daily": 494.45
+  },
+  {
+    "country": "Indonesia",
+    "year": 2019,
+    "food": "rice",
+    "col": 5,
+    "consumption_daily": 494.45
+  },
+  {
+    "country": "Indonesia",
+    "year": 2019,
+    "food": "rice",
+    "col": 6,
+    "consumption_daily": 494.45
+  },
+  {
+    "country": "Indonesia",
+    "year": 2020,
+    "food": "rice",
+    "col": 1,
+    "consumption_daily": 523.28
+  },
+  {
+    "country": "Indonesia",
+    "year": 2020,
+    "food": "rice",
+    "col": 2,
+    "consumption_daily": 523.28
+  },
+  {
+    "country": "Indonesia",
+    "year": 2020,
+    "food": "rice",
+    "col": 3,
+    "consumption_daily": 523.28
+  },
+  {
+    "country": "Indonesia",
+    "year": 2020,
+    "food": "rice",
+    "col": 4,
+    "consumption_daily": 523.28
+  },
+  {
+    "country": "Indonesia",
+    "year": 2020,
+    "food": "rice",
+    "col": 5,
+    "consumption_daily": 523.28
+  },
+  {
+    "country": "Indonesia",
+    "year": 2020,
+    "food": "rice",
+    "col": 6,
+    "consumption_daily": 523.28
+  },
+  {
+    "country": "Indonesia",
+    "year": 2021,
+    "food": "rice",
+    "col": 1,
+    "consumption_daily": 501.07
+  },
+  {
+    "country": "Indonesia",
+    "year": 2021,
+    "food": "rice",
+    "col": 2,
+    "consumption_daily": 501.07
+  },
+  {
+    "country": "Indonesia",
+    "year": 2021,
+    "food": "rice",
+    "col": 3,
+    "consumption_daily": 501.07
+  },
+  {
+    "country": "Indonesia",
+    "year": 2021,
+    "food": "rice",
+    "col": 4,
+    "consumption_daily": 501.07
+  },
+  {
+    "country": "Indonesia",
+    "year": 2021,
+    "food": "rice",
+    "col": 5,
+    "consumption_daily": 501.07
+  },
+  {
+    "country": "Indonesia",
+    "year": 2021,
+    "food": "rice",
+    "col": 6,
+    "consumption_daily": 501.07
+  },
+  {
+    "country": "Indonesia",
+    "year": 2021,
+    "food": "rice",
+    "col": 1,
+    "consumption_daily": 501.07
+  },
+  {
+    "country": "Indonesia",
+    "year": 2021,
+    "food": "rice",
+    "col": 2,
+    "consumption_daily": 501.07
+  },
+  {
+    "country": "Indonesia",
+    "year": 2021,
+    "food": "rice",
+    "col": 3,
+    "consumption_daily": 501.07
+  },
+  {
+    "country": "Indonesia",
+    "year": 2021,
+    "food": "rice",
+    "col": 4,
+    "consumption_daily": 501.07
+  },
+  {
+    "country": "Indonesia",
+    "year": 2021,
+    "food": "rice",
+    "col": 5,
+    "consumption_daily": 501.07
+  },
+  {
+    "country": "Indonesia",
+    "year": 2021,
+    "food": "rice",
+    "col": 6,
+    "consumption_daily": 501.07
+  },
+  {
+    "country": "Indonesia",
+    "year": 2022,
+    "food": "rice",
+    "col": 1,
+    "consumption_daily": 506.62
+  },
+  {
+    "country": "Indonesia",
+    "year": 2022,
+    "food": "rice",
+    "col": 2,
+    "consumption_daily": 506.62
+  },
+  {
+    "country": "Indonesia",
+    "year": 2022,
+    "food": "rice",
+    "col": 3,
+    "consumption_daily": 506.62
+  },
+  {
+    "country": "Indonesia",
+    "year": 2022,
+    "food": "rice",
+    "col": 4,
+    "consumption_daily": 506.62
+  },
+  {
+    "country": "Indonesia",
+    "year": 2022,
+    "food": "rice",
+    "col": 5,
+    "consumption_daily": 506.62
+  },
+  {
+    "country": "Indonesia",
+    "year": 2022,
+    "food": "rice",
+    "col": 6,
+    "consumption_daily": 506.62
+  },
+  {
+    "country": "Laos",
+    "year": 2015,
+    "food": "rice",
+    "col": 1,
+    "consumption_daily": 660.23
+  },
+  {
+    "country": "Laos",
+    "year": 2015,
+    "food": "rice",
+    "col": 2,
+    "consumption_daily": 660.23
+  },
+  {
+    "country": "Laos",
+    "year": 2015,
+    "food": "rice",
+    "col": 3,
+    "consumption_daily": 660.23
+  },
+  {
+    "country": "Laos",
+    "year": 2015,
+    "food": "rice",
+    "col": 4,
+    "consumption_daily": 660.23
+  },
+  {
+    "country": "Laos",
+    "year": 2015,
+    "food": "rice",
+    "col": 5,
+    "consumption_daily": 660.23
+  },
+  {
+    "country": "Laos",
+    "year": 2015,
+    "food": "rice",
+    "col": 6,
+    "consumption_daily": 660.23
+  },
+  {
+    "country": "Laos",
+    "year": 2015,
+    "food": "rice",
+    "col": 7,
+    "consumption_daily": 660.23
+  },
+  {
+    "country": "Laos",
+    "year": 2015,
+    "food": "rice",
+    "col": 8,
+    "consumption_daily": 660.23
+  },
+  {
+    "country": "Laos",
+    "year": 2016,
+    "food": "rice",
+    "col": 1,
+    "consumption_daily": 660.48
+  },
+  {
+    "country": "Laos",
+    "year": 2016,
+    "food": "rice",
+    "col": 2,
+    "consumption_daily": 660.48
+  },
+  {
+    "country": "Laos",
+    "year": 2016,
+    "food": "rice",
+    "col": 3,
+    "consumption_daily": 660.48
+  },
+  {
+    "country": "Laos",
+    "year": 2016,
+    "food": "rice",
+    "col": 4,
+    "consumption_daily": 660.48
+  },
+  {
+    "country": "Laos",
+    "year": 2016,
+    "food": "rice",
+    "col": 5,
+    "consumption_daily": 660.48
+  },
+  {
+    "country": "Laos",
+    "year": 2016,
+    "food": "rice",
+    "col": 6,
+    "consumption_daily": 660.48
+  },
+  {
+    "country": "Laos",
+    "year": 2016,
+    "food": "rice",
+    "col": 7,
+    "consumption_daily": 660.48
+  },
+  {
+    "country": "Laos",
+    "year": 2016,
+    "food": "rice",
+    "col": 8,
+    "consumption_daily": 660.48
+  },
+  {
+    "country": "Laos",
+    "year": 2017,
+    "food": "rice",
+    "col": 1,
+    "consumption_daily": 660.56
+  },
+  {
+    "country": "Laos",
+    "year": 2017,
+    "food": "rice",
+    "col": 2,
+    "consumption_daily": 660.56
+  },
+  {
+    "country": "Laos",
+    "year": 2017,
+    "food": "rice",
+    "col": 3,
+    "consumption_daily": 660.56
+  },
+  {
+    "country": "Laos",
+    "year": 2017,
+    "food": "rice",
+    "col": 4,
+    "consumption_daily": 660.56
+  },
+  {
+    "country": "Laos",
+    "year": 2017,
+    "food": "rice",
+    "col": 5,
+    "consumption_daily": 660.56
+  },
+  {
+    "country": "Laos",
+    "year": 2017,
+    "food": "rice",
+    "col": 6,
+    "consumption_daily": 660.56
+  },
+  {
+    "country": "Laos",
+    "year": 2017,
+    "food": "rice",
+    "col": 7,
+    "consumption_daily": 660.56
+  },
+  {
+    "country": "Laos",
+    "year": 2017,
+    "food": "rice",
+    "col": 8,
+    "consumption_daily": 660.56
+  },
+  {
+    "country": "Laos",
+    "year": 2018,
+    "food": "rice",
+    "col": 1,
+    "consumption_daily": 660.97
+  },
+  {
+    "country": "Laos",
+    "year": 2018,
+    "food": "rice",
+    "col": 2,
+    "consumption_daily": 660.97
+  },
+  {
+    "country": "Laos",
+    "year": 2018,
+    "food": "rice",
+    "col": 3,
+    "consumption_daily": 660.97
+  },
+  {
+    "country": "Laos",
+    "year": 2018,
+    "food": "rice",
+    "col": 4,
+    "consumption_daily": 660.97
+  },
+  {
+    "country": "Laos",
+    "year": 2018,
+    "food": "rice",
+    "col": 5,
+    "consumption_daily": 660.97
+  },
+  {
+    "country": "Laos",
+    "year": 2018,
+    "food": "rice",
+    "col": 6,
+    "consumption_daily": 660.97
+  },
+  {
+    "country": "Laos",
+    "year": 2018,
+    "food": "rice",
+    "col": 7,
+    "consumption_daily": 660.97
+  },
+  {
+    "country": "Laos",
+    "year": 2018,
+    "food": "rice",
+    "col": 8,
+    "consumption_daily": 660.97
+  },
+  {
+    "country": "Laos",
+    "year": 2019,
+    "food": "rice",
+    "col": 1,
+    "consumption_daily": 640.7
+  },
+  {
+    "country": "Laos",
+    "year": 2019,
+    "food": "rice",
+    "col": 2,
+    "consumption_daily": 640.7
+  },
+  {
+    "country": "Laos",
+    "year": 2019,
+    "food": "rice",
+    "col": 3,
+    "consumption_daily": 640.7
+  },
+  {
+    "country": "Laos",
+    "year": 2019,
+    "food": "rice",
+    "col": 4,
+    "consumption_daily": 640.7
+  },
+  {
+    "country": "Laos",
+    "year": 2019,
+    "food": "rice",
+    "col": 5,
+    "consumption_daily": 640.7
+  },
+  {
+    "country": "Laos",
+    "year": 2019,
+    "food": "rice",
+    "col": 6,
+    "consumption_daily": 640.7
+  },
+  {
+    "country": "Laos",
+    "year": 2019,
+    "food": "rice",
+    "col": 7,
+    "consumption_daily": 640.7
+  },
+  {
+    "country": "Laos",
+    "year": 2019,
+    "food": "rice",
+    "col": 8,
+    "consumption_daily": 640.7
+  },
+  {
+    "country": "Laos",
+    "year": 2020,
+    "food": "rice",
+    "col": 1,
+    "consumption_daily": 610.09
+  },
+  {
+    "country": "Laos",
+    "year": 2020,
+    "food": "rice",
+    "col": 2,
+    "consumption_daily": 610.09
+  },
+  {
+    "country": "Laos",
+    "year": 2020,
+    "food": "rice",
+    "col": 3,
+    "consumption_daily": 610.09
+  },
+  {
+    "country": "Laos",
+    "year": 2020,
+    "food": "rice",
+    "col": 4,
+    "consumption_daily": 610.09
+  },
+  {
+    "country": "Laos",
+    "year": 2020,
+    "food": "rice",
+    "col": 5,
+    "consumption_daily": 610.09
+  },
+  {
+    "country": "Laos",
+    "year": 2020,
+    "food": "rice",
+    "col": 6,
+    "consumption_daily": 610.09
+  },
+  {
+    "country": "Laos",
+    "year": 2020,
+    "food": "rice",
+    "col": 7,
+    "consumption_daily": 610.09
+  },
+  {
+    "country": "Laos",
+    "year": 2021,
+    "food": "rice",
+    "col": 1,
+    "consumption_daily": 609.66
+  },
+  {
+    "country": "Laos",
+    "year": 2021,
+    "food": "rice",
+    "col": 2,
+    "consumption_daily": 609.66
+  },
+  {
+    "country": "Laos",
+    "year": 2021,
+    "food": "rice",
+    "col": 3,
+    "consumption_daily": 609.66
+  },
+  {
+    "country": "Laos",
+    "year": 2021,
+    "food": "rice",
+    "col": 4,
+    "consumption_daily": 609.66
+  },
+  {
+    "country": "Laos",
+    "year": 2021,
+    "food": "rice",
+    "col": 5,
+    "consumption_daily": 609.66
+  },
+  {
+    "country": "Laos",
+    "year": 2021,
+    "food": "rice",
+    "col": 6,
+    "consumption_daily": 609.66
+  },
+  {
+    "country": "Laos",
+    "year": 2021,
+    "food": "rice",
+    "col": 7,
+    "consumption_daily": 609.66
+  },
+  {
+    "country": "Laos",
+    "year": 2022,
+    "food": "rice",
+    "col": 1,
+    "consumption_daily": 620.51
+  },
+  {
+    "country": "Laos",
+    "year": 2022,
+    "food": "rice",
+    "col": 2,
+    "consumption_daily": 620.51
+  },
+  {
+    "country": "Laos",
+    "year": 2022,
+    "food": "rice",
+    "col": 3,
+    "consumption_daily": 620.51
+  },
+  {
+    "country": "Laos",
+    "year": 2022,
+    "food": "rice",
+    "col": 4,
+    "consumption_daily": 620.51
+  },
+  {
+    "country": "Laos",
+    "year": 2022,
+    "food": "rice",
+    "col": 5,
+    "consumption_daily": 620.51
+  },
+  {
+    "country": "Laos",
+    "year": 2022,
+    "food": "rice",
+    "col": 6,
+    "consumption_daily": 620.51
+  },
+  {
+    "country": "Laos",
+    "year": 2022,
+    "food": "rice",
+    "col": 7,
+    "consumption_daily": 620.51
+  },
+  {
+    "country": "Malaysia",
+    "year": 2015,
+    "food": "rice",
+    "col": 1,
+    "consumption_daily": 332
+  },
+  {
+    "country": "Malaysia",
+    "year": 2015,
+    "food": "rice",
+    "col": 2,
+    "consumption_daily": 332
+  },
+  {
+    "country": "Malaysia",
+    "year": 2015,
+    "food": "rice",
+    "col": 3,
+    "consumption_daily": 332
+  },
+  {
+    "country": "Malaysia",
+    "year": 2015,
+    "food": "rice",
+    "col": 4,
+    "consumption_daily": 332
+  },
+  {
+    "country": "Malaysia",
+    "year": 2016,
+    "food": "rice",
+    "col": 1,
+    "consumption_daily": 320.08
+  },
+  {
+    "country": "Malaysia",
+    "year": 2016,
+    "food": "rice",
+    "col": 2,
+    "consumption_daily": 320.08
+  },
+  {
+    "country": "Malaysia",
+    "year": 2016,
+    "food": "rice",
+    "col": 3,
+    "consumption_daily": 320.08
+  },
+  {
+    "country": "Malaysia",
+    "year": 2016,
+    "food": "rice",
+    "col": 4,
+    "consumption_daily": 320.08
+  },
+  {
+    "country": "Malaysia",
+    "year": 2017,
+    "food": "rice",
+    "col": 1,
+    "consumption_daily": 310.2
+  },
+  {
+    "country": "Malaysia",
+    "year": 2017,
+    "food": "rice",
+    "col": 2,
+    "consumption_daily": 310.2
+  },
+  {
+    "country": "Malaysia",
+    "year": 2017,
+    "food": "rice",
+    "col": 3,
+    "consumption_daily": 310.2
+  },
+  {
+    "country": "Malaysia",
+    "year": 2017,
+    "food": "rice",
+    "col": 4,
+    "consumption_daily": 310.2
+  },
+  {
+    "country": "Malaysia",
+    "year": 2018,
+    "food": "rice",
+    "col": 1,
+    "consumption_daily": 315.97
+  },
+  {
+    "country": "Malaysia",
+    "year": 2018,
+    "food": "rice",
+    "col": 2,
+    "consumption_daily": 315.97
+  },
+  {
+    "country": "Malaysia",
+    "year": 2018,
+    "food": "rice",
+    "col": 3,
+    "consumption_daily": 315.97
+  },
+  {
+    "country": "Malaysia",
+    "year": 2018,
+    "food": "rice",
+    "col": 4,
+    "consumption_daily": 315.97
+  },
+  {
+    "country": "Malaysia",
+    "year": 2019,
+    "food": "rice",
+    "col": 1,
+    "consumption_daily": 317.97
+  },
+  {
+    "country": "Malaysia",
+    "year": 2019,
+    "food": "rice",
+    "col": 2,
+    "consumption_daily": 317.97
+  },
+  {
+    "country": "Malaysia",
+    "year": 2019,
+    "food": "rice",
+    "col": 3,
+    "consumption_daily": 317.97
+  },
+  {
+    "country": "Malaysia",
+    "year": 2019,
+    "food": "rice",
+    "col": 4,
+    "consumption_daily": 317.97
+  },
+  {
+    "country": "Malaysia",
+    "year": 2020,
+    "food": "rice",
+    "col": 1,
+    "consumption_daily": 329.46
+  },
+  {
+    "country": "Malaysia",
+    "year": 2020,
+    "food": "rice",
+    "col": 2,
+    "consumption_daily": 329.46
+  },
+  {
+    "country": "Malaysia",
+    "year": 2020,
+    "food": "rice",
+    "col": 3,
+    "consumption_daily": 329.46
+  },
+  {
+    "country": "Malaysia",
+    "year": 2020,
+    "food": "rice",
+    "col": 4,
+    "consumption_daily": 329.46
+  },
+  {
+    "country": "Malaysia",
+    "year": 2021,
+    "food": "rice",
+    "col": 1,
+    "consumption_daily": 330.61
+  },
+  {
+    "country": "Malaysia",
+    "year": 2021,
+    "food": "rice",
+    "col": 2,
+    "consumption_daily": 330.61
+  },
+  {
+    "country": "Malaysia",
+    "year": 2021,
+    "food": "rice",
+    "col": 3,
+    "consumption_daily": 330.61
+  },
+  {
+    "country": "Malaysia",
+    "year": 2021,
+    "food": "rice",
+    "col": 4,
+    "consumption_daily": 330.61
+  },
+  {
+    "country": "Malaysia",
+    "year": 2022,
+    "food": "rice",
+    "col": 1,
+    "consumption_daily": 330.09
+  },
+  {
+    "country": "Malaysia",
+    "year": 2022,
+    "food": "rice",
+    "col": 2,
+    "consumption_daily": 330.09
+  },
+  {
+    "country": "Malaysia",
+    "year": 2022,
+    "food": "rice",
+    "col": 3,
+    "consumption_daily": 330.09
+  },
+  {
+    "country": "Malaysia",
+    "year": 2022,
+    "food": "rice",
+    "col": 4,
+    "consumption_daily": 330.09
   },
   {
     "country": "Myanmar",
+    "year": 2015,
+    "food": "rice",
+    "col": 1,
+    "consumption_daily": 547.95
+  },
+  {
+    "country": "Myanmar",
+    "year": 2015,
+    "food": "rice",
+    "col": 2,
+    "consumption_daily": 547.95
+  },
+  {
+    "country": "Myanmar",
+    "year": 2015,
+    "food": "rice",
+    "col": 3,
+    "consumption_daily": 547.95
+  },
+  {
+    "country": "Myanmar",
+    "year": 2015,
+    "food": "rice",
+    "col": 4,
+    "consumption_daily": 547.95
+  },
+  {
+    "country": "Myanmar",
+    "year": 2015,
+    "food": "rice",
+    "col": 5,
+    "consumption_daily": 547.95
+  },
+  {
+    "country": "Myanmar",
+    "year": 2015,
+    "food": "rice",
+    "col": 6,
+    "consumption_daily": 547.95
+  },
+  {
+    "country": "Myanmar",
+    "year": 2016,
+    "food": "rice",
+    "col": 1,
+    "consumption_daily": 544.94
+  },
+  {
+    "country": "Myanmar",
+    "year": 2016,
+    "food": "rice",
+    "col": 2,
+    "consumption_daily": 544.94
+  },
+  {
+    "country": "Myanmar",
+    "year": 2016,
+    "food": "rice",
+    "col": 3,
+    "consumption_daily": 544.94
+  },
+  {
+    "country": "Myanmar",
+    "year": 2016,
+    "food": "rice",
+    "col": 4,
+    "consumption_daily": 544.94
+  },
+  {
+    "country": "Myanmar",
+    "year": 2016,
+    "food": "rice",
+    "col": 5,
+    "consumption_daily": 544.94
+  },
+  {
+    "country": "Myanmar",
+    "year": 2016,
+    "food": "rice",
+    "col": 6,
+    "consumption_daily": 544.94
+  },
+  {
+    "country": "Myanmar",
+    "year": 2017,
+    "food": "rice",
+    "col": 1,
+    "consumption_daily": 546.47
+  },
+  {
+    "country": "Myanmar",
+    "year": 2017,
+    "food": "rice",
+    "col": 2,
+    "consumption_daily": 546.47
+  },
+  {
+    "country": "Myanmar",
+    "year": 2017,
+    "food": "rice",
+    "col": 3,
+    "consumption_daily": 546.47
+  },
+  {
+    "country": "Myanmar",
+    "year": 2017,
+    "food": "rice",
+    "col": 4,
+    "consumption_daily": 546.47
+  },
+  {
+    "country": "Myanmar",
+    "year": 2017,
+    "food": "rice",
+    "col": 5,
+    "consumption_daily": 546.47
+  },
+  {
+    "country": "Myanmar",
+    "year": 2017,
+    "food": "rice",
+    "col": 6,
+    "consumption_daily": 546.47
+  },
+  {
+    "country": "Myanmar",
+    "year": 2018,
+    "food": "rice",
+    "col": 1,
+    "consumption_daily": 544.56
+  },
+  {
+    "country": "Myanmar",
+    "year": 2018,
+    "food": "rice",
+    "col": 2,
+    "consumption_daily": 544.56
+  },
+  {
+    "country": "Myanmar",
+    "year": 2018,
+    "food": "rice",
+    "col": 3,
+    "consumption_daily": 544.56
+  },
+  {
+    "country": "Myanmar",
+    "year": 2018,
+    "food": "rice",
+    "col": 4,
+    "consumption_daily": 544.56
+  },
+  {
+    "country": "Myanmar",
+    "year": 2018,
+    "food": "rice",
+    "col": 5,
+    "consumption_daily": 544.56
+  },
+  {
+    "country": "Myanmar",
+    "year": 2018,
+    "food": "rice",
+    "col": 6,
+    "consumption_daily": 544.56
+  },
+  {
+    "country": "Myanmar",
+    "year": 2019,
+    "food": "rice",
+    "col": 1,
+    "consumption_daily": 528.58
+  },
+  {
+    "country": "Myanmar",
+    "year": 2019,
+    "food": "rice",
+    "col": 2,
+    "consumption_daily": 528.58
+  },
+  {
+    "country": "Myanmar",
+    "year": 2019,
+    "food": "rice",
+    "col": 3,
+    "consumption_daily": 528.58
+  },
+  {
+    "country": "Myanmar",
+    "year": 2019,
+    "food": "rice",
+    "col": 4,
+    "consumption_daily": 528.58
+  },
+  {
+    "country": "Myanmar",
+    "year": 2019,
+    "food": "rice",
+    "col": 5,
+    "consumption_daily": 528.58
+  },
+  {
+    "country": "Myanmar",
+    "year": 2019,
+    "food": "rice",
+    "col": 6,
+    "consumption_daily": 528.58
+  },
+  {
+    "country": "Myanmar",
+    "year": 2020,
+    "food": "rice",
+    "col": 1,
+    "consumption_daily": 716.36
+  },
+  {
+    "country": "Myanmar",
+    "year": 2020,
+    "food": "rice",
+    "col": 2,
+    "consumption_daily": 716.36
+  },
+  {
+    "country": "Myanmar",
+    "year": 2020,
+    "food": "rice",
+    "col": 3,
+    "consumption_daily": 716.36
+  },
+  {
+    "country": "Myanmar",
+    "year": 2020,
+    "food": "rice",
+    "col": 4,
+    "consumption_daily": 716.36
+  },
+  {
+    "country": "Myanmar",
+    "year": 2020,
+    "food": "rice",
+    "col": 5,
+    "consumption_daily": 716.36
+  },
+  {
+    "country": "Myanmar",
+    "year": 2020,
+    "food": "rice",
+    "col": 6,
+    "consumption_daily": 716.36
+  },
+  {
+    "country": "Myanmar",
+    "year": 2020,
+    "food": "rice",
+    "col": 7,
+    "consumption_daily": 716.36
+  },
+  {
+    "country": "Myanmar",
+    "year": 2020,
+    "food": "rice",
+    "col": 8,
+    "consumption_daily": 716.36
+  },
+  {
+    "country": "Myanmar",
+    "year": 2021,
+    "food": "rice",
+    "col": 1,
+    "consumption_daily": 735.07
+  },
+  {
+    "country": "Myanmar",
+    "year": 2021,
+    "food": "rice",
+    "col": 2,
+    "consumption_daily": 735.07
+  },
+  {
+    "country": "Myanmar",
+    "year": 2021,
+    "food": "rice",
+    "col": 3,
+    "consumption_daily": 735.07
+  },
+  {
+    "country": "Myanmar",
+    "year": 2021,
+    "food": "rice",
+    "col": 4,
+    "consumption_daily": 735.07
+  },
+  {
+    "country": "Myanmar",
+    "year": 2021,
+    "food": "rice",
+    "col": 5,
+    "consumption_daily": 735.07
+  },
+  {
+    "country": "Myanmar",
+    "year": 2021,
+    "food": "rice",
+    "col": 6,
+    "consumption_daily": 735.07
+  },
+  {
+    "country": "Myanmar",
+    "year": 2021,
+    "food": "rice",
+    "col": 7,
+    "consumption_daily": 735.07
+  },
+  {
+    "country": "Myanmar",
+    "year": 2021,
+    "food": "rice",
+    "col": 8,
+    "consumption_daily": 735.07
+  },
+  {
+    "country": "Myanmar",
+    "year": 2021,
     "food": "rice",
     "col": 9,
-    "year": 2022,
-    "RiceConsumptionPerCapita": 278.97,
-    "RiceConsumptionDaily": 764.3,
-    "Portion": 9
+    "consumption_daily": 735.07
   },
   {
-    "country": "Thailand",
+    "country": "Myanmar",
+    "year": 2022,
     "food": "rice",
     "col": 1,
-    "year": 2022,
-    "RiceConsumptionPerCapita": 178.85,
-    "RiceConsumptionDaily": 490.0,
-    "Portion": 6
+    "consumption_daily": 763.05
   },
   {
-    "country": "Thailand",
+    "country": "Myanmar",
+    "year": 2022,
     "food": "rice",
     "col": 2,
-    "year": 2022,
-    "RiceConsumptionPerCapita": 178.85,
-    "RiceConsumptionDaily": 490.0,
-    "Portion": 6
+    "consumption_daily": 763.05
   },
   {
-    "country": "Thailand",
+    "country": "Myanmar",
+    "year": 2022,
     "food": "rice",
     "col": 3,
-    "year": 2022,
-    "RiceConsumptionPerCapita": 178.85,
-    "RiceConsumptionDaily": 490.0,
-    "Portion": 6
+    "consumption_daily": 763.05
   },
   {
-    "country": "Thailand",
+    "country": "Myanmar",
+    "year": 2022,
     "food": "rice",
     "col": 4,
-    "year": 2022,
-    "RiceConsumptionPerCapita": 178.85,
-    "RiceConsumptionDaily": 490.0,
-    "Portion": 6
+    "consumption_daily": 763.05
   },
   {
-    "country": "Thailand",
+    "country": "Myanmar",
+    "year": 2022,
     "food": "rice",
     "col": 5,
-    "year": 2022,
-    "RiceConsumptionPerCapita": 178.85,
-    "RiceConsumptionDaily": 490.0,
-    "Portion": 6
+    "consumption_daily": 763.05
   },
   {
-    "country": "Thailand",
+    "country": "Myanmar",
+    "year": 2022,
     "food": "rice",
     "col": 6,
-    "year": 2022,
-    "RiceConsumptionPerCapita": 178.85,
-    "RiceConsumptionDaily": 490.0,
-    "Portion": 6
+    "consumption_daily": 763.05
   },
   {
-    "country": "Cambodia",
-    "food": "rice",
-    "col": 1,
+    "country": "Myanmar",
     "year": 2022,
-    "RiceConsumptionPerCapita": 247.54,
-    "RiceConsumptionDaily": 678.19,
-    "Portion": 8
-  },
-  {
-    "country": "Cambodia",
-    "food": "rice",
-    "col": 2,
-    "year": 2022,
-    "RiceConsumptionPerCapita": 247.54,
-    "RiceConsumptionDaily": 678.19,
-    "Portion": 8
-  },
-  {
-    "country": "Cambodia",
-    "food": "rice",
-    "col": 3,
-    "year": 2022,
-    "RiceConsumptionPerCapita": 247.54,
-    "RiceConsumptionDaily": 678.19,
-    "Portion": 8
-  },
-  {
-    "country": "Cambodia",
-    "food": "rice",
-    "col": 4,
-    "year": 2022,
-    "RiceConsumptionPerCapita": 247.54,
-    "RiceConsumptionDaily": 678.19,
-    "Portion": 8
-  },
-  {
-    "country": "Cambodia",
-    "food": "rice",
-    "col": 5,
-    "year": 2022,
-    "RiceConsumptionPerCapita": 247.54,
-    "RiceConsumptionDaily": 678.19,
-    "Portion": 8
-  },
-  {
-    "country": "Cambodia",
-    "food": "rice",
-    "col": 6,
-    "year": 2022,
-    "RiceConsumptionPerCapita": 247.54,
-    "RiceConsumptionDaily": 678.19,
-    "Portion": 8
-  },
-  {
-    "country": "Cambodia",
     "food": "rice",
     "col": 7,
-    "year": 2022,
-    "RiceConsumptionPerCapita": 247.54,
-    "RiceConsumptionDaily": 678.19,
-    "Portion": 8
+    "consumption_daily": 763.05
   },
   {
-    "country": "Cambodia",
+    "country": "Myanmar",
+    "year": 2022,
     "food": "rice",
     "col": 8,
-    "year": 2022,
-    "RiceConsumptionPerCapita": 247.54,
-    "RiceConsumptionDaily": 678.19,
-    "Portion": 8
+    "consumption_daily": 763.05
   },
   {
-    "country": "Malaysia",
+    "country": "Myanmar",
+    "year": 2022,
+    "food": "rice",
+    "col": 9,
+    "consumption_daily": 763.05
+  },
+  {
+    "country": "Philippines",
+    "year": 2015,
     "food": "rice",
     "col": 1,
-    "year": 2022,
-    "RiceConsumptionPerCapita": 120.68,
-    "RiceConsumptionDaily": 330.63,
-    "Portion": 4
+    "consumption_daily": 519.97
   },
   {
-    "country": "Malaysia",
+    "country": "Philippines",
+    "year": 2015,
     "food": "rice",
     "col": 2,
-    "year": 2022,
-    "RiceConsumptionPerCapita": 120.68,
-    "RiceConsumptionDaily": 330.63,
-    "Portion": 4
+    "consumption_daily": 519.97
   },
   {
-    "country": "Malaysia",
+    "country": "Philippines",
+    "year": 2015,
     "food": "rice",
     "col": 3,
-    "year": 2022,
-    "RiceConsumptionPerCapita": 120.68,
-    "RiceConsumptionDaily": 330.63,
-    "Portion": 4
+    "consumption_daily": 519.97
   },
   {
-    "country": "Malaysia",
+    "country": "Philippines",
+    "year": 2015,
     "food": "rice",
     "col": 4,
-    "year": 2022,
-    "RiceConsumptionPerCapita": 120.68,
-    "RiceConsumptionDaily": 330.63,
-    "Portion": 4
+    "consumption_daily": 519.97
   },
   {
-    "country": "Laos",
-    "food": "rice",
-    "col": 1,
-    "year": 2022,
-    "RiceConsumptionPerCapita": 226.86,
-    "RiceConsumptionDaily": 621.53,
-    "Portion": 7
-  },
-  {
-    "country": "Laos",
-    "food": "rice",
-    "col": 2,
-    "year": 2022,
-    "RiceConsumptionPerCapita": 226.86,
-    "RiceConsumptionDaily": 621.53,
-    "Portion": 7
-  },
-  {
-    "country": "Laos",
-    "food": "rice",
-    "col": 3,
-    "year": 2022,
-    "RiceConsumptionPerCapita": 226.86,
-    "RiceConsumptionDaily": 621.53,
-    "Portion": 7
-  },
-  {
-    "country": "Laos",
-    "food": "rice",
-    "col": 4,
-    "year": 2022,
-    "RiceConsumptionPerCapita": 226.86,
-    "RiceConsumptionDaily": 621.53,
-    "Portion": 7
-  },
-  {
-    "country": "Laos",
+    "country": "Philippines",
+    "year": 2015,
     "food": "rice",
     "col": 5,
-    "year": 2022,
-    "RiceConsumptionPerCapita": 226.86,
-    "RiceConsumptionDaily": 621.53,
-    "Portion": 7
+    "consumption_daily": 519.97
   },
   {
-    "country": "Laos",
+    "country": "Philippines",
+    "year": 2015,
     "food": "rice",
     "col": 6,
-    "year": 2022,
-    "RiceConsumptionPerCapita": 226.86,
-    "RiceConsumptionDaily": 621.53,
-    "Portion": 7
+    "consumption_daily": 519.97
   },
   {
-    "country": "Laos",
-    "food": "rice",
-    "col": 7,
-    "year": 2022,
-    "RiceConsumptionPerCapita": 226.86,
-    "RiceConsumptionDaily": 621.53,
-    "Portion": 7
-  },
-  {
-    "country": "Timor-Leste",
+    "country": "Philippines",
+    "year": 2016,
     "food": "rice",
     "col": 1,
-    "year": 2022,
-    "RiceConsumptionPerCapita": 138.49,
-    "RiceConsumptionDaily": 379.42,
-    "Portion": 4
+    "consumption_daily": 454.9
   },
   {
-    "country": "Timor-Leste",
+    "country": "Philippines",
+    "year": 2016,
     "food": "rice",
     "col": 2,
-    "year": 2022,
-    "RiceConsumptionPerCapita": 138.49,
-    "RiceConsumptionDaily": 379.42,
-    "Portion": 4
+    "consumption_daily": 454.9
   },
   {
-    "country": "Timor-Leste",
+    "country": "Philippines",
+    "year": 2016,
     "food": "rice",
     "col": 3,
-    "year": 2022,
-    "RiceConsumptionPerCapita": 138.49,
-    "RiceConsumptionDaily": 379.42,
-    "Portion": 4
+    "consumption_daily": 454.9
   },
   {
-    "country": "Timor-Leste",
+    "country": "Philippines",
+    "year": 2016,
     "food": "rice",
     "col": 4,
+    "consumption_daily": 454.9
+  },
+  {
+    "country": "Philippines",
+    "year": 2016,
+    "food": "rice",
+    "col": 5,
+    "consumption_daily": 454.9
+  },
+  {
+    "country": "Philippines",
+    "year": 2017,
+    "food": "rice",
+    "col": 1,
+    "consumption_daily": 489.66
+  },
+  {
+    "country": "Philippines",
+    "year": 2017,
+    "food": "rice",
+    "col": 2,
+    "consumption_daily": 489.66
+  },
+  {
+    "country": "Philippines",
+    "year": 2017,
+    "food": "rice",
+    "col": 3,
+    "consumption_daily": 489.66
+  },
+  {
+    "country": "Philippines",
+    "year": 2017,
+    "food": "rice",
+    "col": 4,
+    "consumption_daily": 489.66
+  },
+  {
+    "country": "Philippines",
+    "year": 2017,
+    "food": "rice",
+    "col": 5,
+    "consumption_daily": 489.66
+  },
+  {
+    "country": "Philippines",
+    "year": 2017,
+    "food": "rice",
+    "col": 6,
+    "consumption_daily": 489.66
+  },
+  {
+    "country": "Philippines",
+    "year": 2018,
+    "food": "rice",
+    "col": 1,
+    "consumption_daily": 488.32
+  },
+  {
+    "country": "Philippines",
+    "year": 2018,
+    "food": "rice",
+    "col": 2,
+    "consumption_daily": 488.32
+  },
+  {
+    "country": "Philippines",
+    "year": 2018,
+    "food": "rice",
+    "col": 3,
+    "consumption_daily": 488.32
+  },
+  {
+    "country": "Philippines",
+    "year": 2018,
+    "food": "rice",
+    "col": 4,
+    "consumption_daily": 488.32
+  },
+  {
+    "country": "Philippines",
+    "year": 2018,
+    "food": "rice",
+    "col": 5,
+    "consumption_daily": 488.32
+  },
+  {
+    "country": "Philippines",
+    "year": 2018,
+    "food": "rice",
+    "col": 6,
+    "consumption_daily": 488.32
+  },
+  {
+    "country": "Philippines",
+    "year": 2019,
+    "food": "rice",
+    "col": 1,
+    "consumption_daily": 524.29
+  },
+  {
+    "country": "Philippines",
+    "year": 2019,
+    "food": "rice",
+    "col": 2,
+    "consumption_daily": 524.29
+  },
+  {
+    "country": "Philippines",
+    "year": 2019,
+    "food": "rice",
+    "col": 3,
+    "consumption_daily": 524.29
+  },
+  {
+    "country": "Philippines",
+    "year": 2019,
+    "food": "rice",
+    "col": 4,
+    "consumption_daily": 524.29
+  },
+  {
+    "country": "Philippines",
+    "year": 2019,
+    "food": "rice",
+    "col": 5,
+    "consumption_daily": 524.29
+  },
+  {
+    "country": "Philippines",
+    "year": 2019,
+    "food": "rice",
+    "col": 6,
+    "consumption_daily": 524.29
+  },
+  {
+    "country": "Philippines",
+    "year": 2020,
+    "food": "rice",
+    "col": 1,
+    "consumption_daily": 514.96
+  },
+  {
+    "country": "Philippines",
+    "year": 2020,
+    "food": "rice",
+    "col": 2,
+    "consumption_daily": 514.96
+  },
+  {
+    "country": "Philippines",
+    "year": 2020,
+    "food": "rice",
+    "col": 3,
+    "consumption_daily": 514.96
+  },
+  {
+    "country": "Philippines",
+    "year": 2020,
+    "food": "rice",
+    "col": 4,
+    "consumption_daily": 514.96
+  },
+  {
+    "country": "Philippines",
+    "year": 2020,
+    "food": "rice",
+    "col": 5,
+    "consumption_daily": 514.96
+  },
+  {
+    "country": "Philippines",
+    "year": 2020,
+    "food": "rice",
+    "col": 6,
+    "consumption_daily": 514.96
+  },
+  {
+    "country": "Philippines",
+    "year": 2021,
+    "food": "rice",
+    "col": 1,
+    "consumption_daily": 520.19
+  },
+  {
+    "country": "Philippines",
+    "year": 2021,
+    "food": "rice",
+    "col": 2,
+    "consumption_daily": 520.19
+  },
+  {
+    "country": "Philippines",
+    "year": 2021,
+    "food": "rice",
+    "col": 3,
+    "consumption_daily": 520.19
+  },
+  {
+    "country": "Philippines",
+    "year": 2021,
+    "food": "rice",
+    "col": 4,
+    "consumption_daily": 520.19
+  },
+  {
+    "country": "Philippines",
+    "year": 2021,
+    "food": "rice",
+    "col": 5,
+    "consumption_daily": 520.19
+  },
+  {
+    "country": "Philippines",
+    "year": 2021,
+    "food": "rice",
+    "col": 6,
+    "consumption_daily": 520.19
+  },
+  {
+    "country": "Philippines",
     "year": 2022,
-    "RiceConsumptionPerCapita": 138.49,
-    "RiceConsumptionDaily": 379.42,
-    "Portion": 4
+    "food": "rice",
+    "col": 1,
+    "consumption_daily": 531.95
+  },
+  {
+    "country": "Philippines",
+    "year": 2022,
+    "food": "rice",
+    "col": 2,
+    "consumption_daily": 531.95
+  },
+  {
+    "country": "Philippines",
+    "year": 2022,
+    "food": "rice",
+    "col": 3,
+    "consumption_daily": 531.95
+  },
+  {
+    "country": "Philippines",
+    "year": 2022,
+    "food": "rice",
+    "col": 4,
+    "consumption_daily": 531.95
+  },
+  {
+    "country": "Philippines",
+    "year": 2022,
+    "food": "rice",
+    "col": 5,
+    "consumption_daily": 531.95
+  },
+  {
+    "country": "Philippines",
+    "year": 2022,
+    "food": "rice",
+    "col": 6,
+    "consumption_daily": 531.95
+  },
+  {
+    "country": "Thailand",
+    "year": 2015,
+    "food": "rice",
+    "col": 1,
+    "consumption_daily": 452.95
+  },
+  {
+    "country": "Thailand",
+    "year": 2015,
+    "food": "rice",
+    "col": 2,
+    "consumption_daily": 452.95
+  },
+  {
+    "country": "Thailand",
+    "year": 2015,
+    "food": "rice",
+    "col": 3,
+    "consumption_daily": 452.95
+  },
+  {
+    "country": "Thailand",
+    "year": 2015,
+    "food": "rice",
+    "col": 4,
+    "consumption_daily": 452.95
+  },
+  {
+    "country": "Thailand",
+    "year": 2015,
+    "food": "rice",
+    "col": 5,
+    "consumption_daily": 452.95
+  },
+  {
+    "country": "Thailand",
+    "year": 2016,
+    "food": "rice",
+    "col": 1,
+    "consumption_daily": 448.25
+  },
+  {
+    "country": "Thailand",
+    "year": 2016,
+    "food": "rice",
+    "col": 2,
+    "consumption_daily": 448.25
+  },
+  {
+    "country": "Thailand",
+    "year": 2016,
+    "food": "rice",
+    "col": 3,
+    "consumption_daily": 448.25
+  },
+  {
+    "country": "Thailand",
+    "year": 2016,
+    "food": "rice",
+    "col": 4,
+    "consumption_daily": 448.25
+  },
+  {
+    "country": "Thailand",
+    "year": 2016,
+    "food": "rice",
+    "col": 5,
+    "consumption_daily": 448.25
+  },
+  {
+    "country": "Thailand",
+    "year": 2017,
+    "food": "rice",
+    "col": 1,
+    "consumption_daily": 437.5
+  },
+  {
+    "country": "Thailand",
+    "year": 2017,
+    "food": "rice",
+    "col": 2,
+    "consumption_daily": 437.5
+  },
+  {
+    "country": "Thailand",
+    "year": 2017,
+    "food": "rice",
+    "col": 3,
+    "consumption_daily": 437.5
+  },
+  {
+    "country": "Thailand",
+    "year": 2017,
+    "food": "rice",
+    "col": 4,
+    "consumption_daily": 437.5
+  },
+  {
+    "country": "Thailand",
+    "year": 2017,
+    "food": "rice",
+    "col": 5,
+    "consumption_daily": 437.5
+  },
+  {
+    "country": "Thailand",
+    "year": 2018,
+    "food": "rice",
+    "col": 1,
+    "consumption_daily": 447.37
+  },
+  {
+    "country": "Thailand",
+    "year": 2018,
+    "food": "rice",
+    "col": 2,
+    "consumption_daily": 447.37
+  },
+  {
+    "country": "Thailand",
+    "year": 2018,
+    "food": "rice",
+    "col": 3,
+    "consumption_daily": 447.37
+  },
+  {
+    "country": "Thailand",
+    "year": 2018,
+    "food": "rice",
+    "col": 4,
+    "consumption_daily": 447.37
+  },
+  {
+    "country": "Thailand",
+    "year": 2018,
+    "food": "rice",
+    "col": 5,
+    "consumption_daily": 447.37
+  },
+  {
+    "country": "Thailand",
+    "year": 2019,
+    "food": "rice",
+    "col": 1,
+    "consumption_daily": 434.85
+  },
+  {
+    "country": "Thailand",
+    "year": 2019,
+    "food": "rice",
+    "col": 2,
+    "consumption_daily": 434.85
+  },
+  {
+    "country": "Thailand",
+    "year": 2019,
+    "food": "rice",
+    "col": 3,
+    "consumption_daily": 434.85
+  },
+  {
+    "country": "Thailand",
+    "year": 2019,
+    "food": "rice",
+    "col": 4,
+    "consumption_daily": 434.85
+  },
+  {
+    "country": "Thailand",
+    "year": 2019,
+    "food": "rice",
+    "col": 5,
+    "consumption_daily": 434.85
+  },
+  {
+    "country": "Thailand",
+    "year": 2020,
+    "food": "rice",
+    "col": 1,
+    "consumption_daily": 445.62
+  },
+  {
+    "country": "Thailand",
+    "year": 2020,
+    "food": "rice",
+    "col": 2,
+    "consumption_daily": 445.62
+  },
+  {
+    "country": "Thailand",
+    "year": 2020,
+    "food": "rice",
+    "col": 3,
+    "consumption_daily": 445.62
+  },
+  {
+    "country": "Thailand",
+    "year": 2020,
+    "food": "rice",
+    "col": 4,
+    "consumption_daily": 445.62
+  },
+  {
+    "country": "Thailand",
+    "year": 2020,
+    "food": "rice",
+    "col": 5,
+    "consumption_daily": 445.62
+  },
+  {
+    "country": "Thailand",
+    "year": 2021,
+    "food": "rice",
+    "col": 1,
+    "consumption_daily": 466.68
+  },
+  {
+    "country": "Thailand",
+    "year": 2021,
+    "food": "rice",
+    "col": 2,
+    "consumption_daily": 466.68
+  },
+  {
+    "country": "Thailand",
+    "year": 2021,
+    "food": "rice",
+    "col": 3,
+    "consumption_daily": 466.68
+  },
+  {
+    "country": "Thailand",
+    "year": 2021,
+    "food": "rice",
+    "col": 4,
+    "consumption_daily": 466.68
+  },
+  {
+    "country": "Thailand",
+    "year": 2021,
+    "food": "rice",
+    "col": 5,
+    "consumption_daily": 466.68
+  },
+  {
+    "country": "Thailand",
+    "year": 2022,
+    "food": "rice",
+    "col": 1,
+    "consumption_daily": 489.2
+  },
+  {
+    "country": "Thailand",
+    "year": 2022,
+    "food": "rice",
+    "col": 2,
+    "consumption_daily": 489.2
+  },
+  {
+    "country": "Thailand",
+    "year": 2022,
+    "food": "rice",
+    "col": 3,
+    "consumption_daily": 489.2
+  },
+  {
+    "country": "Thailand",
+    "year": 2022,
+    "food": "rice",
+    "col": 4,
+    "consumption_daily": 489.2
+  },
+  {
+    "country": "Thailand",
+    "year": 2022,
+    "food": "rice",
+    "col": 5,
+    "consumption_daily": 489.2
+  },
+  {
+    "country": "Thailand",
+    "year": 2022,
+    "food": "rice",
+    "col": 6,
+    "consumption_daily": 489.2
+  },
+  {
+    "country": "Vietnam",
+    "year": 2015,
+    "food": "rice",
+    "col": 1,
+    "consumption_daily": 680.33
+  },
+  {
+    "country": "Vietnam",
+    "year": 2015,
+    "food": "rice",
+    "col": 2,
+    "consumption_daily": 680.33
+  },
+  {
+    "country": "Vietnam",
+    "year": 2015,
+    "food": "rice",
+    "col": 3,
+    "consumption_daily": 680.33
+  },
+  {
+    "country": "Vietnam",
+    "year": 2015,
+    "food": "rice",
+    "col": 4,
+    "consumption_daily": 680.33
+  },
+  {
+    "country": "Vietnam",
+    "year": 2015,
+    "food": "rice",
+    "col": 5,
+    "consumption_daily": 680.33
+  },
+  {
+    "country": "Vietnam",
+    "year": 2015,
+    "food": "rice",
+    "col": 6,
+    "consumption_daily": 680.33
+  },
+  {
+    "country": "Vietnam",
+    "year": 2015,
+    "food": "rice",
+    "col": 7,
+    "consumption_daily": 680.33
+  },
+  {
+    "country": "Vietnam",
+    "year": 2015,
+    "food": "rice",
+    "col": 8,
+    "consumption_daily": 680.33
+  },
+  {
+    "country": "Vietnam",
+    "year": 2016,
+    "food": "rice",
+    "col": 1,
+    "consumption_daily": 649.32
+  },
+  {
+    "country": "Vietnam",
+    "year": 2016,
+    "food": "rice",
+    "col": 2,
+    "consumption_daily": 649.32
+  },
+  {
+    "country": "Vietnam",
+    "year": 2016,
+    "food": "rice",
+    "col": 3,
+    "consumption_daily": 649.32
+  },
+  {
+    "country": "Vietnam",
+    "year": 2016,
+    "food": "rice",
+    "col": 4,
+    "consumption_daily": 649.32
+  },
+  {
+    "country": "Vietnam",
+    "year": 2016,
+    "food": "rice",
+    "col": 5,
+    "consumption_daily": 649.32
+  },
+  {
+    "country": "Vietnam",
+    "year": 2016,
+    "food": "rice",
+    "col": 6,
+    "consumption_daily": 649.32
+  },
+  {
+    "country": "Vietnam",
+    "year": 2016,
+    "food": "rice",
+    "col": 7,
+    "consumption_daily": 649.32
+  },
+  {
+    "country": "Vietnam",
+    "year": 2016,
+    "food": "rice",
+    "col": 8,
+    "consumption_daily": 649.32
+  },
+  {
+    "country": "Vietnam",
+    "year": 2017,
+    "food": "rice",
+    "col": 1,
+    "consumption_daily": 652.87
+  },
+  {
+    "country": "Vietnam",
+    "year": 2017,
+    "food": "rice",
+    "col": 2,
+    "consumption_daily": 652.87
+  },
+  {
+    "country": "Vietnam",
+    "year": 2017,
+    "food": "rice",
+    "col": 3,
+    "consumption_daily": 652.87
+  },
+  {
+    "country": "Vietnam",
+    "year": 2017,
+    "food": "rice",
+    "col": 4,
+    "consumption_daily": 652.87
+  },
+  {
+    "country": "Vietnam",
+    "year": 2017,
+    "food": "rice",
+    "col": 5,
+    "consumption_daily": 652.87
+  },
+  {
+    "country": "Vietnam",
+    "year": 2017,
+    "food": "rice",
+    "col": 6,
+    "consumption_daily": 652.87
+  },
+  {
+    "country": "Vietnam",
+    "year": 2017,
+    "food": "rice",
+    "col": 7,
+    "consumption_daily": 652.87
+  },
+  {
+    "country": "Vietnam",
+    "year": 2017,
+    "food": "rice",
+    "col": 8,
+    "consumption_daily": 652.87
+  },
+  {
+    "country": "Vietnam",
+    "year": 2018,
+    "food": "rice",
+    "col": 1,
+    "consumption_daily": 631.62
+  },
+  {
+    "country": "Vietnam",
+    "year": 2018,
+    "food": "rice",
+    "col": 2,
+    "consumption_daily": 631.62
+  },
+  {
+    "country": "Vietnam",
+    "year": 2018,
+    "food": "rice",
+    "col": 3,
+    "consumption_daily": 631.62
+  },
+  {
+    "country": "Vietnam",
+    "year": 2018,
+    "food": "rice",
+    "col": 4,
+    "consumption_daily": 631.62
+  },
+  {
+    "country": "Vietnam",
+    "year": 2018,
+    "food": "rice",
+    "col": 5,
+    "consumption_daily": 631.62
+  },
+  {
+    "country": "Vietnam",
+    "year": 2018,
+    "food": "rice",
+    "col": 6,
+    "consumption_daily": 631.62
+  },
+  {
+    "country": "Vietnam",
+    "year": 2018,
+    "food": "rice",
+    "col": 7,
+    "consumption_daily": 631.62
+  },
+  {
+    "country": "Vietnam",
+    "year": 2019,
+    "food": "rice",
+    "col": 1,
+    "consumption_daily": 640.13
+  },
+  {
+    "country": "Vietnam",
+    "year": 2019,
+    "food": "rice",
+    "col": 2,
+    "consumption_daily": 640.13
+  },
+  {
+    "country": "Vietnam",
+    "year": 2019,
+    "food": "rice",
+    "col": 3,
+    "consumption_daily": 640.13
+  },
+  {
+    "country": "Vietnam",
+    "year": 2019,
+    "food": "rice",
+    "col": 4,
+    "consumption_daily": 640.13
+  },
+  {
+    "country": "Vietnam",
+    "year": 2019,
+    "food": "rice",
+    "col": 5,
+    "consumption_daily": 640.13
+  },
+  {
+    "country": "Vietnam",
+    "year": 2019,
+    "food": "rice",
+    "col": 6,
+    "consumption_daily": 640.13
+  },
+  {
+    "country": "Vietnam",
+    "year": 2019,
+    "food": "rice",
+    "col": 7,
+    "consumption_daily": 640.13
+  },
+  {
+    "country": "Vietnam",
+    "year": 2019,
+    "food": "rice",
+    "col": 8,
+    "consumption_daily": 640.13
+  },
+  {
+    "country": "Vietnam",
+    "year": 2020,
+    "food": "rice",
+    "col": 1,
+    "consumption_daily": 651.89
+  },
+  {
+    "country": "Vietnam",
+    "year": 2020,
+    "food": "rice",
+    "col": 2,
+    "consumption_daily": 651.89
+  },
+  {
+    "country": "Vietnam",
+    "year": 2020,
+    "food": "rice",
+    "col": 3,
+    "consumption_daily": 651.89
+  },
+  {
+    "country": "Vietnam",
+    "year": 2020,
+    "food": "rice",
+    "col": 4,
+    "consumption_daily": 651.89
+  },
+  {
+    "country": "Vietnam",
+    "year": 2020,
+    "food": "rice",
+    "col": 5,
+    "consumption_daily": 651.89
+  },
+  {
+    "country": "Vietnam",
+    "year": 2020,
+    "food": "rice",
+    "col": 6,
+    "consumption_daily": 651.89
+  },
+  {
+    "country": "Vietnam",
+    "year": 2020,
+    "food": "rice",
+    "col": 7,
+    "consumption_daily": 651.89
+  },
+  {
+    "country": "Vietnam",
+    "year": 2020,
+    "food": "rice",
+    "col": 8,
+    "consumption_daily": 651.89
+  },
+  {
+    "country": "Vietnam",
+    "year": 2021,
+    "food": "rice",
+    "col": 1,
+    "consumption_daily": 634.55
+  },
+  {
+    "country": "Vietnam",
+    "year": 2021,
+    "food": "rice",
+    "col": 2,
+    "consumption_daily": 634.55
+  },
+  {
+    "country": "Vietnam",
+    "year": 2021,
+    "food": "rice",
+    "col": 3,
+    "consumption_daily": 634.55
+  },
+  {
+    "country": "Vietnam",
+    "year": 2021,
+    "food": "rice",
+    "col": 4,
+    "consumption_daily": 634.55
+  },
+  {
+    "country": "Vietnam",
+    "year": 2021,
+    "food": "rice",
+    "col": 5,
+    "consumption_daily": 634.55
+  },
+  {
+    "country": "Vietnam",
+    "year": 2021,
+    "food": "rice",
+    "col": 6,
+    "consumption_daily": 634.55
+  },
+  {
+    "country": "Vietnam",
+    "year": 2021,
+    "food": "rice",
+    "col": 7,
+    "consumption_daily": 634.55
+  },
+  {
+    "country": "Vietnam",
+    "year": 2022,
+    "food": "rice",
+    "col": 1,
+    "consumption_daily": 623.99
+  },
+  {
+    "country": "Vietnam",
+    "year": 2022,
+    "food": "rice",
+    "col": 2,
+    "consumption_daily": 623.99
+  },
+  {
+    "country": "Vietnam",
+    "year": 2022,
+    "food": "rice",
+    "col": 3,
+    "consumption_daily": 623.99
+  },
+  {
+    "country": "Vietnam",
+    "year": 2022,
+    "food": "rice",
+    "col": 4,
+    "consumption_daily": 623.99
+  },
+  {
+    "country": "Vietnam",
+    "year": 2022,
+    "food": "rice",
+    "col": 5,
+    "consumption_daily": 623.99
+  },
+  {
+    "country": "Vietnam",
+    "year": 2022,
+    "food": "rice",
+    "col": 6,
+    "consumption_daily": 623.99
+  },
+  {
+    "country": "Vietnam",
+    "year": 2022,
+    "food": "rice",
+    "col": 7,
+    "consumption_daily": 623.99
   }
 ]

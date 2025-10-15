@@ -2,9 +2,20 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "autosize": { "type": "fit", "contains": "padding" },
   "data": {
-    "url": "https://raw.githubusercontent.com/amadeatheola/FIT3179/main/data_visualization2/data/rice-consumption-portion-ASEAN.json"
+    "url": "https://raw.githubusercontent.com/amadeatheola/FIT3179/main/data_visualization2/js/rice-consumption-portion-ASEAN.json"
   },
   "params" : [
+    {
+      "name": "year_selection",
+      "value": 2022,
+      "bind": {
+        "input": "range",
+        "min": 2015,
+        "max": 2022,
+        "step": 1,
+        "name": "Year:  "
+      }
+    },
     {
       "name": "country_selection",
       "bind": {
@@ -38,6 +49,9 @@
     }
   ],
   "transform": [
+    {
+      "filter" : "datum.year == year_selection"
+    },
     {
       "filter": "country_selection == null || datum.country == country_selection"
     }
@@ -83,13 +97,7 @@
           {"field": "country", "type": "nominal", "title": "Country"},
           {"field": "year", "type": "ordinal", "title": "Year"},
           {
-            "field": "RiceConsumptionPerCapita",
-            "type": "quantitative",
-            "title": "Annual Rice Consumption (kg/person)",
-            "format": ".1f"
-          },
-          {
-            "field": "RiceConsumptionDaily",
+            "field": "consumption_daily",
             "type": "quantitative",
             "title": "Daily Rice Consumption (g/person)",
             "format": ".1f"
