@@ -3,6 +3,9 @@
   "title": "Rice Consumption in Southeast Asia",
   "width": 800,
   "height": 400,
+  "params": [
+    
+  ],
   "layer": [
     {
       "data": {

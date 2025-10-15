@@ -41,7 +41,7 @@
             "data": {
               "url": "https://raw.githubusercontent.com/amadeatheola/FIT3179/main/data_visualization2/data/rice-consumption-by-country-2025.csv"
             },
-            "key": "country",
+            "key": "Country",
             "fields": ["RiceConsumptionPerCapitaCountries_2022", "RiceConsumptionCountries_2022"]
           }
         }
