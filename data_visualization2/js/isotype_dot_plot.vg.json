@@ -63,7 +63,7 @@
     "header": {
       "labelFontSize": 14,
       "labelOrient": "top",
-      "title": "Rice consumption portions per person per day (ASEAN, 2022)",
+      "title" : "",
       "titleFontSize": 18,
       "titlePadding": 15,
       "titleOrient": "top",
@@ -71,7 +71,7 @@
     }
   },
   "spec" : {
-    "width": 600,
+    "width": "container",
     "height": 40,
     "layer": [
       {
@@ -92,7 +92,7 @@
           },
 
           "color": { "field": "country", "type": "nominal", "legend": null },
-          "size": { "value": 30 },
+          "size": { "value": 13 },
           "tooltip": [
           {"field": "country", "type": "nominal", "title": "Country"},
           {"field": "year", "type": "ordinal", "title": "Year"},

@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": "Median house price per suburb (2010-2020)",
+  "title": "Rice Consumption in the World (2019-2022)",
   "width": "container",
   "height": 500,
   "params": [
@@ -13,16 +13,6 @@
         "max": 2022,
         "step": 1,
         "name": "Year:  "
-      }
-    },
-    {
-      "name": "area_selection",
-      "value": "All Country",
-      "bind": {
-        "input": "select",
-        "options": ["All Country", "Sourheast Asia"],
-        "labels": ["All Country", "Southeast Asia"],
-        "name": "Map Centre: "
       }
     }
   ],

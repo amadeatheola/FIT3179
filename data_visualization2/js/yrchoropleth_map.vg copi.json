@@ -1,22 +1,37 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": "Rice Consumption in Southeast Asia",
-  "width": 800,
-  "height": 400,
-  "data": {
-    "url": "https://raw.githubusercontent.com/amadeatheola/FIT3179/main/data_visualization2/js/ne_110m_admin_0_countries.topojson",
-    "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
+  "title": "Median house price per suburb (2010-2020)",
+  "width": "container",
+  "height": 500,
+  "params": [
+    {
+      "name": "Year_selection",
+      "value": 2022,
+      "bind": {
+        "input": "range",
+        "min": 2019,
+        "max": 2022,
+        "step": 1,
+        "name": "Year:  "
+      }
+    }
+  ],
+  "projection": {
+    "type": "equalEarth"
   },
-  "projection": {"type": "equalEarth"},
   "layer": [
     {
+      "data": {
+        "url": "https://raw.githubusercontent.com/amadeatheola/FIT3179/main/data_visualization2/js/ne_110m_admin_0_countries.topojson",
+        "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
+      },
       "transform": [
         {
           "calculate": "'Data is not available in ' + datum.properties.NAME",
           "as": "note"
         }
       ],
-      "mark": {"type": "geoshape", "fill": "lightgray", "stroke": "white"},
+      "mark": {"type": "geoshape", "fill": "#ddd", "stroke": "white", "strokeWidth": 1},
       "encoding": {"tooltip": {"field": "note"}}
     },
     {
@@ -35,21 +50,23 @@
     },
     {
       "transform": [
+        {"filter":{"param": "Year_selected"}},
         {
           "lookup": "properties.NAME",
           "from": {
             "data": {
-              "url": "https://raw.githubusercontent.com/amadeatheola/FIT3179/main/data_visualization2/data/rice-consumption-by-country-2025.csv"
+              "url": "https://raw.githubusercontent.com/amadeatheola/FIT3179/main/data_visualization2/data/rice-consumption-long.csv"
             },
             "key": "Country",
-            "fields": ["RiceConsumptionPerCapitaCountries_2022", "RiceConsumptionCountries_2022"]
+            "fields": ["ConsumptionPerCapita", "TotalConsumption"]
           }
-        }
+        },
+        {"filter":"datum.Year == Year_selected"}
       ],
       "mark": { "type": "geoshape", "stroke": "white" },
       "encoding": {
         "color": {
-          "field": "RiceConsumptionPerCapitaCountries_2022",
+          "field": "ConsumptionPerCapita",
           "type": "quantitative",
           "scale": {
             "type": "threshold",
