@@ -97,10 +97,10 @@
           {"field": "country", "type": "nominal", "title": "Country"},
           {"field": "year", "type": "ordinal", "title": "Year"},
           {
-            "field": "consumption_daily",
+            "field": "RiceConsumptionDaily",
             "type": "quantitative",
             "title": "Daily Rice Consumption (g/person)",
-            "format": ".1f"
+            "format": ".2f"
           },
           {
             "field": "Portion",
