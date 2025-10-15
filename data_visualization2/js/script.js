@@ -27,28 +27,6 @@ vegaEmbed("#line_chart", "js/line_chart.vg.json", {mode: "vega-lite"})
   .catch(console.warn);
 
 vegaEmbed("#choropleth_map2", "js/choropleth_map2.vg.json", {mode: "vega-lite"})
-  .then(res => {
-    view = res.view;
-    // initialise with 2022
-    view.signal("yearSelection", 2022).run();
-  })
+  .then(res => views["choropleth_map2"] = res.view)
   .catch(console.warn);
 
-  // Called when slider moves
-function updateYear(value) {
-  console.log("Year selected:", value);
-
-  // Loop through all charts that have the 'yearSelection' signal
-  for (const key in views) {
-    const view = views[key];
-    try {
-      view.signal("yearSelection", +value).run(); // send new year to chart
-    } catch (e) {
-      // Ignore charts without the signal
-    }
-  }
-
-  // Optional: update a visible title element if you have one
-  const title = document.getElementById("chartTitle");
-  if (title) title.textContent = `Rice Consumption in Southeast Asia (${value})`;
-  }

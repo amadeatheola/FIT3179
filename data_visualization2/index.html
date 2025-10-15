@@ -32,26 +32,21 @@
         <!-- pure grid group -->
         <div class="pure-g">
             <div class="pure-u-1-1">
-                <!-- <div id="choropleth_map" class = "vis-container"></div> -->
+                <div id="choropleth_map" class = "vis-container"></div>
                 <div id="choropleth_map2" class = "vis-container"></div>
                 <div style="margin: 10px;">
-                    <label for="year">Year:</label>
+                    <label for="year">Year: <span id="yearValue">2022</span></label>
                     <input 
-                    type="range" 
-                    id="year" 
-                    min="2019" 
-                    max="2022" 
-                    step="1" 
-                    value="2022"
-                    oninput="updateYear(this.value)"
-                    style="width: 100%;">
-                
-                    <!-- Year labels aligned with tick marks -->
+                        type="range" 
+                        id="year" 
+                        min="2019" 
+                        max="2022" 
+                        step="1" 
+                        value="2022"
+                        oninput="updateYear(this.value)"
+                        style="width: 100%;">
                     <div style="display: flex; justify-content: space-between; font-size: 14px;">
-                        <span>2019</span>
-                        <span>2020</span>
-                        <span>2021</span>
-                        <span>2022</span>
+                        <span>2019</span><span>2020</span><span>2021</span><span>2022</span>
                     </div>
                 </div>
                 <p>Using all three columns without merging. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
