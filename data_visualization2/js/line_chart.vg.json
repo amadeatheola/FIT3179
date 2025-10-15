@@ -9,7 +9,10 @@
       "fold": [
         "Production",
         "Total_Rice_Consumption",
-        "Consumption_Per_Capita"
+        "Yield",
+        "ExportQuantity",
+        "ImportQuantity",
+        "SelfSufficiencyRatio"
       ],
       "as": ["Metric", "Value"]
     }

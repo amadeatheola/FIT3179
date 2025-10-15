@@ -1,9 +1,9 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "autosize": { "type": "fit", "contains": "padding" },
   "data": {
-    "url": "https://raw.githubusercontent.com/amadeatheola/FIT3179/main/week10_homework/data/rice-consumption-portion-ASEAN.json"
+    "url": "https://raw.githubusercontent.com/amadeatheola/FIT3179/main/data_visualization2/data/rice-consumption-portion-ASEAN.json"
   },
-
   "params" : [
     {
       "name": "country_selection",
@@ -16,7 +16,7 @@
           "Laos",
           "Malaysia",
           "Myanmar",
-          "Phillipines",
+          "Philippines",
           "Thailand",
           "Timor-Leste",
           "Vietnam"
@@ -28,7 +28,7 @@
           "Laos",
           "Malaysia",
           "Myanmar",
-          "Phillipines",
+          "Philippines",
           "Thailand",
           "Timor-Leste",
           "Vietnam"

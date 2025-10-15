@@ -1,0 +1,94 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "Global Rice Trade Flow (Trade Value in 1000 USD, 2024)",
+    "fontSize": 18,
+    "subtitle": "Trade flows are represented by straight lines between country centroids. Line thickness is proportional to trade value.",
+    "subtitleFontStyle": "italic",
+    "subtitleFontSize": 12
+  },
+  "width": 800,
+  "height": 500,
+  "projection": {"type": "equalEarth"},
+  "layer": [
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/amadeatheola/FIT3179/main/data_visualization2/js/ne_110m_admin_0_countries.topojson",
+        "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
+      },
+      "transform": [
+        {
+          "calculate": "'Data is not available in ' + datum.properties.NAME",
+          "as": "note"
+        }
+      ],
+      "mark": {"type": "geoshape", "fill": "lightgray", "stroke": "white"},
+      "encoding": {"tooltip": {"field": "note"}}
+    },
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/amadeatheola/FIT3179/main/data_visualization2/js/oceans.topojson",
+        "format": {"type": "topojson", "feature": "oceans"}
+      },
+      "mark": {"type": "geoshape", "fill": "skyblue"}
+    },
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/amadeatheola/FIT3179/main/data_visualization2/js/WorldMapWithGraticules.topojson",
+        "format": {"type": "topojson", "feature": "ne_110m_graticules_30"}
+      },
+      "mark": {"type": "geoshape", "fill": null, "stroke": "lightgray", "strokeDash": [2, 2]}
+    },
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/amadeatheola/FIT3179/main/data_visualization2/data/rice_trade_flow.csv"
+      },
+      "mark": {"type": "line", "opacity": 0.6, "strokeCap": "round"},
+      "encoding": {
+        "longitude": {"field": "Longitude", "type": "quantitative"},
+        "latitude": {"field": "Latitude", "type": "quantitative"},
+        "size": {
+          "field": "TradeValue_USD_Thousands",
+          "type": "quantitative",
+          "scale": {"type": "log", "range": [0.5, 8]},
+          "legend": {"title": "Trade Value (USD Thousands)"}
+        },
+        "color": {
+          "field": "Type",
+          "type": "nominal",
+          "scale": {"domain": ["Origin", "Destination"], "range": ["#00441b", "#86A3B8"]},
+          "legend": {"title": "Flow Role"}
+        },
+        "order": {"field": "Type", "sort": "descending"},
+        "detail": {"field": "FlowID", "type": "nominal"},
+        "tooltip": [
+          {"field": "Exporter", "type": "nominal", "title": "Exporter"},
+          {"field": "Importer", "type": "nominal", "title": "Importer"},
+          {
+            "field": "TradeValue_USD_Thousands",
+            "type": "quantitative",
+            "title": "Trade Value (1000 USD)",
+            "format": ","
+          }
+        ]
+      }
+    },
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/amadeatheola/FIT3179/main/data_visualization2/data/rice_trade_flow.csv"
+      },
+      "mark": {"type": "point", "filled": true, "color": "darkred", "size": 30},
+      "encoding": {
+        "longitude": {"field": "Longitude", "type": "quantitative"},
+        "latitude": {"field": "Latitude", "type": "quantitative"},
+        "tooltip": [
+          {"field": "Country", "type": "nominal", "title": "Country"},
+          {"field": "TradeValue_USD_Thousands", "aggregate": "sum", "type": "quantitative", "title": "Total Trade (1000 USD)", "format": ","}
+        ]
+      }
+    }
+  ],
+  "config": {
+    "view": {"stroke": null}
+  }
+}
