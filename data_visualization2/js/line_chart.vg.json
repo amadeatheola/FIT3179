@@ -1,0 +1,47 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
+  "title": "ASEAN Rice Metrics Over Time",
+  "data": {
+    "url": "https://raw.githubusercontent.com/amadeatheola/FIT3179/main/data_visualization2/data/asean_rice_data.csv"
+  },
+  "transform": [
+    {
+      "fold": [
+        "Production",
+        "Total_Rice_Consumption",
+        "Consumption_Per_Capita"
+      ],
+      "as": ["Metric", "Value"]
+    }
+  ],
+  "facet": {
+    "row": {
+      "field": "Metric",
+      "type": "nominal",
+      "title": null
+    }
+  },
+  "spec": {
+    "mark": "line",
+    "encoding": {
+      "x": {
+        "field": "Year",
+        "type": "temporal"
+      },
+      "y": {
+        "field": "Value",
+        "type": "quantitative",
+        "title": null
+      },
+      "color": {
+        "field": "Country",
+        "type": "nominal"
+      }
+    }
+  },
+  "resolve": {
+    "scale": {
+      "y": "independent"
+    }
+  }
+}
