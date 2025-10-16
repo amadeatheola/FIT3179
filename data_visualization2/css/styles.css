@@ -51,3 +51,44 @@ h1 {
 .small-font {
   font-size: 14px;
 }
+
+.toggle-btn {
+  display: inline-block;
+  cursor: pointer;
+  padding: 8px 16px;
+  border: 2px solid #ccc;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+  color: #444;
+  transition: 0.2s;
+}
+
+.toggle-btn:hover {
+  background-color: #eaeaea;
+}
+
+.toggle-btn.active {
+  background-color: #0078d7;
+  color: white;
+  border-color: #0078d7;
+}
+
+/* Fade effect for the map */
+.vis-container {
+  opacity: 1;
+  transition: opacity 0.3s ease-in-out;
+}
+
+.fade-out {
+  opacity: 0;
+}
+
+/* Layout polish */
+.description {
+  margin-top: 20px;
+}
+
+h2.toggle-btn {
+  font-size: 20px;
+  margin-bottom: 8px;
+}

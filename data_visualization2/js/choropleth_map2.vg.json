@@ -86,7 +86,7 @@
                 "#084081"  
             ]
             },
-          "legend": { "title": "Kg per capita" }
+          "legend": { "title": "Tonnes per ha" }
         },
         "tooltip": [
           {"field": "Country", "type": "nominal", "title": "Country"},
