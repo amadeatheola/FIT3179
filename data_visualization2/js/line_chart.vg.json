@@ -1,50 +1,59 @@
 {
-  "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "title": "ASEAN Rice Metrics Over Time",
   "data": {
     "url": "https://raw.githubusercontent.com/amadeatheola/FIT3179/main/data_visualization2/data/asean_rice_data.csv"
   },
+  "columns": 2,
   "transform": [
     {
       "fold": [
+        "Yield",
         "Production",
         "Total_Rice_Consumption",
-        "Yield",
         "ExportQuantity",
         "ImportQuantity",
         "SelfSufficiencyRatio"
       ],
       "as": ["Metric", "Value"]
+    },
+    {
+        "calculate": "datum.Metric == 'Production' ? 'Rice Production (tonnes)' : datum.Metric == 'Total_Rice_Consumption' ? 'Total Rice Consumption (tonnes)' : datum.Metric == 'Yield' ? 'Yield (kg/ha)' : datum.Metric == 'ExportQuantity' ? 'Exports (tonnes)' : datum.Metric == 'ImportQuantity' ? 'Imports (tonnes)' : 'Self-Sufficiency Ratio (%)'",
+        "as": "MetricLabel"
     }
   ],
   "facet": {
-    "row": {
-      "field": "Metric",
-      "type": "nominal",
-      "title": null
-    }
+    "field": "MetricLabel",
+    "type": "nominal",
+    "title": null
   },
   "spec": {
-    "mark": "line",
+    "width": 300,
+    "height": 200,
+    "mark": {"type": "line", "point": true},
     "encoding": {
       "x": {
         "field": "Year",
-        "type": "temporal"
+        "type": "quantitative",
+        "axis": {"title": null}
       },
       "y": {
         "field": "Value",
         "type": "quantitative",
-        "title": null
+        "axis": {"title": null}
       },
       "color": {
         "field": "Country",
-        "type": "nominal"
-      }
+        "type": "nominal",
+        "legend": {"title": "Country"}
+      },
+      "tooltip": [
+        {"field": "Country"},
+        {"field": "Year"},
+        {"field": "Metric"},
+        {"field": "Value", "format": ".2f"}
+      ]
     }
   },
-  "resolve": {
-    "scale": {
-      "y": "independent"
-    }
-  }
+  "resolve": {"scale": {"y": "independent"}}
 }

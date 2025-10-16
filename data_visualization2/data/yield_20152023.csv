@@ -215,15 +215,15 @@ Caribbean (FAO),NA,2020,4.2777004
 Caribbean (FAO),NA,2021,4.3549
 Caribbean (FAO),NA,2022,4.2967005
 Caribbean (FAO),NA,2023,4.261
-Central African Republic,CAF,2015,1.4001
-Central African Republic,CAF,2016,1.4001
-Central African Republic,CAF,2017,1.3999001
-Central African Republic,CAF,2018,1.4001
-Central African Republic,CAF,2019,1.4000001
-Central African Republic,CAF,2020,0.90000004
-Central African Republic,CAF,2021,1.1
-Central African Republic,CAF,2022,1.4000001
-Central African Republic,CAF,2023,1.4000001
+Central African Rep.,CAF,2015,1.4001
+Central African Rep.,CAF,2016,1.4001
+Central African Rep.,CAF,2017,1.3999001
+Central African Rep.,CAF,2018,1.4001
+Central African Rep.,CAF,2019,1.4000001
+Central African Rep.,CAF,2020,0.90000004
+Central African Rep.,CAF,2021,1.1
+Central African Rep.,CAF,2022,1.4000001
+Central African Rep.,CAF,2023,1.4000001
 Central America (FAO),NA,2015,4.4777
 Central America (FAO),NA,2016,4.7053
 Central America (FAO),NA,2017,4.7102003
@@ -314,15 +314,15 @@ Costa Rica,CRI,2020,3.6701002
 Costa Rica,CRI,2021,4.5812006
 Costa Rica,CRI,2022,4.3841004
 Costa Rica,CRI,2023,5.131
-Cote d'Ivoire,CIV,2015,2.5509
-Cote d'Ivoire,CIV,2016,2.6327
-Cote d'Ivoire,CIV,2017,2.6817
-Cote d'Ivoire,CIV,2018,2.7310002
-Cote d'Ivoire,CIV,2019,2.7922
-Cote d'Ivoire,CIV,2020,2.8575
-Cote d'Ivoire,CIV,2021,2.8497
-Cote d'Ivoire,CIV,2022,2.8931003
-Cote d'Ivoire,CIV,2023,2.9371002
+Côte d'Ivoire,CIV,2015,2.5509
+Côte d'Ivoire,CIV,2016,2.6327
+Côte d'Ivoire,CIV,2017,2.6817
+Côte d'Ivoire,CIV,2018,2.7310002
+Côte d'Ivoire,CIV,2019,2.7922
+Côte d'Ivoire,CIV,2020,2.8575
+Côte d'Ivoire,CIV,2021,2.8497
+Côte d'Ivoire,CIV,2022,2.8931003
+Côte d'Ivoire,CIV,2023,2.9371002
 Cuba,CUB,2015,3.7269
 Cuba,CUB,2016,3.6713002
 Cuba,CUB,2017,3.6022
@@ -332,24 +332,24 @@ Cuba,CUB,2020,3.5739
 Cuba,CUB,2021,3.3944001
 Cuba,CUB,2022,2.7127001
 Cuba,CUB,2023,2.9266002
-Democratic Republic of Congo,COD,2015,0.7587001
-Democratic Republic of Congo,COD,2016,0.8141
-Democratic Republic of Congo,COD,2017,0.8416
-Democratic Republic of Congo,COD,2018,0.90090007
-Democratic Republic of Congo,COD,2019,0.97220004
-Democratic Republic of Congo,COD,2020,1.1184001
-Democratic Republic of Congo,COD,2021,1.1456001
-Democratic Republic of Congo,COD,2022,0.92730004
-Democratic Republic of Congo,COD,2023,0.95070004
-Dominican Republic,DOM,2015,5.1705003
-Dominican Republic,DOM,2016,5.2180004
-Dominican Republic,DOM,2017,5.1898003
-Dominican Republic,DOM,2018,5.0116005
-Dominican Republic,DOM,2019,5.1445003
-Dominican Republic,DOM,2020,5.103
-Dominican Republic,DOM,2021,5.2637005
-Dominican Republic,DOM,2022,5.2029
-Dominican Republic,DOM,2023,5.05
+Dem. Rep. Congo,COD,2015,0.7587001
+Dem. Rep. Congo,COD,2016,0.8141
+Dem. Rep. Congo,COD,2017,0.8416
+Dem. Rep. Congo,COD,2018,0.90090007
+Dem. Rep. Congo,COD,2019,0.97220004
+Dem. Rep. Congo,COD,2020,1.1184001
+Dem. Rep. Congo,COD,2021,1.1456001
+Dem. Rep. Congo,COD,2022,0.92730004
+Dem. Rep. Congo,COD,2023,0.95070004
+Dominican Rep.,DOM,2015,5.1705003
+Dominican Rep.,DOM,2016,5.2180004
+Dominican Rep.,DOM,2017,5.1898003
+Dominican Rep.,DOM,2018,5.0116005
+Dominican Rep.,DOM,2019,5.1445003
+Dominican Rep.,DOM,2020,5.103
+Dominican Rep.,DOM,2021,5.2637005
+Dominican Rep.,DOM,2022,5.2029
+Dominican Re.,DOM,2023,5.05
 East Timor,TLS,2015,3.1082
 East Timor,TLS,2016,3.1168003
 East Timor,TLS,2017,2.7055001
@@ -1167,15 +1167,15 @@ South Korea,KOR,2020,6.4881005
 South Korea,KOR,2021,7.1143003
 South Korea,KOR,2022,6.8746004
 South Korea,KOR,2023,6.9177003
-South Sudan,SSD,2015,0.90730006
-South Sudan,SSD,2016,0.8791
-South Sudan,SSD,2017,0.8852001
-South Sudan,SSD,2018,0.85200006
-South Sudan,SSD,2019,0.8805
-South Sudan,SSD,2020,0.88500005
-South Sudan,SSD,2021,0.84720004
-South Sudan,SSD,2022,1.1887
-South Sudan,SSD,2023,1.0902
+S. Sudan,SSD,2015,0.90730006
+S. Sudan,SSD,2016,0.8791
+S. Sudan,SSD,2017,0.8852001
+S. Sudan,SSD,2018,0.85200006
+S. Sudan,SSD,2019,0.8805
+S. Sudan,SSD,2020,0.88500005
+S. Sudan,SSD,2021,0.84720004
+S. Sudan,SSD,2022,1.1887
+S. Sudan,SSD,2023,1.0902
 South-eastern Asia (FAO),NA,2015,4.3246
 South-eastern Asia (FAO),NA,2016,4.2034
 South-eastern Asia (FAO),NA,2017,4.2285004

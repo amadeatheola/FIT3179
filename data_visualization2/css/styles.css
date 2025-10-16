@@ -11,7 +11,7 @@ body {
 }
 
 .page {
-  width: 850px;
+  width: 950px;
   background-color: white;
   margin: auto;
   padding: 50px;
@@ -29,6 +29,11 @@ body {
 .description h2,
 h1 {
   margin-top: 0px;
+}
+
+.description {
+  line-height: 200%;
+  text-align: justify;
 }
 
 .description-right {

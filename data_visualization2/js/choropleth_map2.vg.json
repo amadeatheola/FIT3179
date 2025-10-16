@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": "Median house price per suburb (2010-2020)",
+  "title": "Rice Consumption in the World (2019-2022)",
   "width": "container",
   "height": 500,
   "params": [
@@ -13,16 +13,6 @@
         "max": 2022,
         "step": 1,
         "name": "Year:  "
-      }
-    },
-    {
-      "name": "area_selection",
-      "value": "All Country",
-      "bind": {
-        "input": "select",
-        "options": ["All Country", "Sourheast Asia"],
-        "labels": ["All Country", "Southeast Asia"],
-        "name": "Map Centre: "
       }
     }
   ],
@@ -60,7 +50,7 @@
     },
     {
       "data": {
-              "url": "https://raw.githubusercontent.com/amadeatheola/FIT3179/main/data_visualization2/data/rice-consumption-long.csv"
+              "url": "https://raw.githubusercontent.com/amadeatheola/FIT3179/main/data_visualization2/data/yield_20152023.csv"
             },
       "transform": [
         {
@@ -80,27 +70,27 @@
       "encoding": {
         "shape": {"field": "geo", "type": "geojson"},
         "color": {
-          "field": "ConsumptionPerCapita",
+          "field": "Yield",
           "type": "quantitative",
           "scale": {
             "type": "threshold",
-            "domain": [10, 50, 100, 150, 200, 300],
+            "domain": [1, 2, 3, 4, 5, 7, 9],
             "range": [
-              "#f2f0f7",
-              "#dadaeb",
-              "#bcbddc",
-              "#9e9ac8",
-              "#807dba",
-              "#6a51a3",
-              "#4a1486"
+                "#f7fcf0",  
+                "#e0f3db",  
+                "#ccebc5",  
+                "#a8ddb5",  
+                "#7bccc4",  
+                "#43a2ca",  
+                "#0868ac",  
+                "#084081"  
             ]
-          },
+            },
           "legend": { "title": "Kg per capita" }
         },
         "tooltip": [
           {"field": "Country", "type": "nominal", "title": "Country"},
-          {"field": "ConsumptionPerCapita", "type": "quantitative", "title": "Consumption per capita (kg/year)", "format": ".2f"},
-          {"field": "TotalConsumption", "type": "quantitative", "title": "Total Consumption (kg/year)", "format": ","},
+          {"field": "Yield", "type": "quantitative", "title": "Yield (tonnes/ha)", "format": ".2f"},
           {"field": "Year", "type": "quantitative", "title": "Year"}
         ]
       }

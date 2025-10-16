@@ -92,7 +92,7 @@
           },
 
           "color": { "field": "country", "type": "nominal", "legend": null },
-          "size": { "value": 13 },
+          "size": { "value": 16 },
           "tooltip": [
           {"field": "country", "type": "nominal", "title": "Country"},
           {"field": "year", "type": "ordinal", "title": "Year"},
