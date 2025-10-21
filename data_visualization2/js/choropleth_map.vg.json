@@ -1,6 +1,12 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": "Rice Consumption in the World (2019-2022)",
+  "title": {
+    "text": "Rice Consumption World Map",
+    "anchor": "start",
+    "fontSize": 30,
+    "fontWeight": "bold",
+    "offset": 10
+  },
   "width": "container",
   "height": 500,
   "params": [
@@ -77,7 +83,7 @@
             "domain": [5, 10, 20, 50, 100],
           "range": [
             "#dadaeb", "#bcbddc", "#9e9ac8",
-    "#807dba", "#6a51a3", "#5a2d91"
+      "#807dba", "#6a51a3", "#5a2d91"
           ]
           }
         },
@@ -87,6 +93,32 @@
           {"field": "TotalConsumption", "type": "quantitative", "title": "Total Consumption (kg/year)", "format": ","},
           {"field": "Year", "type": "quantitative", "title": "Year"}
         ]
+      }
+    },
+    {
+      "data": {
+        "values": [
+          {
+            "note": "Rice is the most consumed grain in West Africa",
+            "longitude": -11.5,
+            "latitude": 9.5
+          }
+        ]
+      },
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "dx": -100,
+        "dy": 15,
+        "angle": 60,
+        "fontSize": 14,
+        "fontWeight": "bold",
+        "color": "darkblue"
+      },
+      "encoding": {
+        "longitude": {"field": "longitude", "type": "quantitative"},
+        "latitude": {"field": "latitude", "type": "quantitative"},
+        "text": {"field": "note"}
       }
     }
   ]

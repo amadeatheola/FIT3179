@@ -1,6 +1,12 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": "ASEAN Rice Metrics Over Time",
+  "title": {
+    "text": "ASEAN Rice Metrics",
+    "anchor": "start",
+    "fontSize": 40,
+    "fontWeight": "bold",
+    "offset": 10
+  },
   "data": {
     "url": "https://raw.githubusercontent.com/amadeatheola/FIT3179/main/data_visualization2/data/asean_rice_data.csv"
   },
@@ -24,6 +30,10 @@
     {
       "calculate": "datum.Metric == 'ExportQuantity' ? 1 : datum.Metric == 'ImportQuantity' ? 2 : datum.Metric == 'Production' ? 3 : datum.Metric == 'SelfSufficiencyRatio' ? 4 : datum.Metric == 'Total_Rice_Consumption' ? 5 : 6",
       "as": "MetricOrder"
+    },
+    {
+      "calculate": "datum.Metric == 'Yield' && (datum.Country == 'Vietnam' || datum.Country == 'Indonesia') ? 'yes' : datum.Metric == 'Production' && (datum.Country == 'Thailand' || datum.Country == 'Myanmar') ? 'yes' : datum.Metric == 'Total_Rice_Consumption' && (datum.Country == 'Indonesia' || datum.Country == 'Philippines') ? 'yes' : datum.Metric == 'ExportQuantity' && (datum.Country == 'Thailand' || datum.Country == 'Vietnam') ? 'yes' : datum.Metric == 'ImportQuantity' && (datum.Country == 'Philippines' || datum.Country == 'Malaysia') ? 'yes' : datum.Metric == 'SelfSufficiencyRatio' && (datum.Country == 'Laos' || datum.Country == 'Timor-Leste') ? 'yes' : 'no'",
+      "as": "Highlight"
     }
   ],
   "facet": {
@@ -87,6 +97,13 @@
         "legend": {
           "title": "Country"
         }
+      },
+      "opacity": {
+        "condition": {
+          "test": "datum.Highlight == 'yes'",
+          "value": 1
+        },
+        "value": 0.30
       },
       "tooltip": [
         {"field": "Country"},

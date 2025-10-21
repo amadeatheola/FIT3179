@@ -1,6 +1,12 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": "Rice Yield in the World (2019-2022)",
+  "title": {
+    "text": "Rice Yield ASEAN Map",
+    "anchor": "start",
+    "fontSize": 30,
+    "fontWeight": "bold",
+    "offset": 10
+  },
   "width": "container",
   "height": 500,
   "params": [

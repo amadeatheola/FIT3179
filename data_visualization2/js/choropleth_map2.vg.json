@@ -1,6 +1,12 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": "Rice Yield in the World (2019-2022)",
+  "title": {
+    "text": "Rice Yield World Map",
+    "anchor": "start",
+    "fontSize": 30,
+    "fontWeight": "bold",
+    "offset": 10
+  },
   "width": "container",
   "height": 500,
   "params": [
@@ -93,6 +99,33 @@
           {"field": "Yield", "type": "quantitative", "title": "Yield (tonnes/ha)", "format": ".2f"},
           {"field": "Year", "type": "quantitative", "title": "Year"}
         ]
+      }
+    },
+    {
+      "data": {
+        "values": [
+          {
+            "note": "Production is concentrated in southern New South Wales",
+            "longitude": 147,
+            "latitude": -34
+          }
+        ]
+      },
+      "mark": {
+        "type": "text",
+        "angle":360,
+        "align": "left",
+        "baseline": "top",
+        "dx": 5,
+        "dy": 10,
+        "fontSize": 14,
+        "fontWeight": "bold",
+        "color": "purple"
+      },
+      "encoding": {
+        "longitude": {"field": "longitude", "type": "quantitative"},
+        "latitude": {"field": "latitude", "type": "quantitative"},
+        "text": {"field": "note"}
       }
     }
   ]

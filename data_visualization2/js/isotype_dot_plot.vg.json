@@ -1,5 +1,12 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "ASEAN Rice Consumption in Portions",
+    "anchor": "start",
+    "fontSize": 30,
+    "fontWeight": "bold",
+    "offset": 10
+  },
   "autosize": { "type": "fit", "contains": "padding" },
   "data": {
     "url": "https://raw.githubusercontent.com/amadeatheola/FIT3179/main/data_visualization2/js/rice-consumption-portion-ASEAN.json"
