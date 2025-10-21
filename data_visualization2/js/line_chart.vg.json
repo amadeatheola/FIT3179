@@ -40,7 +40,8 @@
     "field": "MetricLabel",
   "type": "nominal",
   "sort": {"field": "MetricOrder"},
-  "title": null },
+  "title": null 
+},
   "spec": {
     "width": 460,
     "height": 400,
@@ -82,7 +83,7 @@
                 "World"
               ],
               "range": [
-                "#2a9d8f",  
+                "#9d4edd",  
                 "#e76f51",  
                 "#264653",  
                 "#f4a261",  
@@ -90,7 +91,7 @@
                 "#457b9d",  
                 "#8d99ae", 
                 "#d62828",  
-                "#f77f00",  
+                "#00b4d8",  
                 "#cccccc"   
               ]
             },
