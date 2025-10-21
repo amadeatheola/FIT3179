@@ -72,7 +72,7 @@
   },
   "spec" : {
     "width": "container",
-    "height": 70,
+    "height": 50,
     "layer": [
       {
         "mark": { "type": "point", "filled": true },
@@ -119,12 +119,9 @@
                 "#f77f00",  
                 "#cccccc"   
               ]
-            },
-            "legend": {
-              "title": "Country"
-            } 
+            }
           },
-          "size": { "value": 50 },
+          "size": { "value": 30 },
           "tooltip": [
           {"field": "country", "type": "nominal", "title": "Country"},
           {"field": "year", "type": "ordinal", "title": "Year"},

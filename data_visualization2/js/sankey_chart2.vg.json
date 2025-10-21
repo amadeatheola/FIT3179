@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega/v5.json",
-  "width": 900,
+  "width": 800,
   "height": 800,
   "title": {
     "text": "ASEAN Rice Import Flow by Country",

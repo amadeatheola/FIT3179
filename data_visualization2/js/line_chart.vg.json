@@ -32,7 +32,7 @@
   "sort": {"field": "MetricOrder"},
   "title": null },
   "spec": {
-    "width": 500,
+    "width": 460,
     "height": 400,
     "mark": {
       "type": "line",

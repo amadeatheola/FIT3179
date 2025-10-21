@@ -86,44 +86,37 @@ areaSelect.addEventListener("change", (event) => {
   updateMap();
 });
 
-const expMapSpec = "js/flow_map.vg.json";
 const expSankeySpec = "js/sankey_chart.vg.json";
-const impMapSpec = "js/flow_map2.vg.json";
 const impSankeySpec = "js/sankey_chart2.vg.json";
 
 const exportBtn = document.getElementById("exportBtn");
 const importBtn = document.getElementById("importBtn");
-const viewSelect = document.getElementById("view-select");
-const flowContainer = document.getElementById("flow_map");
+const sankeyContainer = document.getElementById("sankey_chart");
 
-let currentFocusView = viewSelect.value;
 let currentTrade = "Export";
 
-function getTradeURL(metric, view) {
-  if (metric === "Export") {
-    return view === "Map View" ? expMapSpec : expSankeySpec;
-  } else {
-    return view === "Map View" ? impMapSpec : impSankeySpec;
-  }
+// Only return Sankey specs now
+function getTradeURL(trade) {
+  return trade === "Export" ? expSankeySpec : impSankeySpec;
 }
 
-function embedFlow(specURL) {
-  flowContainer.classList.add("fade-out");
+function embedSankey(specURL) {
+  sankeyContainer.classList.add("fade-out");
   setTimeout(() => {
-    vegaEmbed("#flow_map", specURL, { mode: "vega-lite" }).then(() => {
-      flowContainer.classList.remove("fade-out");
+    vegaEmbed("#sankey_chart", specURL, { mode: "vega-lite" }).then(() => {
+      sankeyContainer.classList.remove("fade-out");
     });
   }, 300);
 }
 
 function updateView() {
-  const specToLoad = getTradeURL(currentTrade, currentFocusView);
-  embedFlow(specToLoad);
+  const specToLoad = getTradeURL(currentTrade);
+  embedSankey(specToLoad);
 }
 
 // --- INITIAL LOAD ---
-const flowSpec = getTradeURL(currentTrade, currentFocusView);
-vegaEmbed("#flow_map", flowSpec, { mode: "vega-lite" });
+const sankeySpec = getTradeURL(currentTrade);
+vegaEmbed("#sankey_chart", sankeySpec, { mode: "vega-lite" });
 exportBtn.classList.add("active");
 
 // --- EVENT LISTENERS ---
@@ -143,11 +136,6 @@ importBtn.addEventListener("click", () => {
     exportBtn.classList.remove("active");
     updateView();
   }
-});
-
-viewSelect.addEventListener("change", (event) => {
-  currentFocusView = event.target.value;
-  updateView();
 });
 
 vegaEmbed("#isotype_dot_plot", "js/isotype_dot_plot.vg.json", {mode: "vega-lite"})
