@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega/v6.json",
-  "description": "Hoverable rice export flow map by year",
+  "description": "Hoverable rice import flow map by year",
   "width": 900,
   "height": 560,
   "autosize": "none",
@@ -65,8 +65,8 @@
       ]
     },
     {
-      "name": "export_all",
-      "url": "https://raw.githubusercontent.com/amadeatheola/FIT3179/main/data_visualization2/data/export_clean.csv",
+      "name": "import_all",
+      "url": "https://raw.githubusercontent.com/amadeatheola/FIT3179/main/data_visualization2/data/import_clean.csv",
       "format": { "type": "csv", "parse": "auto" },
       "transform": [
         {
@@ -94,8 +94,8 @@
       ]
     },
     {
-      "name": "export_filtered",
-      "source": "export_all",
+      "name": "import_filtered",
+      "source": "import_all",
       "transform": [
         {
           "type": "filter",
@@ -124,7 +124,7 @@
     },
     {
       "type": "path",
-      "from": { "data": "export_filtered" },
+      "from": { "data": "import_filtered" },
       "encode": {
         "enter": {
           "path": { "field": "path" },
@@ -158,7 +158,7 @@
     }, 
     {
       "type": "text",
-      "from": { "data": "export_filtered" },
+      "from": { "data": "import_filtered" },
       "encode": {
         "enter": {
           "x": { "field": "target.x" },

@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": "Rice Consumption in the World (2019-2022)",
+  "title": "Rice Yield in the World (2019-2022)",
   "width": "container",
   "height": 500,
   "params": [

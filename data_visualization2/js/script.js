@@ -1,42 +1,154 @@
 // Store chart views globally so updateYear() can access them
 const views = {};
-// Your two Vega-Lite specs
-const consumptionSpec = "js/choropleth_map.vg.json";
-const yieldSpec = "js/choropleth_map2.vg.json";
+const worldConsSpec = "js/choropleth_map.vg.json";      // World Consumption
+const aseanConsSpec = "js/asean_choropleth_map.vg.json"; // ASEAN Consumption
+const worldYieldSpec = "js/choropleth_map2.vg.json";    // World Yield
+const aseanYieldSpec = "js/asean_choropleth_map2.vg.json"; // ASEAN Yield
 
-// Default: show consumption
-vegaEmbed("#choropleth_map", consumptionSpec, { mode: "vega-lite" });
-
-// Button behavior
+// --- DOM Elements ---
 const consumptionBtn = document.getElementById("consumptionBtn");
 const yieldBtn = document.getElementById("yieldBtn");
+const areaSelect = document.getElementById("area-select"); // New: Get the dropdown
 const mapContainer = document.getElementById("choropleth_map");
 
-// Helper to fade transition
-function switchMap(spec, activeBtn, inactiveBtn) {
+// --- State Variables ---
+let currentFocusArea = areaSelect.value; // Initial focus area (e.g., 'Southeast Asia')
+let currentMetric = "Consumption";      // Initial metric
+
+// --- Core Logic to Determine and Switch Map ---
+
+/**
+ * Determines which of the four specs to load based on the current metric and focus area.
+ * @param {string} metric - 'Consumption' or 'Yield'
+ * @param {string} area - 'All Countries' or 'Southeast Asia'
+ * @returns {string} The URL of the correct Vega-Lite spec.
+ */
+function getMapURL(metric, area) {
+  if (metric === "Consumption") {
+    return area === "Southeast Asia" ? aseanConsSpec : worldConsSpec;
+  } else { // Metric is 'Yield'
+    return area === "Southeast Asia" ? aseanYieldSpec : worldYieldSpec;
+  }
+}
+
+/**
+ * Handles the fading transition and map embedding.
+ * @param {string} specURL - The URL of the Vega-Lite spec to load.
+ */
+function embedMap(specURL) {
   mapContainer.classList.add("fade-out");
 
   setTimeout(() => {
-    vegaEmbed("#choropleth_map", spec, { mode: "vega-lite" }).then(() => {
+    vegaEmbed("#choropleth_map", specURL, { mode: "vega-lite" }).then(() => {
       mapContainer.classList.remove("fade-out");
     });
   }, 300); // Matches CSS fade timing
-
-  activeBtn.classList.add("active");
-  inactiveBtn.classList.remove("active");
 }
 
-  // Button events
-consumptionBtn.addEventListener("click", () =>
-  switchMap(consumptionSpec, consumptionBtn, yieldBtn)
-);
-yieldBtn.addEventListener("click", () =>
-  switchMap(yieldSpec, yieldBtn, consumptionBtn)
-);
+/**
+ * Master function to update the map based on button/dropdown clicks.
+ */
+function updateMap() {
+    const specToLoad = getMapURL(currentMetric, currentFocusArea);
+    embedMap(specToLoad);
+}
 
-vegaEmbed("#choropleth_map2", "js/choropleth_map2.vg.json", {mode: "vega-lite"})
-  .then(res => views["choropleth_map2"] = res.view)
-  .catch(console.warn);
+
+// --- Event Listeners ---
+
+// 1. Initial Load (Default: Consumption, initial Focus Area)
+const mapSpec = getMapURL(currentMetric, currentFocusArea);
+vegaEmbed("#choropleth_map", mapSpec, { mode: "vega-lite" });
+consumptionBtn.classList.add("active"); // Set initial active button
+
+// 2. Metric Button Events
+consumptionBtn.addEventListener("click", () => {
+  if (currentMetric !== "Consumption") {
+    currentMetric = "Consumption";
+    consumptionBtn.classList.add("active");
+    yieldBtn.classList.remove("active");
+    updateMap();
+  }
+});
+
+yieldBtn.addEventListener("click", () => {
+  if (currentMetric !== "Yield") {
+    currentMetric = "Yield";
+    yieldBtn.classList.add("active");
+    consumptionBtn.classList.remove("active");
+    updateMap();
+  }
+});
+
+// 3. Dropdown Event
+areaSelect.addEventListener("change", (event) => {
+  currentFocusArea = event.target.value;
+  updateMap();
+});
+
+const expMapSpec = "js/flow_map.vg.json";
+const expSankeySpec = "js/sankey_chart.vg.json";
+const impMapSpec = "js/flow_map2.vg.json";
+const impSankeySpec = "js/sankey_chart2.vg.json";
+
+const exportBtn = document.getElementById("exportBtn");
+const importBtn = document.getElementById("importBtn");
+const viewSelect = document.getElementById("view-select");
+const flowContainer = document.getElementById("flow_map");
+
+let currentFocusView = viewSelect.value;
+let currentTrade = "Export";
+
+function getTradeURL(metric, view) {
+  if (metric === "Export") {
+    return view === "Map View" ? expMapSpec : expSankeySpec;
+  } else {
+    return view === "Map View" ? impMapSpec : impSankeySpec;
+  }
+}
+
+function embedFlow(specURL) {
+  flowContainer.classList.add("fade-out");
+  setTimeout(() => {
+    vegaEmbed("#flow_map", specURL, { mode: "vega-lite" }).then(() => {
+      flowContainer.classList.remove("fade-out");
+    });
+  }, 300);
+}
+
+function updateView() {
+  const specToLoad = getTradeURL(currentTrade, currentFocusView);
+  embedFlow(specToLoad);
+}
+
+// --- INITIAL LOAD ---
+const flowSpec = getTradeURL(currentTrade, currentFocusView);
+vegaEmbed("#flow_map", flowSpec, { mode: "vega-lite" });
+exportBtn.classList.add("active");
+
+// --- EVENT LISTENERS ---
+exportBtn.addEventListener("click", () => {
+  if (currentTrade !== "Export") {
+    currentTrade = "Export";
+    exportBtn.classList.add("active");
+    importBtn.classList.remove("active");
+    updateView();
+  }
+});
+
+importBtn.addEventListener("click", () => {
+  if (currentTrade !== "Import") {
+    currentTrade = "Import";
+    importBtn.classList.add("active");
+    exportBtn.classList.remove("active");
+    updateView();
+  }
+});
+
+viewSelect.addEventListener("change", (event) => {
+  currentFocusView = event.target.value;
+  updateView();
+});
 
 vegaEmbed("#isotype_dot_plot", "js/isotype_dot_plot.vg.json", {mode: "vega-lite"})
   .then(res => views["isotype_dot_plot"] = res.view)

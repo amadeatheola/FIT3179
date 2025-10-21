@@ -1,0 +1,288 @@
+{
+  "$schema": "https://vega.github.io/schema/vega/v5.json",
+  "width": 900,
+  "height": 800,
+  "title": {
+    "text": "ASEAN Rice Export Flow by Country",
+    "anchor": "start",
+    "fontSize": 20,
+    "fontWeight": "bold",
+    "offset": 10
+  },
+  "signals": [
+    {
+      "name": "Year",
+      "value": 2022,
+      "bind": {
+        "input": "range",
+        "min": 2015,
+        "max": 2024,
+        "step": 1,
+        "name": "Year: "
+      }
+    },
+    {
+      "name": "hoverCountry",
+      "value": null,
+      "on": [
+        {"events": "symbol:mouseover", "update": "datum.Country"},
+        {"events": "symbol:mouseout", "update": "null"}
+      ]
+    },
+    {
+      "name": "groupHover",
+      "value": {},
+      "on": [
+        {
+          "events": "@groupMark:mouseover",
+          "update": "{stk1:datum.stack=='stk1' && datum.grpId, stk2:datum.stack=='stk2' && datum.grpId}"
+        },
+        {"events": "mouseout", "update": "{}"}
+      ]
+    },
+    {
+      "name": "groupSelector",
+      "value": false,
+      "on": [
+        {
+          "events": "@groupMark:click!",
+          "update": "{stack:datum.stack, stk1:datum.stack=='stk1' && datum.grpId, stk2:datum.stack=='stk2' && datum.grpId}"
+        },
+        {
+          "events": [{"type": "click", "markname": "groupReset"}, {"type": "dblclick"}],
+          "update": "false"
+        }
+      ]
+    }
+  ],
+  "data": [
+    {
+      "name": "export",
+      "url": "https://raw.githubusercontent.com/amadeatheola/FIT3179/main/data_visualization2/data/export_clean.csv",
+      "format": {"type": "csv", "parse": "auto"},
+      "transform": [
+        {"type": "filter", "expr": "datum['Year'] == Year"},
+        {"type": "formula", "expr": "datum.Country", "as": "stk1"},
+        {"type": "formula", "expr": "datum.Partner", "as": "stk2"},
+        {"type": "formula", "expr": "datum['Trade Value 1000USD']", "as": "size"}
+      ]
+    },
+    {
+      "name": "nodes",
+      "source": "export",
+      "transform": [
+        {
+          "type": "filter",
+          "expr": "!groupSelector || groupSelector.stk1 == datum.stk1 || groupSelector.stk2 == datum.stk2"
+        },
+        {"type": "formula", "expr": "datum.stk1 + datum.stk2", "as": "key"},
+        {"type": "fold", "fields": ["stk1", "stk2"], "as": ["stack", "grpId"]},
+        {
+          "type": "formula",
+          "expr": "datum.stack == 'stk1' ? datum.stk1 + datum.stk2 : datum.stk2 + datum.stk1",
+          "as": "sortField"
+        },
+        {"type": "stack", "groupby": ["stack"], "sort": {"field": "sortField"}, "field": "size"},
+        {"type": "formula", "expr": "(datum.y0+datum.y1)/2", "as": "yc"}
+      ]
+    },
+    {
+      "name": "groups",
+      "source": "nodes",
+      "transform": [
+        {
+          "type": "aggregate",
+          "groupby": ["stack", "grpId"],
+          "fields": ["size"],
+          "ops": ["sum"],
+          "as": ["total"]
+        },
+        {
+          "type": "stack",
+          "groupby": ["stack"],
+          "sort": {"field": "grpId"},
+          "field": "total"
+        },
+        {"type": "formula", "expr": "scale('y', datum.y0)", "as": "scaledY0"},
+        {"type": "formula", "expr": "scale('y', datum.y1)", "as": "scaledY1"},
+        {"type": "formula", "expr": "datum.stack == 'stk1'", "as": "rightLabel"},
+        {"type": "formula", "expr": "datum.total / domain('y')[1]", "as": "percentage"}
+      ]
+    },
+    {
+      "name": "destinationNodes",
+      "source": "nodes",
+      "transform": [{"type": "filter", "expr": "datum.stack == 'stk2'"}]
+    },
+    {
+      "name": "edges",
+      "source": "nodes",
+      "transform": [
+        {"type": "filter", "expr": "datum.stack == 'stk1'"},
+        {
+          "type": "lookup",
+          "from": "destinationNodes",
+          "key": "key",
+          "fields": ["key"],
+          "as": ["target"]
+        },
+        {
+          "type": "linkpath",
+          "orient": "horizontal",
+          "shape": "diagonal",
+          "sourceY": {"expr": "scale('y', datum.yc)"},
+          "sourceX": {"expr": "scale('x', 'stk1') + bandwidth('x')"},
+          "targetY": {"expr": "scale('y', datum.target.yc)"},
+          "targetX": {"expr": "scale('x', 'stk2')"}
+        },
+        {"type": "formula", "expr": "range('y')[0] - scale('y', datum.size)", "as": "strokeWidth"},
+        {"type": "formula", "expr": "datum.size / domain('y')[1]", "as": "percentage"}
+      ]
+    },
+    {
+      "name": "dataForShowAll",
+      "values": [{}],
+      "transform": [{"type": "filter", "expr": "groupSelector"}]
+    }
+  ],
+  "scales": [
+    {
+      "name": "x",
+      "type": "band",
+      "range": "width",
+      "domain": ["stk1", "stk2"],
+      "paddingOuter": 0.05,
+      "paddingInner": 0.95
+    },
+    {
+      "name": "y",
+      "type": "linear",
+      "range": "height",
+      "domain": {"data": "nodes", "field": "y1"}
+    },
+    {
+      "name": "color",
+      "type": "ordinal",
+      "range": {"scheme": "tableau20"},
+      "domain": {"data": "export", "field": "stk1"}
+    },
+    {
+      "name": "stackNames",
+      "type": "ordinal",
+      "range": ["Source", "Destination"],
+      "domain": ["stk1", "stk2"]
+    }
+  ],
+  "axes": [
+    {
+      "orient": "bottom",
+      "scale": "x",
+      "labelPadding": 10,
+      "tickSize": 0,
+      "encode": {
+        "labels": {
+          "update": {
+            "text": {"scale": "stackNames", "field": "value"},
+            "fontWeight": {"value": "bold"}
+          }
+        }
+      }
+    },
+    {"orient": "left", "scale": "y", "grid": true}
+  ],
+  "marks": [
+    {
+      "type": "path",
+      "name": "edgeMark",
+      "from": {"data": "edges"},
+      "clip": true,
+      "encode": {
+        "update": {
+          "stroke": {"scale": "color", "field": "stk1"},
+          "strokeWidth": {"field": "strokeWidth"},
+          "path": {"field": "path"},
+          "strokeOpacity": {
+            "signal": "!groupSelector && (groupHover.stk1 == datum.stk1 || groupHover.stk2 == datum.stk2) ? 0.9 : 0.3"
+          },
+          "tooltip": {
+            "signal": "'From: ' + datum.stk1 + '\\nTo: ' + datum.stk2 + '\\nValue: $' + format(datum.size * 1000, ',.0f') + '\\nShare: ' + format(datum.percentage, '.1%')"
+          }
+        },
+        "hover": {"strokeOpacity": {"value": 1}}
+      }
+    },
+    {
+      "type": "rect",
+      "name": "groupMark",
+      "from": {"data": "groups"},
+      "encode": {
+        "enter": {
+          "fill": {"scale": "color", "field": "grpId"},
+          "width": {"scale": "x", "band": 1}
+        },
+        "update": {
+          "x": {"scale": "x", "field": "stack"},
+          "y": {"field": "scaledY0"},
+          "y2": {"field": "scaledY1"},
+          "fillOpacity": {"value": 0.6},
+          "tooltip": {
+            "signal": "'Country: ' + datum.grpId + '\\nTotal: $' + format(datum.total * 1000, ',.0f') + '\\nShare: ' + format(datum.percentage, '.1%')"
+          }
+        },
+        "hover": {"fillOpacity": {"value": 1}}
+      }
+    },
+    {
+      "type": "text",
+      "from": {"data": "groups"},
+      "encode": {
+        "update": {
+          "x": {
+            "signal": "scale('x', datum.stack) + (datum.rightLabel ? bandwidth('x') + 8 : -8)"
+          },
+          "yc": {"signal": "(datum.scaledY0 + datum.scaledY1)/2"},
+          "align": {"signal": "datum.rightLabel ? 'left' : 'right'"},
+          "baseline": {"value": "middle"},
+          "fontWeight": {"value": "bold"},
+          "text": {
+            "signal": "abs(datum.scaledY0 - datum.scaledY1) > 13 ? datum.grpId : ''"
+          }
+        }
+      }
+    },
+    {
+      "type": "group",
+      "name": "groupReset",
+      "from": {"data": "dataForShowAll"},
+      "encode": {
+        "enter": {
+          "xc": {"signal": "width / 2"},
+          "y": {"value": 30},
+          "width": {"value": 80},
+          "height": {"value": 30},
+          "fill": {"value": "#f5f5f5"},
+          "stroke": {"value": "#c1c1c1"},
+          "strokeWidth": {"value": 2},
+          "cornerRadius": {"value": 6}
+        },
+        "hover": {"opacity": {"value": 0.7}}
+      },
+      "marks": [
+        {
+          "type": "text",
+          "interactive": false,
+          "encode": {
+            "enter": {
+              "xc": {"field": {"group": "width"}, "mult": 0.5},
+              "yc": {"field": {"group": "height"}, "mult": 0.5},
+              "align": {"value": "center"},
+              "baseline": {"value": "middle"},
+              "fontWeight": {"value": "bold"},
+              "text": {"value": "Show All"}
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

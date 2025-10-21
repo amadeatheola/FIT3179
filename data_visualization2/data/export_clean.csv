@@ -1,5 +1,4 @@
 Country,TradeFlow,Product Description,Year,Partner,Trade Value 1000USD,Quantity,Quantity Unit
-Cambodia,Export,Rice,2023,World,81503448,178948000000000,Kg
 Cambodia,Export,Rice,2023,Vietnam,34829854,112478000000000,Kg
 Cambodia,Export,Rice,2023,China,12664890,19808700000000,Kg
 Cambodia,Export,Rice,2023,France,6450820,9382580000000,Kg
@@ -58,7 +57,6 @@ Cambodia,Export,Rice,2023,Moldova,1739,24840,Kg
 Cambodia,Export,Rice,2023,Cuba,1693,23040,Kg
 Cambodia,Export,Rice,2023,Cape Verde,1400,25000,Kg
 Cambodia,Export,Rice,2023,Eswatini,323,4506,Kg
-Cambodia,Export,Rice,2022, World,41599540,64173500000000,Kg
 Cambodia,Export,Rice,2022,China,16384837,28070800000000,Kg
 Cambodia,Export,Rice,2022,France,6297766,9402630000000,Kg
 Cambodia,Export,Rice,2022,Malaysia,3128274,45550000000,Kg
@@ -117,7 +115,6 @@ Cambodia,Export,Rice,2022,Vietnam,2305,24000,Kg
 Cambodia,Export,Rice,2022,Sierra Leone,2252,25000,Kg
 Cambodia,Export,Rice,2022,Liberia,2252,25000,Kg
 Cambodia,Export,Rice,2022,Guyana,1629,25000,Kg
-Cambodia,Export,Rice,2021, World,42245253,63500000000000,Kg
 Cambodia,Export,Rice,2021,China,18215349,31300000000000,Kg
 Cambodia,Export,Rice,2021,France,5077085,7470000000000,Kg
 Cambodia,Export,Rice,2021,Gabon,4471539,4430000000000,Kg
@@ -171,7 +168,6 @@ Cambodia,Export,Rice,2021,United Arab Emirates,1579,25000,Kg
 Cambodia,Export,Rice,2021,Ukraine,1256,25000,Kg
 Cambodia,Export,Rice,2021,India,303,1000,Kg
 Cambodia,Export,Rice,2021,Thailand,74,300,Kg
-Cambodia,Export,Rice,2020, World,47066475,65400000000000,Kg
 Cambodia,Export,Rice,2020,China,16784620,2540000000000,Kg
 Cambodia,Export,Rice,2020,France,5588320,8020000000000,Kg
 Cambodia,Export,Rice,2020,Gabon,4335252,4730000000000,Kg
@@ -232,7 +228,6 @@ Cambodia,Export,Rice,2020,Ukraine,2510,50000,Kg
 Cambodia,Export,Rice,2020,"Serbia, FR(Serbia/Montenegro)",1861,24210,Kg
 Cambodia,Export,Rice,2020,"Korea, Rep.",1835,20000,Kg
 Cambodia,Export,Rice,2020,Mauritius,1504,21480,Kg
-Cambodia,Export,Rice,2019, World,42110760,55500000000000,Kg
 Cambodia,Export,Rice,2019,China,15623407,21400000000000,Kg
 Cambodia,Export,Rice,2019,France,5470904,7650000000000,Kg
 Cambodia,Export,Rice,2019,Gabon,3113351,3110000000000,Kg
@@ -291,7 +286,6 @@ Cambodia,Export,Rice,2019,Switzerland,3608,49875,Kg
 Cambodia,Export,Rice,2019,French Polynesia,3181,42280,Kg
 Cambodia,Export,Rice,2019,Cape Verde,2232,25000,Kg
 Cambodia,Export,Rice,2019,South Africa,1094,24000,Kg
-Cambodia,Export,Rice,2018, World,41074735,44054400000000,Kg
 Cambodia,Export,Rice,2018,China,12344606,13119200000000,Kg
 Cambodia,Export,Rice,2018,France,5588718,6098090000000,Kg
 Cambodia,Export,Rice,2018,Malaysia,3166318,33650000000,Kg
@@ -352,7 +346,6 @@ Cambodia,Export,Rice,2018,Djibouti,3609,383531,Kg
 Cambodia,Export,Rice,2018,Cape Verde,3606,383216,Kg
 Cambodia,Export,Rice,2018,Philippines,2638,651277,Kg
 Cambodia,Export,Rice,2018,"Korea, Rep.",1592,169229,Kg
-Cambodia,Export,Rice,2017,World,34121696,42907900000000,Kg
 Cambodia,Export,Rice,2017,China,11184948,13981200000000,Kg
 Cambodia,Export,Rice,2017,France,4364252,5520720000000,Kg
 Cambodia,Export,Rice,2017,Malaysia,2359456,2949320000000,Kg
@@ -414,7 +407,6 @@ Cambodia,Export,Rice,2017,Cameroon,3425,42809,Kg
 Cambodia,Export,Rice,2017,Chile,1556,194498,Kg
 Cambodia,Export,Rice,2017,Guinea,1248,156036,Kg
 Cambodia,Export,Rice,2017,"Korea, Rep.",698,87193,Kg
-Cambodia,Export,Rice,2016, World,30588603,53075300000000,Kg
 Cambodia,Export,Rice,2016,China,7152634,12516700000000,Kg
 Cambodia,Export,Rice,2016,France,5012121,7785680000000,Kg
 Cambodia,Export,Rice,2016,Poland,2622698,6033570000000,Kg
@@ -479,7 +471,6 @@ Cambodia,Export,Rice,2016,"Other Asia, nes",1427,23760,Kg
 Cambodia,Export,Rice,2016,Guinea,1074,25000,Kg
 Cambodia,Export,Rice,2016,Vietnam,362,3000,Kg
 Cambodia,Export,Rice,2016,Japan,40,2000,Kg
-Cambodia,Export,Rice,2015, World,28490533,46579900000000,Kg
 Cambodia,Export,Rice,2015,France,5113483,7185150000000,Kg
 Cambodia,Export,Rice,2015,China,4169850,6410280000000,Kg
 Cambodia,Export,Rice,2015,Malaysia,3708642,4868720000000,Kg
@@ -540,7 +531,6 @@ Cambodia,Export,Rice,2015,Norway,1636,18720,Kg
 Cambodia,Export,Rice,2015,Belarus,1241,25000,Kg
 Cambodia,Export,Rice,2015,"Korea, Rep.",760,20000,Kg
 Cambodia,Export,Rice,2015,Nigeria,554,16800,Kg
-Indonesia,Export,Rice,2024,World,86236,520484,Kg
 Indonesia,Export,Rice,2024,Brunei,47813,42500,Kg
 Indonesia,Export,Rice,2024,Cambodia,24000,425000,Kg
 Indonesia,Export,Rice,2024,Malaysia,5691,32068,Kg
@@ -556,7 +546,6 @@ Indonesia,Export,Rice,2024,Papua New Guinea,100,5000,Kg
 Indonesia,Export,Rice,2024,Maldives,6,80,Kg
 Indonesia,Export,Rice,2024,Philippines,5,5,Kg
 Indonesia,Export,Rice,2024,Japan,3,20,Kg
-Indonesia,Export,Rice,2023,World,181029,164844000000,Kg
 Indonesia,Export,Rice,2023,Philippines,110756,14383000000,Kg
 Indonesia,Export,Rice,2023,Brunei,42750,38000,Kg
 Indonesia,Export,Rice,2023,Saudi Arabia,10321,70270,Kg
@@ -569,7 +558,6 @@ Indonesia,Export,Rice,2023,Italy,265,3528,Kg
 Indonesia,Export,Rice,2023,Canada,230,3675,Kg
 Indonesia,Export,Rice,2023,Singapore,119,32341,Kg
 Indonesia,Export,Rice,2023,Netherlands,35,240,Kg
-Indonesia,Export,Rice,2022,World,195742,297955000000,Kg
 Indonesia,Export,Rice,2022,Philippines,121103,268101000000,Kg
 Indonesia,Export,Rice,2022,Brunei,49500,44000,Kg
 Indonesia,Export,Rice,2022,Malaysia,7874,42216,Kg
@@ -586,7 +574,6 @@ Indonesia,Export,Rice,2022,Papua New Guinea,26,253,Kg
 Indonesia,Export,Rice,2022,India,9,23791666666666668,Kg
 Indonesia,Export,Rice,2022,Maldives,9,150,Kg
 Indonesia,Export,Rice,2022,Belgium,1,32,Kg
-Indonesia,Export,Rice,2021,World,260591,326166000000,Kg
 Indonesia,Export,Rice,2021,Philippines,177570,3019000000,Kg
 Indonesia,Export,Rice,2021,Brunei,46288,41500,Kg
 Indonesia,Export,Rice,2021,Saudi Arabia,9424,662525,Kg
@@ -607,7 +594,6 @@ Indonesia,Export,Rice,2021,Maldives,8,100,Kg
 Indonesia,Export,Rice,2021,Russian Federation,2,10,Kg
 Indonesia,Export,Rice,2021,Papua New Guinea,2,12,Kg
 Indonesia,Export,Rice,2021,"Hong Kong, China",0,34722222222222224,Kg
-Indonesia,Export,Rice,2021,World,260591,326166000000,Kg
 Indonesia,Export,Rice,2021,Philippines,177570,3019000000,Kg
 Indonesia,Export,Rice,2021,Brunei,46288,41500,Kg
 Indonesia,Export,Rice,2021,Saudi Arabia,9424,662525,Kg
@@ -628,7 +614,6 @@ Indonesia,Export,Rice,2021,Maldives,8,100,Kg
 Indonesia,Export,Rice,2021,Russian Federation,2,10,Kg
 Indonesia,Export,Rice,2021,Papua New Guinea,2,12,Kg
 Indonesia,Export,Rice,2021,"Hong Kong, China",0,3472222e11,Kg
-Indonesia,Export,Rice,2020,World,101242,366161,Kg
 Indonesia,Export,Rice,2020,Brunei,35860,32600,Kg
 Indonesia,Export,Rice,2020,United States,18905,100000,Kg
 Indonesia,Export,Rice,2020,Belgium,17729,65067,Kg
@@ -645,7 +630,6 @@ Indonesia,Export,Rice,2020,Netherlands,6,28368055555555556,Kg
 Indonesia,Export,Rice,2020,Pakistan,3,30,Kg
 Indonesia,Export,Rice,2020,Turkey,1,10,Kg
 Indonesia,Export,Rice,2020,China,1,2951388888888889,Kg
-Indonesia,Export,Rice,2019,World,69957,286397,Kg
 Indonesia,Export,Rice,2019,United States,24962,125814,Kg
 Indonesia,Export,Rice,2019,Brunei,19390,18400,Kg
 Indonesia,Export,Rice,2019,Singapore,14631,924922,Kg
@@ -657,7 +641,6 @@ Indonesia,Export,Rice,2019,"Hong Kong, China",300,1176,Kg
 Indonesia,Export,Rice,2019,Japan,26,180,Kg
 Indonesia,Export,Rice,2019,East Timor,1,25,Kg
 Indonesia,Export,Rice,2019,China,0,1,Kg
-Indonesia,Export,Rice,2018,World,148698,321272000000,Kg
 Indonesia,Export,Rice,2018,Israel,74000,2000000,Kg
 Indonesia,Export,Rice,2018,Turkey,36000,1000000,Kg
 Indonesia,Export,Rice,2018,Singapore,14923,106522,Kg
@@ -672,7 +655,6 @@ Indonesia,Export,Rice,2018,Bangladesh,12,9225,Kg
 Indonesia,Export,Rice,2018,Philippines,2,1904,Kg
 Indonesia,Export,Rice,2018,India,1,8,Kg
 Indonesia,Export,Rice,2018,East Timor,1,10,Kg
-Indonesia,Export,Rice,2017,World,325477,35553000000,Kg
 Indonesia,Export,Rice,2017,Bangladesh,187500,2000000,Kg
 Indonesia,Export,Rice,2017,Somalia,88128,13000000,Kg
 Indonesia,Export,Rice,2017,Singapore,18547,106934,Kg
@@ -687,7 +669,6 @@ Indonesia,Export,Rice,2017,East Timor,23,375,Kg
 Indonesia,Export,Rice,2017,British Virgin Islands,8,61,Kg
 Indonesia,Export,Rice,2017,Netherlands,1,100,Kg
 Indonesia,Export,Rice,2017,Togo,1,16,Kg
-Indonesia,Export,Rice,2016,World,86426,999163,Kg
 Indonesia,Export,Rice,2016,India,23459,97745,Kg
 Indonesia,Export,Rice,2016,Thailand,19051,525000,Kg
 Indonesia,Export,Rice,2016,Singapore,17893,101398,Kg
@@ -703,7 +684,6 @@ Indonesia,Export,Rice,2016,New Caledonia,31,124,Kg
 Indonesia,Export,Rice,2016,Germany,20,28,Kg
 Indonesia,Export,Rice,2016,Vietnam,4,31,Kg
 Indonesia,Export,Rice,2016,"Hong Kong, China",1,64,Kg
-Indonesia,Export,Rice,2015,World,63039,519497,Kg
 Indonesia,Export,Rice,2015,Singapore,35110,306250,Kg
 Indonesia,Export,Rice,2015,United States,9569,59005,Kg
 Indonesia,Export,Rice,2015,Italy,8020,36910,Kg
@@ -716,7 +696,6 @@ Indonesia,Export,Rice,2015,"Other Asia, nes",23,530,Kg
 Indonesia,Export,Rice,2015,Philippines,20,55,Kg
 Indonesia,Export,Rice,2015,Germany,3,15,Kg
 Indonesia,Export,Rice,2015,China,0,4,Kg
-Lao PDR,Export,Rice,2023,World,2840862,8111510000000,Kg
 Lao PDR,Export,Rice,2023,Vietnam,1317827,438320000000,Kg
 Lao PDR,Export,Rice,2023,China,440225,1086620000000,Kg
 Lao PDR,Export,Rice,2023,Unspecified,357767,1120540000000,Kg
@@ -733,7 +712,6 @@ Lao PDR,Export,Rice,2023,Canada,2129,22026,Kg
 Lao PDR,Export,Rice,2023,United Kingdom,1823,22500,Kg
 Lao PDR,Export,Rice,2023,Denmark,1790,22950,Kg
 Lao PDR,Export,Rice,2023,Brunei,23,138,Kg
-Lao PDR,Export,Rice,2022,World,4005005,10655500000000,Kg
 Lao PDR,Export,Rice,2022,Vietnam,1937347,5916230000000,Kg
 Lao PDR,Export,Rice,2022,China,1554675,3851290000000,Kg
 Lao PDR,Export,Rice,2022,Netherlands,249288,439295000000,Kg
@@ -747,7 +725,6 @@ Lao PDR,Export,Rice,2022,United States,6038,66000,Kg
 Lao PDR,Export,Rice,2022,Denmark,3469,45950,Kg
 Lao PDR,Export,Rice,2022,Thailand,2850,150000,Kg
 Lao PDR,Export,Rice,2022,"Korea, Rep.",1800,100000,Kg
-Lao PDR,Export,Rice,2021,World,3521770,9362010000000,Kg
 Lao PDR,Export,Rice,2021,Vietnam,1469305,4734160000000,Kg
 Lao PDR,Export,Rice,2021,China,1408428,3641930000000,Kg
 Lao PDR,Export,Rice,2021,Netherlands,355064,55166000000,Kg
@@ -760,7 +737,6 @@ Lao PDR,Export,Rice,2021,Thailand,9236,390000,Kg
 Lao PDR,Export,Rice,2021,Portugal,7853,96000,Kg
 Lao PDR,Export,Rice,2021,Denmark,1863,23000,Kg
 Lao PDR,Export,Rice,2021,Germany,1089,5000,Kg
-Lao PDR,Export,Rice,2020,World,5271944,11731700000000,Kg
 Lao PDR,Export,Rice,2020,China,3218485,7432270000000,Kg
 Lao PDR,Export,Rice,2020,Vietnam,835581,2433280000000,Kg
 Lao PDR,Export,Rice,2020,Belgium,670478,8226000000,Kg
@@ -774,7 +750,6 @@ Lao PDR,Export,Rice,2020,United Kingdom,15728,136000,Kg
 Lao PDR,Export,Rice,2020,Denmark,8769,91800,Kg
 Lao PDR,Export,Rice,2020,Cambodia,5738,75000,Kg
 Lao PDR,Export,Rice,2020,Switzerland,2671,24000,Kg
-Lao PDR,Export,Rice,2019,World,1990295,3751680000000,Kg
 Lao PDR,Export,Rice,2019,Vietnam,765126,1774420000000,Kg
 Lao PDR,Export,Rice,2019,China,708001,109170000000,Kg
 Lao PDR,Export,Rice,2019,Belgium,315894,581988000000,Kg
@@ -791,7 +766,6 @@ Lao PDR,Export,Rice,2019,Cambodia,4257,66000,Kg
 Lao PDR,Export,Rice,2019,Germany,3900,44400,Kg
 Lao PDR,Export,Rice,2019,Australia,2075,21500,Kg
 Lao PDR,Export,Rice,2019,"Hong Kong, China",500,2580,Kg
-Lao PDR,Export,Rice,2018,World,3136667,4585880000000,Kg
 Lao PDR,Export,Rice,2018,Vietnam,1858886,269060000000,Kg
 Lao PDR,Export,Rice,2018,China,725321,1150660000000,Kg
 Lao PDR,Export,Rice,2018,Belgium,340282,49942000000,Kg
@@ -805,7 +779,6 @@ Lao PDR,Export,Rice,2018,Germany,3854,415666,Kg
 Lao PDR,Export,Rice,2018,United Kingdom,3301,35076,Kg
 Lao PDR,Export,Rice,2018,Denmark,1474,156649,Kg
 Lao PDR,Export,Rice,2018,"Hong Kong, China",42,446355,Kg
-Lao PDR,Export,Rice,2017,World,3112158,5291690000000,Kg
 Lao PDR,Export,Rice,2017,Vietnam,2084648,2983270000000,Kg
 Lao PDR,Export,Rice,2017,China,558805,1179110000000,Kg
 Lao PDR,Export,Rice,2017,Belgium,373830,1003510000000,Kg
@@ -821,7 +794,6 @@ Lao PDR,Export,Rice,2017,Sweden,1814,22680,Kg
 Lao PDR,Export,Rice,2017,Denmark,1474,18425,Kg
 Lao PDR,Export,Rice,2017,Curaçao,1430,17875,Kg
 Lao PDR,Export,Rice,2017,New Zealand,1365,170625,Kg
-Lao PDR,Export,Rice,2016,World,3370213,NA,NA
 Lao PDR,Export,Rice,2016,Vietnam,1551026,NA,NA
 Lao PDR,Export,Rice,2016,China,1419731,NA,NA
 Lao PDR,Export,Rice,2016,Thailand,234871,NA,NA
@@ -834,7 +806,6 @@ Lao PDR,Export,Rice,2016,Spain,1870,NA,NA
 Lao PDR,Export,Rice,2016,Sweden,1814,NA,NA
 Lao PDR,Export,Rice,2016,Austria,1764,NA,NA
 Lao PDR,Export,Rice,2016,Italy,1525,NA,NA
-Lao PDR,Export,Rice,2015,World,2358780,309860000000,Kg
 Lao PDR,Export,Rice,2015,Vietnam,759898,1058390000000,Kg
 Lao PDR,Export,Rice,2015,China,753706,917059000000,Kg
 Lao PDR,Export,Rice,2015,Thailand,630615,863133000000,Kg
@@ -854,7 +825,6 @@ Lao PDR,Export,Rice,2015,Czech Republic,2125,25539,Kg
 Lao PDR,Export,Rice,2015,Australia,1741,20926,Kg
 Lao PDR,Export,Rice,2015,Belgium,1564,18793,Kg
 Lao PDR,Export,Rice,2015,South Africa,1333,16017,Kg
-Malaysia,Export,Rice,2024,World,6034880,10373300000000,Kg
 Malaysia,Export,Rice,2024,Indonesia,5849962,9997920000000,Kg
 Malaysia,Export,Rice,2024,India,111092,237537000000,Kg
 Malaysia,Export,Rice,2024,Vietnam,49202,885520,Kg
@@ -862,20 +832,17 @@ Malaysia,Export,Rice,2024,Singapore,22565,440022,Kg
 Malaysia,Export,Rice,2024,China,1667,50110,Kg
 Malaysia,Export,Rice,2024,Brunei,315,196315,Kg
 Malaysia,Export,Rice,2024,Philippines,78,500,Kg
-Malaysia,Export,Rice,2023,World,4849675,12344900000000,Kg
 Malaysia,Export,Rice,2023,Indonesia,4838748,1233600000000,Kg
 Malaysia,Export,Rice,2023,Singapore,8774,80930,Kg
 Malaysia,Export,Rice,2023,Saudi Arabia,1183,3250,Kg
 Malaysia,Export,Rice,2023,Brunei,764,3093,Kg
 Malaysia,Export,Rice,2023,United Arab Emirates,142,7776,Kg
 Malaysia,Export,Rice,2023,Papua New Guinea,64,1650,Kg
-Malaysia,Export,Rice,2022,World,4480933,11402100000000,Kg
 Malaysia,Export,Rice,2022,Indonesia,4476192,11396700000000,Kg
 Malaysia,Export,Rice,2022,Singapore,4300,50300,Kg
 Malaysia,Export,Rice,2022,China,300,260624,Kg
 Malaysia,Export,Rice,2022,United Kingdom,133,6084,Kg
 Malaysia,Export,Rice,2022,Brunei,9,50,Kg
-Malaysia,Export,Rice,2021,World,3909930,9667540000000,Kg
 Malaysia,Export,Rice,2021,Indonesia,3899798,9650490000000,Kg
 Malaysia,Export,Rice,2021,Singapore,4297,48550,Kg
 Malaysia,Export,Rice,2021,Thailand,3587,108475,Kg
@@ -886,7 +853,6 @@ Malaysia,Export,Rice,2021,Papua New Guinea,109,650,Kg
 Malaysia,Export,Rice,2021,Brunei,46,2347,Kg
 Malaysia,Export,Rice,2021,Japan,33,2072,Kg
 Malaysia,Export,Rice,2021,Canada,24,1167,Kg
-Malaysia,Export,Rice,2020,World,2309958,5829850000000,Kg
 Malaysia,Export,Rice,2020,Indonesia,2277924,5811510000000,Kg
 Malaysia,Export,Rice,2020,Poland,18620,25008,Kg
 Malaysia,Export,Rice,2020,Singapore,8201,89700,Kg
@@ -896,13 +862,11 @@ Malaysia,Export,Rice,2020,Sri Lanka,277,2700,Kg
 Malaysia,Export,Rice,2020,Belgium,102,2500,Kg
 Malaysia,Export,Rice,2020,United Kingdom,60,2808,Kg
 Malaysia,Export,Rice,2020,"Hong Kong, China",0,2,Kg
-Malaysia,Export,Rice,2019,World,1083064,2485660000000,Kg
 Malaysia,Export,Rice,2019,Indonesia,1069793,2472530000000,Kg
 Malaysia,Export,Rice,2019,Singapore,11950,125092,Kg
 Malaysia,Export,Rice,2019,Brunei,694,34278,Kg
 Malaysia,Export,Rice,2019,Australia,353,1500,Kg
 Malaysia,Export,Rice,2019,United Kingdom,273,12636,Kg
-Malaysia,Export,Rice,2018,World,858800,1966810000000,Kg
 Malaysia,Export,Rice,2018,Indonesia,602738,1282790000000,Kg
 Malaysia,Export,Rice,2018,East Timor,79602,15535000000,Kg
 Malaysia,Export,Rice,2018,Togo,73063,25508000000,Kg
@@ -916,7 +880,6 @@ Malaysia,Export,Rice,2018,New Zealand,467,3520,Kg
 Malaysia,Export,Rice,2018,United Arab Emirates,181,1200,Kg
 Malaysia,Export,Rice,2018,United Kingdom,71,6084,Kg
 Malaysia,Export,Rice,2018,Iraq,55,320,Kg
-Malaysia,Export,Rice,2017,World,87481,147624000000,Kg
 Malaysia,Export,Rice,2017,Myanmar,55447,10025000000,Kg
 Malaysia,Export,Rice,2017,Togo,15224,340250,Kg
 Malaysia,Export,Rice,2017,Singapore,10906,915624,Kg
@@ -925,7 +888,6 @@ Malaysia,Export,Rice,2017,New Zealand,2796,30250,Kg
 Malaysia,Export,Rice,2017,Indonesia,96,58232,Kg
 Malaysia,Export,Rice,2017,Brunei,45,370,Kg
 Malaysia,Export,Rice,2017,United Arab Emirates,20,200,Kg
-Malaysia,Export,Rice,2016,World,2022739,4543520000000,Kg
 Malaysia,Export,Rice,2016,Indonesia,1800154,4071670000000,Kg
 Malaysia,Export,Rice,2016,Vietnam,80399,21552000000,Kg
 Malaysia,Export,Rice,2016,Benin,55998,981250,Kg
@@ -937,7 +899,6 @@ Malaysia,Export,Rice,2016,New Zealand,1529,15250,Kg
 Malaysia,Export,Rice,2016,Philippines,30,350,Kg
 Malaysia,Export,Rice,2016,"Korea, Rep.",17,200,Kg
 Malaysia,Export,Rice,2016,China,9,100,Kg
-Malaysia,Export,Rice,2015,World,3188929,726720000000,Kg
 Malaysia,Export,Rice,2015,Indonesia,3033159,6952820000000,Kg
 Malaysia,Export,Rice,2015,Singapore,78190,1615000000,Kg
 Malaysia,Export,Rice,2015,Philippines,60883,123338000000,Kg
@@ -948,7 +909,6 @@ Malaysia,Export,Rice,2015,Australia,189,792,Kg
 Malaysia,Export,Rice,2015,India,156,4500,Kg
 Malaysia,Export,Rice,2015,Thailand,45,1750,Kg
 Malaysia,Export,Rice,2015,Pakistan,1,5,Kg
-Myanmar,Export,Rice,2015,World,61182601,162198000000000,Kg
 Myanmar,Export,Rice,2015,China,51049213,141041000000000,Kg
 Myanmar,Export,Rice,2015,Bulgaria,2173994,335520000000,Kg
 Myanmar,Export,Rice,2015,Belgium,1128327,196510000000,Kg
@@ -1009,7 +969,6 @@ Myanmar,Export,Rice,2015,Norway,1625,50000,Kg
 Myanmar,Export,Rice,2015,Latvia,1088,25000,Kg
 Myanmar,Export,Rice,2015,Kenya,1088,25000,Kg
 Myanmar,Export,Rice,2015,Botswana,1025,25000,Kg
-Myanmar,Export,Rice,2016,World,43893555,57316300000000,Kg
 Myanmar,Export,Rice,2016,China,32290811,33474400000000,Kg
 Myanmar,Export,Rice,2016,Bulgaria,2023301,228740000000,Kg
 Myanmar,Export,Rice,2016,Belgium,1749153,25410000000,Kg
@@ -1070,7 +1029,6 @@ Myanmar,Export,Rice,2016,Bahrain,2100,50000,Kg
 Myanmar,Export,Rice,2016,Philippines,1650,50000,Kg
 Myanmar,Export,Rice,2016,"Hong Kong, China",1425,50000,Kg
 Myanmar,Export,Rice,2016,Cyprus,1025,25000,Kg
-Myanmar,Export,Rice,2017,World,103082379,223325000000000,Kg
 Myanmar,Export,Rice,2017,China,57251355,6563300000000,Kg
 Myanmar,Export,Rice,2017,Bangladesh,7785666,23327400000000,Kg
 Myanmar,Export,Rice,2017,Belgium,6768607,2642900000000,Kg
@@ -1137,7 +1095,6 @@ Myanmar,Export,Rice,2017,Austria,419,8000,Kg
 Myanmar,Export,Rice,2017,Thailand,259,7400,Kg
 Myanmar,Export,Rice,2017,"Korea, Rep.",68,13650,Kg
 Myanmar,Export,Rice,2017,Australia,3,50,Kg
-Myanmar,Export,Rice,2018,World,88337796,172403000000000,Kg
 Myanmar,Export,Rice,2018,China,44163945,37920700000000,Kg
 Myanmar,Export,Rice,2018,Belgium,7744460,25543400000000,Kg
 Myanmar,Export,Rice,2018,Cote d'Ivoire,6447265,20486400000000,Kg
@@ -1195,7 +1152,6 @@ Myanmar,Export,Rice,2018,Dominican Republic,5538,125000,Kg
 Myanmar,Export,Rice,2018,Venezuela,5484,124920,Kg
 Myanmar,Export,Rice,2018,Ecuador,1944,48000,Kg
 Myanmar,Export,Rice,2018,Cambodia,59,1000,Kg
-Myanmar,Export,Rice,2019,World,78242912,232833000000000,Kg
 Myanmar,Export,Rice,2019,China,23407202,42766300000000,Kg
 Myanmar,Export,Rice,2019,Philippines,6638641,21143800000000,Kg
 Myanmar,Export,Rice,2019,Belgium,6311475,24121100000000,Kg
@@ -1279,7 +1235,6 @@ Myanmar,Export,Rice,2019,Sudan,4726,173000,Kg
 Myanmar,Export,Rice,2019,"Hong Kong, China",4287,166000,Kg
 Myanmar,Export,Rice,2019,Nigeria,3848,104000,Kg
 Myanmar,Export,Rice,2019,New Zealand,26,500,Kg
-Myanmar,Export,Rice,2020,World,77317533,195132000000000,Kg
 Myanmar,Export,Rice,2020,China,36191409,66492300000000,Kg
 Myanmar,Export,Rice,2020,Belgium,7196518,25925500000000,Kg
 Myanmar,Export,Rice,2020,Philippines,5444474,14807300000000,Kg
@@ -1357,7 +1312,6 @@ Myanmar,Export,Rice,2020,Sudan,2730,98000,Kg
 Myanmar,Export,Rice,2020,United States,1906,36777,Kg
 Myanmar,Export,Rice,2020,Mongolia,1025,25000,Kg
 Myanmar,Export,Rice,2020,Argentina,638,25000,Kg
-Myanmar,Export,Rice,2021,World,67069775,168534000000000,Kg
 Myanmar,Export,Rice,2021,China,30201548,6274500000000,Kg
 Myanmar,Export,Rice,2021,Belgium,9594198,30223800000000,Kg
 Myanmar,Export,Rice,2021,Philippines,8318077,22574300000000,Kg
@@ -1406,7 +1360,6 @@ Myanmar,Export,Rice,2021,New Zealand,2479,69000,Kg
 Myanmar,Export,Rice,2021,Cyprus,2457,75000,Kg
 Myanmar,Export,Rice,2021,Canada,23,400,Kg
 Myanmar,Export,Rice,2021,United States,7,1134,Kg
-Myanmar,Export,Rice,2022,World,78683875,215656000000000,Kg
 Myanmar,Export,Rice,2022,China,23305255,57385400000000,Kg
 Myanmar,Export,Rice,2022,Belgium,14004539,43166900000000,Kg
 Myanmar,Export,Rice,2022,Philippines,7723237,21832700000000,Kg
@@ -1459,7 +1412,6 @@ Myanmar,Export,Rice,2022,New Zealand,2640,92000,Kg
 Myanmar,Export,Rice,2022,United Arab Emirates,2116,50000,Kg
 Myanmar,Export,Rice,2022,United States,996,22835,Kg
 Myanmar,Export,Rice,2022,"Korea, Rep.",11,123,Kg
-Myanmar,Export,Rice,2023,World,74351324,159531000000000,Kg
 Myanmar,Export,Rice,2023,China,20579766,44015800000000,Kg
 Myanmar,Export,Rice,2023,Indonesia,9856898,17555800000000,Kg
 Myanmar,Export,Rice,2023,Belgium,8611607,214300000000,Kg
@@ -1510,7 +1462,6 @@ Myanmar,Export,Rice,2023,United States,1490,18336,Kg
 Myanmar,Export,Rice,2023,United Arab Emirates,1417,26000,Kg
 Myanmar,Export,Rice,2023,Ireland,893,21000,Kg
 Myanmar,Export,Rice,2023,Canada,116,2010,Kg
-Myanmar,Export,Rice,2024,World,134372388,275976000000000,Kg
 Myanmar,Export,Rice,2024,Indonesia,41245801,79432800000000,Kg
 Myanmar,Export,Rice,2024,China,24276032,49821500000000,Kg
 Myanmar,Export,Rice,2024,Belgium,14864596,3719900000000,Kg
@@ -1562,7 +1513,6 @@ Myanmar,Export,Rice,2024,Kuwait,4880,97000,Kg
 Myanmar,Export,Rice,2024,Macao,2236,52000,Kg
 Myanmar,Export,Rice,2024,New Zealand,1852,46000,Kg
 Myanmar,Export,Rice,2024,Russian Federation,2,45,Kg
-Philippines,Export,Rice,2024,World,60886,602542,Kg
 Philippines,Export,Rice,2024,Bangladesh,19216,29848,Kg
 Philippines,Export,Rice,2024,Thailand,18245,391395,Kg
 Philippines,Export,Rice,2024,Qatar,9878,770898,Kg
@@ -1572,7 +1522,6 @@ Philippines,Export,Rice,2024,Jordan,2404,16564,Kg
 Philippines,Export,Rice,2024,United States,885,6052,Kg
 Philippines,Export,Rice,2024,"Micronesia, Fed. Sts.",39,175,Kg
 Philippines,Export,Rice,2024,Lebanon,3,25,Kg
-Philippines,Export,Rice,2023,World,60959,583013,Kg
 Philippines,Export,Rice,2023,Bangladesh,15318,202734,Kg
 Philippines,Export,Rice,2023,Saudi Arabia,13360,110926,Kg
 Philippines,Export,Rice,2023,Qatar,9450,786531,Kg
@@ -1585,7 +1534,6 @@ Philippines,Export,Rice,2023,Israel,670,59645,Kg
 Philippines,Export,Rice,2023,"Hong Kong, China",92,817226,Kg
 Philippines,Export,Rice,2023,Vietnam,20,264709,Kg
 Philippines,Export,Rice,2023,Sweden,3,33089,Kg
-Philippines,Export,Rice,2022,World,109034,1557000000,Kg
 Philippines,Export,Rice,2022,Bangladesh,63125,928967,Kg
 Philippines,Export,Rice,2022,United Arab Emirates,13284,181832,Kg
 Philippines,Export,Rice,2022,Qatar,10308,141089,Kg
@@ -1598,7 +1546,6 @@ Philippines,Export,Rice,2022,India,954,120556,Kg
 Philippines,Export,Rice,2022,"Hong Kong, China",859,108601,Kg
 Philippines,Export,Rice,2022,Netherlands,86,117443,Kg
 Philippines,Export,Rice,2022,Bahrain,46,62554,Kg
-Philippines,Export,Rice,2021,World,60829,812074,Kg
 Philippines,Export,Rice,2021,United Arab Emirates,16096,190651,Kg
 Philippines,Export,Rice,2021,Bangladesh,11822,225227,Kg
 Philippines,Export,Rice,2021,Qatar,10088,119961,Kg
@@ -1611,7 +1558,6 @@ Philippines,Export,Rice,2021,Canada,395,540074,Kg
 Philippines,Export,Rice,2021,Vietnam,215,410352,Kg
 Philippines,Export,Rice,2021,Australia,161,306716,Kg
 Philippines,Export,Rice,2021,Israel,129,149148,Kg
-Philippines,Export,Rice,2020,World,55661,897692,Kg
 Philippines,Export,Rice,2020,United Arab Emirates,13281,185269,Kg
 Philippines,Export,Rice,2020,Bangladesh,11813,249729,Kg
 Philippines,Export,Rice,2020,Qatar,8167,115748,Kg
@@ -1628,7 +1574,6 @@ Philippines,Export,Rice,2020,Kuwait,81,114583,Kg
 Philippines,Export,Rice,2020,Vietnam,66,139954,Kg
 Philippines,Export,Rice,2020,Indonesia,15,31923,Kg
 Philippines,Export,Rice,2020,Papua New Guinea,12,149065,Kg
-Philippines,Export,Rice,2019,World,56689,369538,Kg
 Philippines,Export,Rice,2019,United Arab Emirates,19228,167057,Kg
 Philippines,Export,Rice,2019,Bangladesh,11813,15750,Kg
 Philippines,Export,Rice,2019,Qatar,9161,74801,Kg
@@ -1640,7 +1585,6 @@ Philippines,Export,Rice,2019,United States,690,45757,Kg
 Philippines,Export,Rice,2019,"Hong Kong, China",659,4380,Kg
 Philippines,Export,Rice,2019,Switzerland,240,1235,Kg
 Philippines,Export,Rice,2019,China,188,20000,Kg
-Philippines,Export,Rice,2018,World,47028,230035,Kg
 Philippines,Export,Rice,2018,Myanmar,14220,35550,Kg
 Philippines,Export,Rice,2018,Bangladesh,9975,13300,Kg
 Philippines,Export,Rice,2018,United Arab Emirates,8639,78068,Kg
@@ -1651,7 +1595,6 @@ Philippines,Export,Rice,2018,India,1343,7736666666666666,Kg
 Philippines,Export,Rice,2018,"Hong Kong, China",619,19211597222222220,Kg
 Philippines,Export,Rice,2018,Vietnam,42,85,Kg
 Philippines,Export,Rice,2018,Cayman Islands,9,5187,Kg
-Philippines,Export,Rice,2017,World,88521,322019,Kg
 Philippines,Export,Rice,2017,Indonesia,50220,532375,Kg
 Philippines,Export,Rice,2017,United States,19338,127727,Kg
 Philippines,Export,Rice,2017,United Arab Emirates,8828,703894,Kg
@@ -1661,7 +1604,6 @@ Philippines,Export,Rice,2017,"Hong Kong, China",1608,113149,Kg
 Philippines,Export,Rice,2017,Italy,871,5550,Kg
 Philippines,Export,Rice,2017,Vietnam,27,56,Kg
 Philippines,Export,Rice,2017,Japan,20,53,Kg
-Philippines,Export,Rice,2016,World,31823,199213,Kg
 Philippines,Export,Rice,2016,United Arab Emirates,10100,78696,Kg
 Philippines,Export,Rice,2016,Saudi Arabia,10043,78879,Kg
 Philippines,Export,Rice,2016,Switzerland,5625,750,Kg
@@ -1672,14 +1614,12 @@ Philippines,Export,Rice,2016,Vietnam,470,700,Kg
 Philippines,Export,Rice,2016,Cote d'Ivoire,157,237,Kg
 Philippines,Export,Rice,2016,Indonesia,55,120,Kg
 Philippines,Export,Rice,2016,Japan,13,11,Kg
-Philippines,Export,Rice,2015,World,80183,223329,Kg
 Philippines,Export,Rice,2015,"Hong Kong, China",43452,5960,Kg
 Philippines,Export,Rice,2015,Israel,16883,59392,Kg
 Philippines,Export,Rice,2015,United Arab Emirates,16471,136655,Kg
 Philippines,Export,Rice,2015,United States,3345,21230,Kg
 Philippines,Export,Rice,2015,Cambodia,19,62,Kg
 Philippines,Export,Rice,2015,Indonesia,13,30,Kg
-Singapore,Export,Rice,2023,World,8190236,15679700000000,Kg
 Singapore,Export,Rice,2023,Indonesia,7821765,1538400000000,Kg
 Singapore,Export,Rice,2023,Malaysia,189841,195025000000,Kg
 Singapore,Export,Rice,2023,Australia,43964,259250,Kg
@@ -1703,7 +1643,6 @@ Singapore,Export,Rice,2023,Fiji,222,1550,Kg
 Singapore,Export,Rice,2023,Japan,164,830,Kg
 Singapore,Export,Rice,2023,Bangladesh,59,220,Kg
 Singapore,Export,Rice,2023,"Micronesia, Fed. Sts.",8,20,Kg
-Singapore,Export,Rice,2022,World,5631824,13091600000000,Kg
 Singapore,Export,Rice,2022,Indonesia,5338597,12636100000000,Kg
 Singapore,Export,Rice,2022,Philippines,132196,330687000000,Kg
 Singapore,Export,Rice,2022,Brunei,71099,338360,Kg
@@ -1730,7 +1669,6 @@ Singapore,Export,Rice,2022,Japan,13,160,Kg
 Singapore,Export,Rice,2022,United States,5,30,Kg
 Singapore,Export,Rice,2022,"Congo, Dem. Rep.",0,1687,Kg
 Singapore,Export,Rice,2022,Lebanon,0,1687,Kg
-Singapore,Export,Rice,2021,World,6627300,15224400000000,Kg
 Singapore,Export,Rice,2021,Indonesia,4618618,10272800000000,Kg
 Singapore,Export,Rice,2021,Philippines,1204706,354190000000,Kg
 Singapore,Export,Rice,2021,Malaysia,443575,758614000000,Kg
@@ -1757,7 +1695,6 @@ Singapore,Export,Rice,2021,Bangladesh,107,880,Kg
 Singapore,Export,Rice,2021,"Micronesia, Fed. Sts.",32,80,Kg
 Singapore,Export,Rice,2021,Christmas Island,28,250,Kg
 Singapore,Export,Rice,2021,New Zealand,15,60,Kg
-Singapore,Export,Rice,2020,World,4616362,10039800000000,Kg
 Singapore,Export,Rice,2020,Indonesia,3611682,8170810000000,Kg
 Singapore,Export,Rice,2020,Malaysia,565414,97137000000,Kg
 Singapore,Export,Rice,2020,Mozambique,125073,349048000000,Kg
@@ -1789,7 +1726,6 @@ Singapore,Export,Rice,2020,Germany,209,860,Kg
 Singapore,Export,Rice,2020,"Micronesia, Fed. Sts.",128,280,Kg
 Singapore,Export,Rice,2020,Seychelles,94,1000,Kg
 Singapore,Export,Rice,2020,Japan,88,1000,Kg
-Singapore,Export,Rice,2019,World,3561750,7559210000000,Kg
 Singapore,Export,Rice,2019,Indonesia,2795653,6467390000000,Kg
 Singapore,Export,Rice,2019,Malaysia,534618,785628000000,Kg
 Singapore,Export,Rice,2019,Nigeria,47735,945000,Kg
@@ -1820,7 +1756,6 @@ Singapore,Export,Rice,2019,Cambodia,100,140,Kg
 Singapore,Export,Rice,2019,China,56,740,Kg
 Singapore,Export,Rice,2019,New Zealand,33,120,Kg
 Singapore,Export,Rice,2019,"Micronesia, Fed. Sts.",16,40,Kg
-Singapore,Export,Rice,2018,World,2367312,4010290000000,Kg
 Singapore,Export,Rice,2018,Malaysia,1104924,1583070000000,Kg
 Singapore,Export,Rice,2018,Indonesia,906145,1796570000000,Kg
 Singapore,Export,Rice,2018,Benin,177260,3899000000,Kg
@@ -1860,7 +1795,6 @@ Singapore,Export,Rice,2018,Madagascar,31,350,Kg
 Singapore,Export,Rice,2018,"Micronesia, Fed. Sts.",24,40,Kg
 Singapore,Export,Rice,2018,New Zealand,18,70,Kg
 Singapore,Export,Rice,2018,Switzerland,0,128561,Kg
-Singapore,Export,Rice,2017,World,3525705,6815460000000,Kg
 Singapore,Export,Rice,2017,Indonesia,2143012,4521570000000,Kg
 Singapore,Export,Rice,2017,Malaysia,811494,1162430000000,Kg
 Singapore,Export,Rice,2017,Benin,332144,753000000,Kg
@@ -1894,7 +1828,6 @@ Singapore,Export,Rice,2017,China,153,20,Kg
 Singapore,Export,Rice,2017,Fiji,72,500,Kg
 Singapore,Export,Rice,2017,Seychelles,68,780,Kg
 Singapore,Export,Rice,2017,Christmas Island,45,270,Kg
-Singapore,Export,Rice,2016,World,2523469,NA,NA
 Singapore,Export,Rice,2016,Indonesia,1859097,NA,NA
 Singapore,Export,Rice,2016,Benin,297582,NA,NA
 Singapore,Export,Rice,2016,Malaysia,192836,264661000000,Kg
@@ -1929,7 +1862,6 @@ Singapore,Export,Rice,2016,"Korea, Rep.",241,NA,NA
 Singapore,Export,Rice,2016,Fiji,132,NA,NA
 Singapore,Export,Rice,2016,Guinea,11,NA,NA
 Singapore,Export,Rice,2016,Seychelles,5,NA,NA
-Singapore,Export,Rice,2015,World,6227033,13704200000000,Kg
 Singapore,Export,Rice,2015,Indonesia,5682521,12637600000000,Kg
 Singapore,Export,Rice,2015,Malaysia,179997,438932000000,Kg
 Singapore,Export,Rice,2015,Benin,165541,4000000,Kg
@@ -1962,7 +1894,6 @@ Singapore,Export,Rice,2015,Christmas Island,351,2350,Kg
 Singapore,Export,Rice,2015,Seychelles,182,2310,Kg
 Singapore,Export,Rice,2015,Fiji,42,500,Kg
 Singapore,Export,Rice,2015,Papua New Guinea,35,100,Kg
-Thailand,Export,Rice,2024,World,640369442,NA,NA
 Thailand,Export,Rice,2024,United States,83220412,8964300000000,Kg
 Thailand,Export,Rice,2024,Indonesia,77247893,131393000000000,Kg
 Thailand,Export,Rice,2024,Iraq,60678373,99718500000000,Kg
@@ -2121,7 +2052,6 @@ Thailand,Export,Rice,2024,Cayman Islands,1104,20807,Kg
 Thailand,Export,Rice,2024,Estonia,602,2988,Kg
 Thailand,Export,Rice,2024,Marshall Islands,283,2400,Kg
 Thailand,Export,Rice,2024,Cook Islands,2,20,Kg
-Thailand,Export,Rice,2023,World,514734277,876904000000000,Kg
 Thailand,Export,Rice,2023,Indonesia,73241490,141141000000000,Kg
 Thailand,Export,Rice,2023,United States,66118727,75347800000000,Kg
 Thailand,Export,Rice,2023,South Africa,45675805,88695100000000,Kg
@@ -2279,7 +2209,6 @@ Thailand,Export,Rice,2023,Seychelles,11,100,Kg
 Thailand,Export,Rice,2023,Saint Maarten (Dutch part),1,1,Kg
 Thailand,Export,Rice,2023,Rwanda,0,402,Kg
 Thailand,Export,Rice,2023,Afghanistan,0,10,Kg
-Thailand,Export,Rice,2022,World,397786121,771024000000000,Kg
 Thailand,Export,Rice,2022,Iraq,65689739,160016000000000,Kg
 Thailand,Export,Rice,2022,United States,56310069,6944400000000,Kg
 Thailand,Export,Rice,2022,China,38598557,75229200000000,Kg
@@ -2427,7 +2356,6 @@ Thailand,Export,Rice,2022,Uganda,1076,25000,Kg
 Thailand,Export,Rice,2022,Estonia,652,3984,Kg
 Thailand,Export,Rice,2022,Panama,198,2400,Kg
 Thailand,Export,Rice,2022,Seychelles,167,2010,Kg
-Thailand,Export,Rice,2021,World,346341354,629668000000000,Kg
 Thailand,Export,Rice,2021,United States,52211522,60498900000000,Kg
 Thailand,Export,Rice,2021,South Africa,35098986,79287200000000,Kg
 Thailand,Export,Rice,2021,China,32850107,63275500000000,Kg
@@ -2567,7 +2495,6 @@ Thailand,Export,Rice,2021,Marshall Islands,1251,23063,Kg
 Thailand,Export,Rice,2021,Sri Lanka,400,4005,Kg
 Thailand,Export,Rice,2021,Estonia,356,1992,Kg
 Thailand,Export,Rice,2021,Seychelles,5,48,Kg
-Thailand,Export,Rice,2020,World,373142141,573406000000000,Kg
 Thailand,Export,Rice,2020,United States,71043621,69055300000000,Kg
 Thailand,Export,Rice,2020,South Africa,31903606,67277700000000,Kg
 Thailand,Export,Rice,2020,China,27258396,38136400000000,Kg
@@ -2719,7 +2646,6 @@ Thailand,Export,Rice,2020,"Serbia, FR(Serbia/Montenegro)",1213,25000,Kg
 Thailand,Export,Rice,2020,Cook Islands,2,20,Kg
 Thailand,Export,Rice,2020,Seychelles,0,4853,Kg
 Thailand,Export,Rice,2020,Luxembourg,0,74,Kg
-Thailand,Export,Rice,2019,World,420742009,758366000000000,Kg
 Thailand,Export,Rice,2019,United States,62418182,56214800000000,Kg
 Thailand,Export,Rice,2019,Benin,41450021,106658000000000,Kg
 Thailand,Export,Rice,2019,China,30309282,47133900000000,Kg
@@ -2872,7 +2798,6 @@ Thailand,Export,Rice,2019,Solomon Islands,1281,25000,Kg
 Thailand,Export,Rice,2019,Estonia,944,4980,Kg
 Thailand,Export,Rice,2019,Nepal,884,6640,Kg
 Thailand,Export,Rice,2019,Barbados,343,1976,Kg
-Thailand,Export,Rice,2018,World,561906070,110887010,Kg
 Thailand,Export,Rice,2018,Benin,62888233,160329000000000,Kg
 Thailand,Export,Rice,2018,China,55136093,100306000000000,Kg
 Thailand,Export,Rice,2018,United States,55124285,50807200000000,Kg
@@ -3032,7 +2957,6 @@ Thailand,Export,Rice,2018,Nepal,75,500,Kg
 Thailand,Export,Rice,2018,Bolivia,2,8,Kg
 Thailand,Export,Rice,2018,Malawi,1,1,Kg
 Thailand,Export,Rice,2018,Uruguay,0,1,Kg
-Thailand,Export,Rice,2017,World,518657016,116743010,Kg
 Thailand,Export,Rice,2017,Benin,68716996,181401000000000,Kg
 Thailand,Export,Rice,2017,China,57369572,120491000000000,Kg
 Thailand,Export,Rice,2017,United States,39739140,50522600000000,Kg
@@ -3188,7 +3112,6 @@ Thailand,Export,Rice,2017,Nepal,64,500,Kg
 Thailand,Export,Rice,2017,Saint Maarten (Dutch part),3,20,Kg
 Thailand,Export,Rice,2017,Burundi,1,330725,Kg
 Thailand,Export,Rice,2017,Uzbekistan,1,178968,Kg
-Thailand,Export,Rice,2016,World,440965284,990789000000000,Kg
 Thailand,Export,Rice,2016,Benin,52024618,14271000000000,Kg
 Thailand,Export,Rice,2016,China,47949917,103413000000000,Kg
 Thailand,Export,Rice,2016,United States,37709595,47252500000000,Kg
@@ -3342,7 +3265,6 @@ Thailand,Export,Rice,2016,Bermuda,0,1,Kg
 Thailand,Export,Rice,2016,Luxembourg,0,214744,Kg
 Thailand,Export,Rice,2016,Chad,0,214744,Kg
 Thailand,Export,Rice,2016,Slovak Republic,0,1,Kg
-Thailand,Export,Rice,2015,World,461291462,979578000000000,Kg
 Thailand,Export,Rice,2015,China,48008791,95836800000000,Kg
 Thailand,Export,Rice,2015,United States,41189250,43349800000000,Kg
 Thailand,Export,Rice,2015,Philippines,29825835,82108700000000,Kg
@@ -3497,7 +3419,6 @@ Thailand,Export,Rice,2015,Faeroe Islands,14,315,Kg
 Thailand,Export,Rice,2015,Uzbekistan,2,10,Kg
 Thailand,Export,Rice,2015,Panama,1,11,Kg
 Thailand,Export,Rice,2015,Romania,0,4,Kg
-Vietnam,Export,Rice,2023,World,437464650,774686000000000,Kg
 Vietnam,Export,Rice,2023,Philippines,175353740,312449000000000,Kg
 Vietnam,Export,Rice,2023,Indonesia,64025265,116582000000000,Kg
 Vietnam,Export,Rice,2023,China,53061411,92138300000000,Kg
@@ -3583,7 +3504,6 @@ Vietnam,Export,Rice,2023,Malta,2129,24000,Kg
 Vietnam,Export,Rice,2023,Algeria,1625,25000,Kg
 Vietnam,Export,Rice,2023,Tunisia,790,3000,Kg
 Vietnam,Export,Rice,2023,Uganda,238,11278,Kg
-Vietnam,Export,Rice,2022,World,319339171,656351000000000,Kg
 Vietnam,Export,Rice,2022,Philippines,149210724,321515000000000,Kg
 Vietnam,Export,Rice,2022,China,43231658,85094700000000,Kg
 Vietnam,Export,Rice,2022,Cote d'Ivoire,29460157,65636100000000,Kg
@@ -3666,7 +3586,6 @@ Vietnam,Export,Rice,2022,"Egypt, Arab Rep.",2207,22500,Kg
 Vietnam,Export,Rice,2022,Estonia,2129,26000,Kg
 Vietnam,Export,Rice,2022,Cyprus,1475,25000,Kg
 Vietnam,Export,Rice,2022,Uganda,128,99,Kg
-Vietnam,Export,Rice,2021,World,300626235,571167000000000,Kg
 Vietnam,Export,Rice,2021,Philippines,125208680,245664000000000,Kg
 Vietnam,Export,Rice,2021,China,52276193,105887000000000,Kg
 Vietnam,Export,Rice,2021,Ghana,39362878,67847900000000,Kg
@@ -3742,7 +3661,6 @@ Vietnam,Export,Rice,2021,Sri Lanka,1431,26500,Kg
 Vietnam,Export,Rice,2021,Cyprus,1413,16720,Kg
 Vietnam,Export,Rice,2021,Tunisia,635,3000,Kg
 Vietnam,Export,Rice,2021,Uruguay,170,2000,Kg
-Vietnam,Export,Rice,2020,World,279095139,563251000000000,Kg
 Vietnam,Export,Rice,2020,Philippines,107385254,223736000000000,Kg
 Vietnam,Export,Rice,2020,China,46497347,88910800000000,Kg
 Vietnam,Export,Rice,2020,Ghana,28224816,53075800000000,Kg
@@ -3822,7 +3740,6 @@ Vietnam,Export,Rice,2020,Colombia,1412,23999,Kg
 Vietnam,Export,Rice,2020,Finland,1408,16000,Kg
 Vietnam,Export,Rice,2020,Belarus,1320,24000,Kg
 Vietnam,Export,Rice,2020,Myanmar,73,151418,Kg
-Vietnam,Export,Rice,2019,World,243425248,546697000000000,Kg
 Vietnam,Export,Rice,2019,Philippines,88822434,21407000000000,Kg
 Vietnam,Export,Rice,2019,Cote d'Ivoire,25263305,5835800000000,Kg
 Vietnam,Export,Rice,2019,China,24039244,47712800000000,Kg
@@ -3901,7 +3818,6 @@ Vietnam,Export,Rice,2019,Malta,2384,43970,Kg
 Vietnam,Export,Rice,2019,Austria,1343,16650,Kg
 Vietnam,Export,Rice,2019,Belarus,1320,24000,Kg
 Vietnam,Export,Rice,2019,Cyprus,1020,20000,Kg
-Vietnam,Export,Rice,2018,World,262144020,289211000000000,Kg
 Vietnam,Export,Rice,2018,China,68336316,78631300000000,Kg
 Vietnam,Export,Rice,2018,Philippines,45812187,49039700000000,Kg
 Vietnam,Export,Rice,2018,Indonesia,36266304,38754200000000,Kg
@@ -3973,7 +3889,6 @@ Vietnam,Export,Rice,2018,Mexico,4900,520747,Kg
 Vietnam,Export,Rice,2018,Cyprus,2543,270257,Kg
 Vietnam,Export,Rice,2018,Uruguay,1650,175354,Kg
 Vietnam,Export,Rice,2018,"Egypt, Arab Rep.",1404,14921,Kg
-Vietnam,Export,Rice,2017,World,263458802,582051000000000,Kg
 Vietnam,Export,Rice,2017,China,102650265,228804000000000,Kg
 Vietnam,Export,Rice,2017,Philippines,22352529,55452700000000,Kg
 Vietnam,Export,Rice,2017,Unspecified,21902436,48438100000000,Kg
@@ -4081,7 +3996,6 @@ Vietnam,Export,Rice,2017,Finland,954,20000,Kg
 Vietnam,Export,Rice,2017,India,576,7000,Kg
 Vietnam,Export,Rice,2017,Argentina,400,5000,Kg
 Vietnam,Export,Rice,2017,Lao PDR,66,117361,Kg
-Vietnam,Export,Rice,2016,World,215997710,481119000000000,Kg
 Vietnam,Export,Rice,2016,China,78210666,173764000000000,Kg
 Vietnam,Export,Rice,2016,Ghana,23744111,48051600000000,Kg
 Vietnam,Export,Rice,2016,Unspecified,18730715,45058400000000,Kg
@@ -4194,7 +4108,6 @@ Vietnam,Export,Rice,2016,Switzerland,340,970,Kg
 Vietnam,Export,Rice,2016,Cyprus,305,2000,Kg
 Vietnam,Export,Rice,2016,Pakistan,123,2260,Kg
 Vietnam,Export,Rice,2016,Slovak Republic,26,430,Kg
-Vietnam,Export,Rice,2015,World,280790419,660308000000000,Kg
 Vietnam,Export,Rice,2015,China,86655072,212593000000000,Kg
 Vietnam,Export,Rice,2015,Philippines,46755348,114223000000000,Kg
 Vietnam,Export,Rice,2015,Indonesia,26672136,67302200000000,Kg
