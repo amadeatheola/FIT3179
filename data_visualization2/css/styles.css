@@ -11,7 +11,7 @@ body {
 }
 
 .page {
-  width: 950px;
+  width: max-width;
   background-color: white;
   margin: auto;
   padding: 50px;
@@ -24,6 +24,7 @@ body {
 
 .vis-container {
   width: 100%;
+  overflow-x: hidden; /* prevents horizontal bleeding */
 }
 
 .description h2,
@@ -77,6 +78,9 @@ h1 {
 .vis-container {
   opacity: 1;
   transition: opacity 0.3s ease-in-out;
+
+  padding: 10px;
+  background-color: white;
 }
 
 .fade-out {

@@ -1,10 +1,7 @@
 {
   "$schema": "https://vega.github.io/schema/vega/v6.json",
   "description": "Hoverable rice export flow map by year",
-  "width": 900,
-  "height": 560,
-  "autosize": "none",
-
+  "width": 1,
   "signals": [
     {
       "name": "Year",
@@ -43,6 +40,16 @@
   ],
 
   "data": [
+    {
+      "name": "oceans",
+      "url": "https://raw.githubusercontent.com/amadeatheola/FIT3179/main/data_visualization2/js/oceans.topojson",
+      "format": {"type": "topojson", "feature": "oceans"}
+    },
+    {
+      "name": "graticules",
+      "url": "https://raw.githubusercontent.com/amadeatheola/FIT3179/main/data_visualization2/js/WorldMapWithGraticules.topojson",
+        "format": {"type": "topojson", "feature": "ne_110m_graticules_30"}
+    },
     {
       "name": "countries",
       "url": "https://raw.githubusercontent.com/amadeatheola/FIT3179/main/data_visualization2/js/ne_110m_admin_0_countries.topojson",
@@ -110,6 +117,30 @@
   ],
 
   "marks": [
+    {
+      "type": "shape",
+      "from": { "data": "oceans" },
+      "encode": {
+        "enter": {
+          "fill": { "value": "#99d1ec" },
+          "stroke": { "value": null },
+          "strokeWidth": { "value": 0 }
+        }
+      },
+      "transform": [{ "type": "geoshape", "projection": "projection" }]
+    },
+    {
+      "type": "shape",
+      "from": { "data": "graticules" },
+      "encode": {
+        "enter": {
+          "fill": { "value": null },
+          "stroke": { "value": "#e6e6e6" },
+          "strokeWidth": { "value": 0.5 }
+        }
+      },
+      "transform": [{ "type": "geoshape", "projection": "projection" }]
+    },
     {
       "type": "shape",
       "from": { "data": "countries" },

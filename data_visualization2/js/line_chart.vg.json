@@ -4,7 +4,7 @@
   "data": {
     "url": "https://raw.githubusercontent.com/amadeatheola/FIT3179/main/data_visualization2/data/asean_rice_data.csv"
   },
-  "columns": 2,
+  "columns": 3,
   "transform": [
     {
       "fold": [
@@ -18,42 +18,87 @@
       "as": ["Metric", "Value"]
     },
     {
-        "calculate": "datum.Metric == 'Production' ? 'Rice Production (tonnes)' : datum.Metric == 'Total_Rice_Consumption' ? 'Total Rice Consumption (tonnes)' : datum.Metric == 'Yield' ? 'Yield (kg/ha)' : datum.Metric == 'ExportQuantity' ? 'Exports (tonnes)' : datum.Metric == 'ImportQuantity' ? 'Imports (tonnes)' : 'Self-Sufficiency Ratio (%)'",
-        "as": "MetricLabel"
+      "calculate": "datum.Metric == 'Production' ? 'Rice Production (tonnes)' : datum.Metric == 'Total_Rice_Consumption' ? 'Total Rice Consumption (tonnes)' : datum.Metric == 'Yield' ? 'Yield (kg/ha)' : datum.Metric == 'ExportQuantity' ? 'Exports (tonnes)' : datum.Metric == 'ImportQuantity' ? 'Imports (tonnes)' : 'Self-Sufficiency Ratio (%)'",
+      "as": "MetricLabel"
+    },
+    {
+      "calculate": "datum.Metric == 'ExportQuantity' ? 1 : datum.Metric == 'ImportQuantity' ? 2 : datum.Metric == 'Production' ? 3 : datum.Metric == 'SelfSufficiencyRatio' ? 4 : datum.Metric == 'Total_Rice_Consumption' ? 5 : 6",
+      "as": "MetricOrder"
     }
   ],
   "facet": {
     "field": "MetricLabel",
-    "type": "nominal",
-    "title": null
-  },
+  "type": "nominal",
+  "sort": {"field": "MetricOrder"},
+  "title": null },
   "spec": {
-    "width": 300,
-    "height": 200,
-    "mark": {"type": "line", "point": true},
+    "width": 500,
+    "height": 400,
+    "mark": {
+      "type": "line",
+      "point": true
+    },
     "encoding": {
       "x": {
         "field": "Year",
-        "type": "quantitative",
-        "axis": {"title": null}
+        "timeUnit": "year",
+        "axis": {
+          "title": null,
+          "labelAngle": 0
+        }
       },
       "y": {
         "field": "Value",
         "type": "quantitative",
-        "axis": {"title": null}
+        "axis": {
+          "title": null,
+          "format": "~s"
+        }
       },
       "color": {
         "field": "Country",
         "type": "nominal",
-        "legend": {"title": "Country"}
+        "scale": {
+              "domain": [
+                "Cambodia",
+                "Indonesia",
+                "Laos",
+                "Malaysia",
+                "Myanmar",
+                "Philippines",
+                "Thailand",
+                "Timor-Leste",
+                "Vietnam",
+                "World"
+              ],
+              "range": [
+                "#2a9d8f",  
+                "#e76f51",  
+                "#264653",  
+                "#f4a261",  
+                "#e9c46a",  
+                "#457b9d",  
+                "#8d99ae", 
+                "#d62828",  
+                "#f77f00",  
+                "#cccccc"   
+              ]
+            },
+        "legend": {
+          "title": "Country"
+        }
       },
       "tooltip": [
         {"field": "Country"},
         {"field": "Year"},
-        {"field": "Metric"},
-        {"field": "Value", "format": ".2f"}
+        {"field": "MetricLabel"},
+        {"field": "Value", "format": ",.2f"}
       ]
     }
   },
-  "resolve": {"scale": {"y": "independent"}}
+  "resolve": {
+    "scale": {
+      "y": "independent"
+    }
+  }
 }
