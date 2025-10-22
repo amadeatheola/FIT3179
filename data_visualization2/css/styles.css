@@ -6,8 +6,9 @@ h1 {
   font-weight: 900;
 }
 
-body {
+body p{
   background-color: lightgray;
+  font-size: 22px;
 }
 
 .page {
@@ -53,7 +54,7 @@ body {
 }
 
 .header p {
-  font-size: 20px;
+  font-size: 25px;
 }
 
 .title {
